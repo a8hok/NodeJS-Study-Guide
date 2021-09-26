@@ -1,2 +1,33 @@
 # NodeJS-interview
 NodeJS interview preparation
+
+## `Learn Nodejs`
+- [https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7](https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7)<br>
+## `Coding standards`
+- [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
+- [https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/](https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/)<br>
+- []()<br>
+
+## `NodeJS frameworks`
+- [https://devdojo.com/chapagainashik/stripe-checkout-with-nextjs](https://devdojo.com/chapagainashik/stripe-checkout-with-nextjs)<br>
+
+## `Performance Optimizations`
+- [https://blog.joshsoftware.com/2021/09/11/performance-optimizations-in-nodejs%F0%9F%92%81/](https://blog.joshsoftware.com/2021/09/11/performance-optimizations-in-nodejs%F0%9F%92%81/)<br>
+- []()<br>
+
+## `Nodejs Architecture`
+- [https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)<br>
+
+
+## `NodeJS with Typescript`
+- [https://towardsdev.com/creating-a-gateway-service-with-node-js-typescript-and-fastify-54cb9c17b0e1](https://towardsdev.com/creating-a-gateway-service-with-node-js-typescript-and-fastify-54cb9c17b0e1)<br>
+- [https://itnext.io/modern-node-part-1-architecting-and-scaffolding-a-typescript-express-api-22e87fee054c](https://itnext.io/modern-node-part-1-architecting-and-scaffolding-a-typescript-express-api-22e87fee054c)<br>
+
+## `Projects`
+- [https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d](https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d)<br>
+
+## `MERN`
+- [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
+
+## `Nodejs with Nginx`
+- [https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/](https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/)<br>
