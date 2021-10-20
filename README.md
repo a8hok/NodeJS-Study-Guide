@@ -40,6 +40,7 @@ Table of Contents
 
 ## `Projects`
 - [https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d](https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d)<br>
+- [https://dev.to/sm0ke/node-js-react-soft-dashboard-free-version-1k5g](https://dev.to/sm0ke/node-js-react-soft-dashboard-free-version-1k5g)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
@@ -49,3 +50,6 @@ Table of Contents
 
 ## `Nodejs Logging`
 - [https://blog.logrocket.com/comparing-node-js-logging-tools/](https://blog.logrocket.com/comparing-node-js-logging-tools/)<br>
+
+## `Tips and tricks`
+- [https://javascript.plainenglish.io/node-js-backend-engineers-best-practices-overview-for-beginner-to-advance-caae74b53df](https://javascript.plainenglish.io/node-js-backend-engineers-best-practices-overview-for-beginner-to-advance-caae74b53df)<br>
