@@ -5,6 +5,7 @@ Table of Contents
 =================
 
 * [NodeJS-interview](#nodejs-interview)
+* [Table of Contents](#table-of-contents)
    * [Learn Nodejs](#learn-nodejs)
    * [Coding standards](#coding-standards)
    * [NodeJS frameworks](#nodejs-frameworks)
@@ -15,6 +16,11 @@ Table of Contents
    * [MERN](#mern)
    * [Nodejs with Nginx](#nodejs-with-nginx)
    * [Nodejs Logging](#nodejs-logging)
+   * [Tips and tricks](#tips-and-tricks)
+   * [Micro services](#micro-services)
+   * [NodeJS pattern](#nodejs-pattern)
+   * [NextJS](#nextjs)
+   * [NodeJS cheetSheet](#nodejs-cheetsheet)
 
 ## `Learn Nodejs`
 - [https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7](https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7)<br>
