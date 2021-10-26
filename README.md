@@ -50,9 +50,22 @@ Table of Contents
 
 ## `Nodejs Logging`
 - [https://blog.logrocket.com/comparing-node-js-logging-tools/](https://blog.logrocket.com/comparing-node-js-logging-tools/)<br>
+- [https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html](https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html)<br>
+- []()<br>
 
 ## `Tips and tricks`
 - [https://javascript.plainenglish.io/node-js-backend-engineers-best-practices-overview-for-beginner-to-advance-caae74b53df](https://javascript.plainenglish.io/node-js-backend-engineers-best-practices-overview-for-beginner-to-advance-caae74b53df)<br>
+- [https://dzone.com/articles/creating-a-secure-rest-api-in-nodejs-1](https://dzone.com/articles/creating-a-secure-rest-api-in-nodejs-1)<br>
+- []()<br>
 
 ## `Micro services`
 - [https://fauna.com/blog/how-to-build-microservices-with-node-js](https://fauna.com/blog/how-to-build-microservices-with-node-js)<br>
+
+## `NodeJS pattern`
+- [https://dev.to/fyapy/repository-pattern-with-typescript-and-nodejs-25da](https://dev.to/fyapy/repository-pattern-with-typescript-and-nodejs-25da)<br>
+
+## `NextJS`
+- [https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/](https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/)<br>
+
+## `NodeJS cheetSheet`
+- [https://devdojo.com/devbookmark/the-nodejs-ultimate-beginner-to-pro-cheatsheet-in-2021](https://devdojo.com/devbookmark/the-nodejs-ultimate-beginner-to-pro-cheatsheet-in-2021)<br>
