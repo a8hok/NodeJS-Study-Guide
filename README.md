@@ -47,9 +47,13 @@ Table of Contents
 ## `Projects`
 - [https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d](https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d)<br>
 - [https://dev.to/sm0ke/node-js-react-soft-dashboard-free-version-1k5g](https://dev.to/sm0ke/node-js-react-soft-dashboard-free-version-1k5g)<br>
+- [https://towardsdatascience.com/building-a-real-time-web-app-in-nodejs-express-with-socket-io-library-d9b50aded6e6](https://towardsdatascience.com/building-a-real-time-web-app-in-nodejs-express-with-socket-io-library-d9b50aded6e6)<br>
+- [https://dev.to/koladev/authentication-and-authorization-with-jwts-in-node-expressjs-5a9a](https://dev.to/koladev/authentication-and-authorization-with-jwts-in-node-expressjs-5a9a)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
+- [https://dev.to/collins87mbathi/building-a-dating-app-with-mern-478h](https://dev.to/collins87mbathi/building-a-dating-app-with-mern-478h)<br>
+- []()<br>
 
 ## `Nodejs with Nginx`
 - [https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/](https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/)<br>
