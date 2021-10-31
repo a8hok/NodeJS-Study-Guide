@@ -43,6 +43,7 @@ Table of Contents
 ## `NodeJS with Typescript`
 - [https://towardsdev.com/creating-a-gateway-service-with-node-js-typescript-and-fastify-54cb9c17b0e1](https://towardsdev.com/creating-a-gateway-service-with-node-js-typescript-and-fastify-54cb9c17b0e1)<br>
 - [https://itnext.io/modern-node-part-1-architecting-and-scaffolding-a-typescript-express-api-22e87fee054c](https://itnext.io/modern-node-part-1-architecting-and-scaffolding-a-typescript-express-api-22e87fee054c)<br>
+- [https://dev.to/macmacky/get-better-with-typescript-using-express-3ik6](https://dev.to/macmacky/get-better-with-typescript-using-express-3ik6)<br>
 
 ## `Projects`
 - [https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d](https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d)<br>
