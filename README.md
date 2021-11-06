@@ -24,6 +24,8 @@ Table of Contents
 
 ## `Learn Nodejs`
 - [https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7](https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7)<br>
+- [https://dev.to/geraldmuvengei06/how-use-environment-variables-env-in-expressjs-3bpc](https://dev.to/geraldmuvengei06/how-use-environment-variables-env-in-expressjs-3bpc)<br>
+
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
 - [https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/](https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/)<br>
