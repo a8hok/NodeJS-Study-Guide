@@ -40,6 +40,7 @@ Table of Contents
 
 ## `Nodejs Architecture`
 - [https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)<br>
+- [https://dev.to/altamashali/deep-dive-into-nodejs-architecture-5190](https://dev.to/altamashali/deep-dive-into-nodejs-architecture-5190)<br>
 
 
 ## `NodeJS with Typescript`
