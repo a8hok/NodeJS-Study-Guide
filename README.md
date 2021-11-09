@@ -25,6 +25,9 @@ Table of Contents
 ## `Learn Nodejs`
 - [https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7](https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7)<br>
 - [https://dev.to/geraldmuvengei06/how-use-environment-variables-env-in-expressjs-3bpc](https://dev.to/geraldmuvengei06/how-use-environment-variables-env-in-expressjs-3bpc)<br>
+- [https://enlear.academy/nodejs-backpressuring-in-streams-52638f505e1b](https://enlear.academy/nodejs-backpressuring-in-streams-52638f505e1b)<br>
+- [https://blog.logrocket.com/creating-custom-repl-node-js/](https://blog.logrocket.com/creating-custom-repl-node-js/)<br>
+- [https://enlear.academy/reactjs-what-is-a-component-state-props-lifecycle-b2ed60adca1f](https://enlear.academy/reactjs-what-is-a-component-state-props-lifecycle-b2ed60adca1f)<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
@@ -47,6 +50,9 @@ Table of Contents
 - [https://towardsdev.com/creating-a-gateway-service-with-node-js-typescript-and-fastify-54cb9c17b0e1](https://towardsdev.com/creating-a-gateway-service-with-node-js-typescript-and-fastify-54cb9c17b0e1)<br>
 - [https://itnext.io/modern-node-part-1-architecting-and-scaffolding-a-typescript-express-api-22e87fee054c](https://itnext.io/modern-node-part-1-architecting-and-scaffolding-a-typescript-express-api-22e87fee054c)<br>
 - [https://dev.to/macmacky/get-better-with-typescript-using-express-3ik6](https://dev.to/macmacky/get-better-with-typescript-using-express-3ik6)<br>
+- [https://dev.to/nayanpatil1998/how-to-create-an-api-using-nodejs-express-and-typescript-89d](https://dev.to/nayanpatil1998/how-to-create-an-api-using-nodejs-express-and-typescript-89d)<br>
+- [https://vicman.hashnode.dev/setting-up-node-application-with-typescript](https://vicman.hashnode.dev/setting-up-node-application-with-typescript)<br>
+
 
 ## `Projects`
 - [https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d](https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d)<br>
