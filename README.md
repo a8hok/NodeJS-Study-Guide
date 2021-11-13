@@ -20,7 +20,7 @@ Table of Contents
    * [Micro services](#micro-services)
    * [NodeJS pattern](#nodejs-pattern)
    * [NextJS](#nextjs)
-   * [NodeJS cheetSheet](#nodejs-cheetsheet)
+   * [NodeJS cheatSheet](#nodejs-cheatsheet)
 
 ## `Learn Nodejs`
 - [https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7](https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7)<br>
@@ -28,6 +28,7 @@ Table of Contents
 - [https://enlear.academy/nodejs-backpressuring-in-streams-52638f505e1b](https://enlear.academy/nodejs-backpressuring-in-streams-52638f505e1b)<br>
 - [https://blog.logrocket.com/creating-custom-repl-node-js/](https://blog.logrocket.com/creating-custom-repl-node-js/)<br>
 - [https://enlear.academy/reactjs-what-is-a-component-state-props-lifecycle-b2ed60adca1f](https://enlear.academy/reactjs-what-is-a-component-state-props-lifecycle-b2ed60adca1f)<br>
+- [https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/](https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/)<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
@@ -87,5 +88,5 @@ Table of Contents
 ## `NextJS`
 - [https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/](https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/)<br>
 
-## `NodeJS cheetSheet`
+## `NodeJS cheatSheet`
 - [https://devdojo.com/devbookmark/the-nodejs-ultimate-beginner-to-pro-cheatsheet-in-2021](https://devdojo.com/devbookmark/the-nodejs-ultimate-beginner-to-pro-cheatsheet-in-2021)<br>
