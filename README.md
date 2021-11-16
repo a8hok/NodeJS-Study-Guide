@@ -61,6 +61,7 @@ Table of Contents
 - [https://towardsdatascience.com/building-a-real-time-web-app-in-nodejs-express-with-socket-io-library-d9b50aded6e6](https://towardsdatascience.com/building-a-real-time-web-app-in-nodejs-express-with-socket-io-library-d9b50aded6e6)<br>
 - [https://dev.to/koladev/authentication-and-authorization-with-jwts-in-node-expressjs-5a9a](https://dev.to/koladev/authentication-and-authorization-with-jwts-in-node-expressjs-5a9a)<br>
 - [https://devdojo.com/teri/how-to-build-a-web-scraper-with-nodejs](https://devdojo.com/teri/how-to-build-a-web-scraper-with-nodejs)<br>
+- [https://javascript.plainenglish.io/google-api-authentication-using-oauth2-0-and-passport-js-in-nodejs-7b2d9b73c513](https://javascript.plainenglish.io/google-api-authentication-using-oauth2-0-and-passport-js-in-nodejs-7b2d9b73c513)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
