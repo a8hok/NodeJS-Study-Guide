@@ -29,6 +29,7 @@ Table of Contents
 - [https://blog.logrocket.com/creating-custom-repl-node-js/](https://blog.logrocket.com/creating-custom-repl-node-js/)<br>
 - [https://enlear.academy/reactjs-what-is-a-component-state-props-lifecycle-b2ed60adca1f](https://enlear.academy/reactjs-what-is-a-component-state-props-lifecycle-b2ed60adca1f)<br>
 - [https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/](https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/)<br>
+- [https://www.javacodegeeks.com/session-management-in-node-js.html](https://www.javacodegeeks.com/session-management-in-node-js.html)<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
