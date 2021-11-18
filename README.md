@@ -30,6 +30,7 @@ Table of Contents
 - [https://enlear.academy/reactjs-what-is-a-component-state-props-lifecycle-b2ed60adca1f](https://enlear.academy/reactjs-what-is-a-component-state-props-lifecycle-b2ed60adca1f)<br>
 - [https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/](https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/)<br>
 - [https://www.javacodegeeks.com/session-management-in-node-js.html](https://www.javacodegeeks.com/session-management-in-node-js.html)<br>
+- [https://dev.to/altamashali/nodejs-event-loop-in-action-d5o](https://dev.to/altamashali/nodejs-event-loop-in-action-d5o)<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
@@ -67,6 +68,7 @@ Table of Contents
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
 - [https://dev.to/collins87mbathi/building-a-dating-app-with-mern-478h](https://dev.to/collins87mbathi/building-a-dating-app-with-mern-478h)<br>
+- [https://dev.to/ronyfr3/web-push-notification-using-react-and-node-js-oc9](https://dev.to/ronyfr3/web-push-notification-using-react-and-node-js-oc9)<br>
 - []()<br>
 
 ## `Nodejs with Nginx`
