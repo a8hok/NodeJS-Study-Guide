@@ -31,6 +31,8 @@ Table of Contents
 - [https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/](https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/)<br>
 - [https://www.javacodegeeks.com/session-management-in-node-js.html](https://www.javacodegeeks.com/session-management-in-node-js.html)<br>
 - [https://dev.to/altamashali/nodejs-event-loop-in-action-d5o](https://dev.to/altamashali/nodejs-event-loop-in-action-d5o)<br>
+- [https://dev.to/codesphere/getting-started-with-web-sockets-in-nodejs-49n0](https://dev.to/codesphere/getting-started-with-web-sockets-in-nodejs-49n0)<br>
+- []()<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
