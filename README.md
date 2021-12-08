@@ -84,6 +84,7 @@ Table of Contents
 ## `Tips and tricks`
 - [https://javascript.plainenglish.io/node-js-backend-engineers-best-practices-overview-for-beginner-to-advance-caae74b53df](https://javascript.plainenglish.io/node-js-backend-engineers-best-practices-overview-for-beginner-to-advance-caae74b53df)<br>
 - [https://dzone.com/articles/creating-a-secure-rest-api-in-nodejs-1](https://dzone.com/articles/creating-a-secure-rest-api-in-nodejs-1)<br>
+- [https://dev.to/amoled27/best-practices-for-nodejs-development-5ao5](https://dev.to/amoled27/best-practices-for-nodejs-development-5ao5)<br>
 - []()<br>
 
 ## `Micro services`
