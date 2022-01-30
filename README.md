@@ -16,6 +16,7 @@ Table of Contents
    * [MERN](#mern)
    * [Nodejs with Nginx](#nodejs-with-nginx)
    * [Nodejs Logging](#nodejs-logging)
+   * [Nodejs Error handling](#nodejs-error-handling)
    * [Tips and tricks](#tips-and-tricks)
    * [Micro services](#micro-services)
    * [NodeJS pattern](#nodejs-pattern)
@@ -49,6 +50,7 @@ Table of Contents
 ## `Nodejs Architecture`
 - [https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)<br>
 - [https://dev.to/altamashali/deep-dive-into-nodejs-architecture-5190](https://dev.to/altamashali/deep-dive-into-nodejs-architecture-5190)<br>
+- [https://betterprogramming.pub/clean-node-js-architecture-with-nestjs-and-typescript-34b9398d790f](https://betterprogramming.pub/clean-node-js-architecture-with-nestjs-and-typescript-34b9398d790f)<br>
 
 
 ## `NodeJS with Typescript`
@@ -79,6 +81,11 @@ Table of Contents
 ## `Nodejs Logging`
 - [https://blog.logrocket.com/comparing-node-js-logging-tools/](https://blog.logrocket.com/comparing-node-js-logging-tools/)<br>
 - [https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html](https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html)<br>
+- []()<br>
+
+## `Nodejs Error Handling`
+- [https://blog.logrocket.com/error-handling-node-js/](https://blog.logrocket.com/error-handling-node-js/)<br>
+- [https://medium.com/ovrsea/power-up-your-node-js-debugging-and-error-handling-with-the-new-error-cause-feature-4136c563126a](https://medium.com/ovrsea/power-up-your-node-js-debugging-and-error-handling-with-the-new-error-cause-feature-4136c563126a)<br>
 - []()<br>
 
 ## `Tips and tricks`
