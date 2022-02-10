@@ -4,7 +4,7 @@ NodeJS interview preparation
 Table of Contents
 =================
 
-* [NodeJS-interview](#nodejs-interview)
+ [NodeJS-interview](#nodejs-interview)
 * [Table of Contents](#table-of-contents)
    * [Learn Nodejs](#learn-nodejs)
    * [Coding standards](#coding-standards)
@@ -16,12 +16,12 @@ Table of Contents
    * [MERN](#mern)
    * [Nodejs with Nginx](#nodejs-with-nginx)
    * [Nodejs Logging](#nodejs-logging)
-   * [Nodejs Error handling](#nodejs-error-handling)
+   * [Nodejs Error Handling](#nodejs-error-handling)
    * [Tips and tricks](#tips-and-tricks)
    * [Micro services](#micro-services)
    * [NodeJS pattern](#nodejs-pattern)
-   * [NextJS](#nextjs)
    * [NodeJS cheatSheet](#nodejs-cheatsheet)
+   * [NodeJS Interview](#nodejs-interview-1)
 
 ## `Learn Nodejs`
 - [https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7](https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7)<br>
@@ -69,6 +69,14 @@ Table of Contents
 - [https://devdojo.com/teri/how-to-build-a-web-scraper-with-nodejs](https://devdojo.com/teri/how-to-build-a-web-scraper-with-nodejs)<br>
 - [https://javascript.plainenglish.io/google-api-authentication-using-oauth2-0-and-passport-js-in-nodejs-7b2d9b73c513](https://javascript.plainenglish.io/google-api-authentication-using-oauth2-0-and-passport-js-in-nodejs-7b2d9b73c513)<br>
 - [https://www.bezkoder.com/node-express-sequelize-postgresql/](https://www.bezkoder.com/node-express-sequelize-postgresql/)<br>
+- [https://kirablog.hashnode.dev/rest-api-using-nodejs](https://kirablog.hashnode.dev/rest-api-using-nodejs)<br>
+- [https://reactjsexample.com/docker-tutorial-nodejs-express-mongodb-react-redis-nginx/](https://reactjsexample.com/docker-tutorial-nodejs-express-mongodb-react-redis-nginx/)<br>
+- [https://blog.avneesh.tech/building-a-crud-api-with-nodejs-and-mongodb](https://blog.avneesh.tech/building-a-crud-api-with-nodejs-and-mongodb)<br>
+- [https://dev.to/nerdjfpb/how-to-build-simple-crud-restful-api-with-nodejs-expressjs-and-mongodb-in-2022-4756](https://dev.to/nerdjfpb/how-to-build-simple-crud-restful-api-with-nodejs-expressjs-and-mongodb-in-2022-4756)<br>
+- [https://reactjsexample.com/a-fullstack-web-application-built-using-mern-stack-mongodb-express-react-nodejs/](https://reactjsexample.com/a-fullstack-web-application-built-using-mern-stack-mongodb-express-react-nodejs/)<br>
+- [https://devdojo.com/usmanwrites/build-a-whatsapp-api-using-node-express](https://devdojo.com/usmanwrites/build-a-whatsapp-api-using-node-express)<br>
+- []()<br>
+
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
 - [https://dev.to/collins87mbathi/building-a-dating-app-with-mern-478h](https://dev.to/collins87mbathi/building-a-dating-app-with-mern-478h)<br>
@@ -101,11 +109,11 @@ Table of Contents
 ## `NodeJS pattern`
 - [https://dev.to/fyapy/repository-pattern-with-typescript-and-nodejs-25da](https://dev.to/fyapy/repository-pattern-with-typescript-and-nodejs-25da)<br>
 
-## `NextJS`
-- [https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/](https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/)<br>
-
 ## `NodeJS cheatSheet`
 - [https://devdojo.com/devbookmark/the-nodejs-ultimate-beginner-to-pro-cheatsheet-in-2021](https://devdojo.com/devbookmark/the-nodejs-ultimate-beginner-to-pro-cheatsheet-in-2021)<br>
 
 ## `NodeJS Interview`
 - [https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/](https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/)<br>
+
+## `NestJS`
+- [https://blog.logrocket.com/full-stack-app-tutorial-nestjs-react/](https://blog.logrocket.com/full-stack-app-tutorial-nestjs-react/)<br>
