@@ -94,6 +94,7 @@ Table of Contents
 ## `Nodejs Error Handling`
 - [https://blog.logrocket.com/error-handling-node-js/](https://blog.logrocket.com/error-handling-node-js/)<br>
 - [https://medium.com/ovrsea/power-up-your-node-js-debugging-and-error-handling-with-the-new-error-cause-feature-4136c563126a](https://medium.com/ovrsea/power-up-your-node-js-debugging-and-error-handling-with-the-new-error-cause-feature-4136c563126a)<br>
+- [https://blog.shiftleft.io/node-js-vulnerability-cheatsheet-447b0c9bdb99](https://blog.shiftleft.io/node-js-vulnerability-cheatsheet-447b0c9bdb99)<br>
 - []()<br>
 
 ## `Tips and tricks`
