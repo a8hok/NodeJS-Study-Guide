@@ -33,6 +33,7 @@ Table of Contents
 - [https://www.javacodegeeks.com/session-management-in-node-js.html](https://www.javacodegeeks.com/session-management-in-node-js.html)<br>
 - [https://dev.to/altamashali/nodejs-event-loop-in-action-d5o](https://dev.to/altamashali/nodejs-event-loop-in-action-d5o)<br>
 - [https://dev.to/codesphere/getting-started-with-web-sockets-in-nodejs-49n0](https://dev.to/codesphere/getting-started-with-web-sockets-in-nodejs-49n0)<br>
+- [https://blog.bitsrc.io/node-js-event-loop-and-multi-threading-e42e5fd16a77](https://blog.bitsrc.io/node-js-event-loop-and-multi-threading-e42e5fd16a77)<br>
 - []()<br>
 
 ## `Coding standards`
