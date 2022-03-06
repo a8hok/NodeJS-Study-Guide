@@ -34,7 +34,7 @@ Table of Contents
 - [https://dev.to/altamashali/nodejs-event-loop-in-action-d5o](https://dev.to/altamashali/nodejs-event-loop-in-action-d5o)<br>
 - [https://dev.to/codesphere/getting-started-with-web-sockets-in-nodejs-49n0](https://dev.to/codesphere/getting-started-with-web-sockets-in-nodejs-49n0)<br>
 - [https://blog.bitsrc.io/node-js-event-loop-and-multi-threading-e42e5fd16a77](https://blog.bitsrc.io/node-js-event-loop-and-multi-threading-e42e5fd16a77)<br>
-- []()<br>
+- [https://dev.to/nickytonline/what-are-your-go-to-nodejs-resources-3mma](https://dev.to/nickytonline/what-are-your-go-to-nodejs-resources-3mma)<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
