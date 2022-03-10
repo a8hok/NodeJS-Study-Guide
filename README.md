@@ -103,7 +103,7 @@ Table of Contents
 - [https://dzone.com/articles/creating-a-secure-rest-api-in-nodejs-1](https://dzone.com/articles/creating-a-secure-rest-api-in-nodejs-1)<br>
 - [https://dev.to/amoled27/best-practices-for-nodejs-development-5ao5](https://dev.to/amoled27/best-practices-for-nodejs-development-5ao5)<br>
 - [https://faun.pub/best-practices-for-better-restful-api-a54b4e374cab](https://faun.pub/best-practices-for-better-restful-api-a54b4e374cab)<br>
-- []()<br>
+- [https://blog.appsignal.com/2022/03/09/a-complete-guide-to-nodejs-process-management-with-pm2.html](https://blog.appsignal.com/2022/03/09/a-complete-guide-to-nodejs-process-management-with-pm2.html)<br>
 
 ## `Micro services`
 - [https://fauna.com/blog/how-to-build-microservices-with-node-js](https://fauna.com/blog/how-to-build-microservices-with-node-js)<br>
