@@ -76,7 +76,7 @@ Table of Contents
 - [https://dev.to/nerdjfpb/how-to-build-simple-crud-restful-api-with-nodejs-expressjs-and-mongodb-in-2022-4756](https://dev.to/nerdjfpb/how-to-build-simple-crud-restful-api-with-nodejs-expressjs-and-mongodb-in-2022-4756)<br>
 - [https://reactjsexample.com/a-fullstack-web-application-built-using-mern-stack-mongodb-express-react-nodejs/](https://reactjsexample.com/a-fullstack-web-application-built-using-mern-stack-mongodb-express-react-nodejs/)<br>
 - [https://devdojo.com/usmanwrites/build-a-whatsapp-api-using-node-express](https://devdojo.com/usmanwrites/build-a-whatsapp-api-using-node-express)<br>
-- []()<br>
+- [https://redis.com/blog/how-to-build-a-music-sharing-app-using-nodejs-and-redis/](https://redis.com/blog/how-to-build-a-music-sharing-app-using-nodejs-and-redis/)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
