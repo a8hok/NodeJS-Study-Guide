@@ -36,6 +36,7 @@ Table of Contents
 - [https://blog.bitsrc.io/node-js-event-loop-and-multi-threading-e42e5fd16a77](https://blog.bitsrc.io/node-js-event-loop-and-multi-threading-e42e5fd16a77)<br>
 - [https://dev.to/nickytonline/what-are-your-go-to-nodejs-resources-3mma](https://dev.to/nickytonline/what-are-your-go-to-nodejs-resources-3mma)<br>
 - [https://helewud.com/how-to-build-an-authorization-system-with-jwt-using-nodejs](https://helewud.com/how-to-build-an-authorization-system-with-jwt-using-nodejs)
+- [https://devdojo.com/dastasoft/intro-to-mongodb-and-mongoose-how-every-web-developer-can-become-fullstack-with-nodejs](https://devdojo.com/dastasoft/intro-to-mongodb-and-mongoose-how-every-web-developer-can-become-fullstack-with-nodejs)
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
