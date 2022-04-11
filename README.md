@@ -37,6 +37,7 @@ Table of Contents
 - [https://dev.to/nickytonline/what-are-your-go-to-nodejs-resources-3mma](https://dev.to/nickytonline/what-are-your-go-to-nodejs-resources-3mma)<br>
 - [https://helewud.com/how-to-build-an-authorization-system-with-jwt-using-nodejs](https://helewud.com/how-to-build-an-authorization-system-with-jwt-using-nodejs)
 - [https://devdojo.com/dastasoft/intro-to-mongodb-and-mongoose-how-every-web-developer-can-become-fullstack-with-nodejs](https://devdojo.com/dastasoft/intro-to-mongodb-and-mongoose-how-every-web-developer-can-become-fullstack-with-nodejs)
+- [https://towardsdev.com/node-js-event-loop-3ee5b841adda](https://towardsdev.com/node-js-event-loop-3ee5b841adda)<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
