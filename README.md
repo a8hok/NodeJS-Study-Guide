@@ -38,6 +38,7 @@ Table of Contents
 - [https://helewud.com/how-to-build-an-authorization-system-with-jwt-using-nodejs](https://helewud.com/how-to-build-an-authorization-system-with-jwt-using-nodejs)
 - [https://devdojo.com/dastasoft/intro-to-mongodb-and-mongoose-how-every-web-developer-can-become-fullstack-with-nodejs](https://devdojo.com/dastasoft/intro-to-mongodb-and-mongoose-how-every-web-developer-can-become-fullstack-with-nodejs)
 - [https://towardsdev.com/node-js-event-loop-3ee5b841adda](https://towardsdev.com/node-js-event-loop-3ee5b841adda)<br>
+- [https://mudit.hashnode.dev/backend-development-is-not-hard](https://mudit.hashnode.dev/backend-development-is-not-hard)<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
