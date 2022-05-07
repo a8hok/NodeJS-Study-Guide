@@ -39,6 +39,7 @@ Table of Contents
 - [https://devdojo.com/dastasoft/intro-to-mongodb-and-mongoose-how-every-web-developer-can-become-fullstack-with-nodejs](https://devdojo.com/dastasoft/intro-to-mongodb-and-mongoose-how-every-web-developer-can-become-fullstack-with-nodejs)
 - [https://towardsdev.com/node-js-event-loop-3ee5b841adda](https://towardsdev.com/node-js-event-loop-3ee5b841adda)<br>
 - [https://mudit.hashnode.dev/backend-development-is-not-hard](https://mudit.hashnode.dev/backend-development-is-not-hard)<br>
+- [https://blog.devgenius.io/node-js-modeling-relationalship-between-connected-data-mongodb-9dc208a950e6](https://blog.devgenius.io/node-js-modeling-relationalship-between-connected-data-mongodb-9dc208a950e6)<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
