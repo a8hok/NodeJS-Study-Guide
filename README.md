@@ -112,6 +112,7 @@ Table of Contents
 - [https://dev.to/amoled27/best-practices-for-nodejs-development-5ao5](https://dev.to/amoled27/best-practices-for-nodejs-development-5ao5)<br>
 - [https://faun.pub/best-practices-for-better-restful-api-a54b4e374cab](https://faun.pub/best-practices-for-better-restful-api-a54b4e374cab)<br>
 - [https://blog.appsignal.com/2022/03/09/a-complete-guide-to-nodejs-process-management-with-pm2.html](https://blog.appsignal.com/2022/03/09/a-complete-guide-to-nodejs-process-management-with-pm2.html)<br>
+- [https://dev.to/imaroof07/an-ideal-rest-api-best-practices-4k89](https://dev.to/imaroof07/an-ideal-rest-api-best-practices-4k89)<br>
 
 ## `Micro services`
 - [https://fauna.com/blog/how-to-build-microservices-with-node-js](https://fauna.com/blog/how-to-build-microservices-with-node-js)<br>
