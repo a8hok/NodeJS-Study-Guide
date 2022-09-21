@@ -58,6 +58,7 @@ Table of Contents
 - [https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)<br>
 - [https://dev.to/altamashali/deep-dive-into-nodejs-architecture-5190](https://dev.to/altamashali/deep-dive-into-nodejs-architecture-5190)<br>
 - [https://betterprogramming.pub/clean-node-js-architecture-with-nestjs-and-typescript-34b9398d790f](https://betterprogramming.pub/clean-node-js-architecture-with-nestjs-and-typescript-34b9398d790f)<br>
+- [https://malikatique.medium.com/node-js-code-architecture-for-scalable-projects-bc0b5f2da74a](https://malikatique.medium.com/node-js-code-architecture-for-scalable-projects-bc0b5f2da74a)<br>
 
 
 ## `NodeJS with Typescript`
