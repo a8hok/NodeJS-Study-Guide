@@ -60,6 +60,7 @@ Table of Contents
 - [https://dev.to/altamashali/deep-dive-into-nodejs-architecture-5190](https://dev.to/altamashali/deep-dive-into-nodejs-architecture-5190)<br>
 - [https://betterprogramming.pub/clean-node-js-architecture-with-nestjs-and-typescript-34b9398d790f](https://betterprogramming.pub/clean-node-js-architecture-with-nestjs-and-typescript-34b9398d790f)<br>
 - [https://malikatique.medium.com/node-js-code-architecture-for-scalable-projects-bc0b5f2da74a](https://malikatique.medium.com/node-js-code-architecture-for-scalable-projects-bc0b5f2da74a)<br>
+- [https://blog.lorensr.me/building-reliable-distributed-systems-in-node-aff92fa45ad8](https://blog.lorensr.me/building-reliable-distributed-systems-in-node-aff92fa45ad8)<br>
 
 
 ## `NodeJS with Typescript`
