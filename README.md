@@ -89,6 +89,7 @@ Table of Contents
 - [https://towardsdev.com/creating-a-nodejs-restful-api-without-expressjs-part-1-123933e7141a](https://towardsdev.com/creating-a-nodejs-restful-api-without-expressjs-part-1-123933e7141a)<br>
 - [https://www.freecodecamp.org/news/build-a-realtime-chat-app-with-react-express-socketio-and-harperdb/](https://www.freecodecamp.org/news/build-a-realtime-chat-app-with-react-express-socketio-and-harperdb/)<br>
 - [https://www.telerik.com/blogs/modern-apis-fastify-node](https://www.telerik.com/blogs/modern-apis-fastify-node)<br>
+- [https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-1-52bo](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-1-52bo)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
