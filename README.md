@@ -92,6 +92,7 @@ Table of Contents
 - [https://www.telerik.com/blogs/modern-apis-fastify-node](https://www.telerik.com/blogs/modern-apis-fastify-node)<br>
 - [https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-1-52bo](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-1-52bo)<br>
 - [https://hackernoon.com/building-a-simple-telegram-bot-with-nodejs-and-grammy?source=rss](https://hackernoon.com/building-a-simple-telegram-bot-with-nodejs-and-grammy?source=rss)<br>
+- [https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/](https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
