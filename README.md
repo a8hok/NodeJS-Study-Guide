@@ -62,6 +62,7 @@ Table of Contents
 - [https://betterprogramming.pub/clean-node-js-architecture-with-nestjs-and-typescript-34b9398d790f](https://betterprogramming.pub/clean-node-js-architecture-with-nestjs-and-typescript-34b9398d790f)<br>
 - [https://malikatique.medium.com/node-js-code-architecture-for-scalable-projects-bc0b5f2da74a](https://malikatique.medium.com/node-js-code-architecture-for-scalable-projects-bc0b5f2da74a)<br>
 - [https://blog.lorensr.me/building-reliable-distributed-systems-in-node-aff92fa45ad8](https://blog.lorensr.me/building-reliable-distributed-systems-in-node-aff92fa45ad8)<br>
+- [https://temporal.io/blog/building-reliable-distributed-systems-in-node](https://temporal.io/blog/building-reliable-distributed-systems-in-node)<br>
 
 
 ## `NodeJS with Typescript`
