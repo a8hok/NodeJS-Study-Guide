@@ -44,6 +44,7 @@ Table of Contents
 - [https://medium.com/@gustavoinzunza/how-to-set-up-node-and-tailwind-with-docker-step-by-step-e40a4cff05b3](https://medium.com/@gustavoinzunza/how-to-set-up-node-and-tailwind-with-docker-step-by-step-e40a4cff05b3)<br>
 - [https://towardsdev.com/await-without-async-in-nodejs-2af573c81aa2](https://towardsdev.com/await-without-async-in-nodejs-2af573c81aa2)<br>
 - [https://towardsdev.com/package-json-package-lock-json-1ea34560f555](https://towardsdev.com/package-json-package-lock-json-1ea34560f555)<br>
+- [https://www.freecodecamp.org/news/apis-for-beginners/](https://www.freecodecamp.org/news/apis-for-beginners/)<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
