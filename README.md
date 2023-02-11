@@ -96,6 +96,7 @@ Table of Contents
 - [https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-1-52bo](https://dev.to/permify/build-a-team-permissions-system-in-nodejs-app-using-auth0-and-permify-part-1-52bo)<br>
 - [https://hackernoon.com/building-a-simple-telegram-bot-with-nodejs-and-grammy?source=rss](https://hackernoon.com/building-a-simple-telegram-bot-with-nodejs-and-grammy?source=rss)<br>
 - [https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/](https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/)<br>
+- [https://dzone.com/articles/your-go-to-guide-to-develop-cryptocurrency-blockch](https://dzone.com/articles/your-go-to-guide-to-develop-cryptocurrency-blockch)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
