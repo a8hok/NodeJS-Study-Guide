@@ -141,6 +141,7 @@ Table of Contents
 - [https://blog.logrocket.com/full-stack-app-tutorial-nestjs-react/](https://blog.logrocket.com/full-stack-app-tutorial-nestjs-react/)<br>
 - [https://dev.to/fekabas/learning-to-build-an-api-in-nestjs-node-typescript-3i1o](https://dev.to/fekabas/learning-to-build-an-api-in-nestjs-node-typescript-3i1o)<br>
 - [https://www.paulsblog.dev/use-nestjs-mongodb-and-docker-to-create-an-url-shortener/](https://www.paulsblog.dev/use-nestjs-mongodb-and-docker-to-create-an-url-shortener/)<br>
+- [https://hackernoon.com/5-steps-for-dockerizing-nestjs-with-prisma?source=rss](https://hackernoon.com/5-steps-for-dockerizing-nestjs-with-prisma?source=rss)<br>
 
 ## `NodeJS Unit testing`
 - [https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic](https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic)
