@@ -45,6 +45,7 @@ Table of Contents
 - [https://towardsdev.com/await-without-async-in-nodejs-2af573c81aa2](https://towardsdev.com/await-without-async-in-nodejs-2af573c81aa2)<br>
 - [https://towardsdev.com/package-json-package-lock-json-1ea34560f555](https://towardsdev.com/package-json-package-lock-json-1ea34560f555)<br>
 - [https://www.freecodecamp.org/news/apis-for-beginners/](https://www.freecodecamp.org/news/apis-for-beginners/)<br>
+- [https://www.freecodecamp.org/news/message-queues-in-distributed-systesms/](https://www.freecodecamp.org/news/message-queues-in-distributed-systesms/)<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
