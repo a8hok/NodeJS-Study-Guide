@@ -47,6 +47,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/apis-for-beginners/](https://www.freecodecamp.org/news/apis-for-beginners/)<br>
 - [https://www.freecodecamp.org/news/message-queues-in-distributed-systesms/](https://www.freecodecamp.org/news/message-queues-in-distributed-systesms/)<br>
 - [https://mojoauth.com/blog/best-practices-for-jwt-tokens/](https://mojoauth.com/blog/best-practices-for-jwt-tokens/)<br>
+- [https://latesthackingnews.com/2023/02/23/top-7-reasons-why-use-node-js-in-your-next-web-development-project/](https://latesthackingnews.com/2023/02/23/top-7-reasons-why-use-node-js-in-your-next-web-development-project/)<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
