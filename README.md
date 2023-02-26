@@ -166,3 +166,4 @@ Table of Contents
 
 ## API practices
 - [https://mojoauth.com/blog/rest-api-authentication/](https://mojoauth.com/blog/rest-api-authentication/)<br>
+- [https://nerdleveltech.com/a-full-guide-understand-everything-about-apis-with-examples/](https://nerdleveltech.com/a-full-guide-understand-everything-about-apis-with-examples/)<br>
