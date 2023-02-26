@@ -141,6 +141,7 @@ Table of Contents
 ## `NodeJS pattern`
 - [https://dev.to/fyapy/repository-pattern-with-typescript-and-nodejs-25da](https://dev.to/fyapy/repository-pattern-with-typescript-and-nodejs-25da)<br>
 - [https://itnext.io/decoupling-the-crazy-taming-your-application-services-with-pub-sub-outbox-patterns-and-nodejs-9b00b47de373](https://itnext.io/decoupling-the-crazy-taming-your-application-services-with-pub-sub-outbox-patterns-and-nodejs-9b00b47de373)<br>
+- [https://www.codeflashbacks.com/announcing-the-enterprise-node-js-service-template/](https://www.codeflashbacks.com/announcing-the-enterprise-node-js-service-template/)<br>
 
 ## `NodeJS cheatSheet`
 - [https://devdojo.com/devbookmark/the-nodejs-ultimate-beginner-to-pro-cheatsheet-in-2021](https://devdojo.com/devbookmark/the-nodejs-ultimate-beginner-to-pro-cheatsheet-in-2021)<br>
