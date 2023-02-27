@@ -1,5 +1,4 @@
-# NodeJS-interview
-NodeJS interview preparation
+# NodeJS Interview Preparation Links
 
 Table of Contents
 =================
