@@ -4,7 +4,7 @@ NodeJS interview preparation
 Table of Contents
 =================
 
- [NodeJS-interview](#nodejs-interview)
+* [NodeJS-interview](#nodejs-interview)
 * [Table of Contents](#table-of-contents)
    * [Learn Nodejs](#learn-nodejs)
    * [Coding standards](#coding-standards)
@@ -22,6 +22,11 @@ Table of Contents
    * [NodeJS pattern](#nodejs-pattern)
    * [NodeJS cheatSheet](#nodejs-cheatsheet)
    * [NodeJS Interview](#nodejs-interview-1)
+   * [NestJS](#nestjs)
+   * [NodeJS Unit testing](#nodejs-unit-testing)
+   * [NodeJS with Typescript](#nodejs-with-typescript-1)
+   * [NodeJS best practices](#nodejs-best-practices)
+   * [API practices](#api-practices)
 
 ## `Learn Nodejs`
 - [https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7](https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7)<br>
