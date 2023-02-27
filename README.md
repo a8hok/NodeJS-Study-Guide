@@ -4,8 +4,6 @@ NodeJS interview preparation
 Table of Contents
 =================
 
-* [NodeJS-interview](#nodejs-interview)
-* [Table of Contents](#table-of-contents)
    * [Learn Nodejs](#learn-nodejs)
    * [Coding standards](#coding-standards)
    * [NodeJS frameworks](#nodejs-frameworks)
