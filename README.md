@@ -174,3 +174,4 @@ Table of Contents
 - [https://mojoauth.com/blog/rest-api-authentication/](https://mojoauth.com/blog/rest-api-authentication/)<br>
 - [https://nerdleveltech.com/a-full-guide-understand-everything-about-apis-with-examples/](https://nerdleveltech.com/a-full-guide-understand-everything-about-apis-with-examples/)<br>
 - [https://blog.logrocket.com/communicating-between-node-js-microservices-with-grpc/](https://blog.logrocket.com/communicating-between-node-js-microservices-with-grpc/)<br>
+- [https://www.strongdm.com/blog/api-security](https://www.strongdm.com/blog/api-security)<br>
