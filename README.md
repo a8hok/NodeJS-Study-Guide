@@ -52,6 +52,7 @@ Table of Contents
 - [https://latesthackingnews.com/2023/02/23/top-7-reasons-why-use-node-js-in-your-next-web-development-project/](https://latesthackingnews.com/2023/02/23/top-7-reasons-why-use-node-js-in-your-next-web-development-project/)<br>
 - [https://snyk.io/blog/node-js-multithreading-worker-threads-pros-cons/](https://snyk.io/blog/node-js-multithreading-worker-threads-pros-cons/)<br>
 - [https://www.builder.io/blog/nodejs-module-exports-vs-exports](https://www.builder.io/blog/nodejs-module-exports-vs-exports)<br>
+- [https://javascript.plainenglish.io/nodejs-developer-roadmap-2023-4e2fccc0ff54](https://javascript.plainenglish.io/nodejs-developer-roadmap-2023-4e2fccc0ff54)<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
