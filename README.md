@@ -60,6 +60,7 @@ Table of Contents
 
 ## `NodeJS frameworks`
 - [https://devdojo.com/chapagainashik/stripe-checkout-with-nextjs](https://devdojo.com/chapagainashik/stripe-checkout-with-nextjs)<br>
+- [https://snyk.io/blog/comparing-node-js-web-frameworks/](https://snyk.io/blog/comparing-node-js-web-frameworks/)<br>
 
 ## `Performance Optimizations`
 - [https://blog.joshsoftware.com/2021/09/11/performance-optimizations-in-nodejs%F0%9F%92%81/](https://blog.joshsoftware.com/2021/09/11/performance-optimizations-in-nodejs%F0%9F%92%81/)<br>
