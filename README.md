@@ -110,6 +110,7 @@ Table of Contents
 - [https://dzone.com/articles/your-go-to-guide-to-develop-cryptocurrency-blockch](https://dzone.com/articles/your-go-to-guide-to-develop-cryptocurrency-blockch)<br>
 - [https://dev.to/francescoxx/build-a-crud-rest-api-in-javascript-using-nodejs-express-postgres-docker-jkb](https://dev.to/francescoxx/build-a-crud-rest-api-in-javascript-using-nodejs-express-postgres-docker-jkb)<br>
 - [https://blog.erickwendel.com.br/implementing-the-websocket-protocol-from-scratch-using-nodejs](https://blog.erickwendel.com.br/implementing-the-websocket-protocol-from-scratch-using-nodejs)<br>
+- [https://deno.com/blog/build-api-express-typescript](https://deno.com/blog/build-api-express-typescript)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
