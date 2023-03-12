@@ -182,3 +182,4 @@ Table of Contents
 - [https://www.strongdm.com/blog/api-security](https://www.strongdm.com/blog/api-security)<br>
 - [https://blog.bytebytego.com/p/ep49-api-architectural-styles](https://blog.bytebytego.com/p/ep49-api-architectural-styles)<br>
 - [https://blog.logrocket.com/using-helmet-node-js-secure-application/](https://blog.logrocket.com/using-helmet-node-js-secure-application/)<br>
+- [https://cerbos.dev/blog/should-you-choose-grpc-over-rest-when-designing-your-apis](https://cerbos.dev/blog/should-you-choose-grpc-over-rest-when-designing-your-apis)<br>
