@@ -167,6 +167,7 @@ Table of Contents
 - [https://dev.to/krtirtho/nestjs-the-framework-of-nodejs-part-3-database-integration-typeorm-4gab](https://dev.to/krtirtho/nestjs-the-framework-of-nodejs-part-3-database-integration-typeorm-4gab)<br>
 - [https://faun.pub/nodejs-framework-express-vs-nestjs-which-one-will-work-best-for-your-project-bb0131c5cd83](https://faun.pub/nodejs-framework-express-vs-nestjs-which-one-will-work-best-for-your-project-bb0131c5cd83)<br>
 - [https://blog.logrocket.com/build-project-using-angular-nestjs/](https://blog.logrocket.com/build-project-using-angular-nestjs/)<br>
+- [https://blog.logrocket.com/understanding-guards-nestjs/](https://blog.logrocket.com/understanding-guards-nestjs/)<br>
 
 ## `NodeJS Unit testing`
 - [https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic](https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic)
