@@ -53,6 +53,7 @@ Table of Contents
 - [https://snyk.io/blog/node-js-multithreading-worker-threads-pros-cons/](https://snyk.io/blog/node-js-multithreading-worker-threads-pros-cons/)<br>
 - [https://www.builder.io/blog/nodejs-module-exports-vs-exports](https://www.builder.io/blog/nodejs-module-exports-vs-exports)<br>
 - [https://javascript.plainenglish.io/nodejs-developer-roadmap-2023-4e2fccc0ff54](https://javascript.plainenglish.io/nodejs-developer-roadmap-2023-4e2fccc0ff54)<br>
+- [https://betterprogramming.pub/execution-types-models-in-node-js-46f70d71abb](https://betterprogramming.pub/execution-types-models-in-node-js-46f70d71abb)<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
