@@ -168,6 +168,7 @@ Table of Contents
 - [https://faun.pub/nodejs-framework-express-vs-nestjs-which-one-will-work-best-for-your-project-bb0131c5cd83](https://faun.pub/nodejs-framework-express-vs-nestjs-which-one-will-work-best-for-your-project-bb0131c5cd83)<br>
 - [https://blog.logrocket.com/build-project-using-angular-nestjs/](https://blog.logrocket.com/build-project-using-angular-nestjs/)<br>
 - [https://blog.logrocket.com/understanding-guards-nestjs/](https://blog.logrocket.com/understanding-guards-nestjs/)<br>
+- [https://planetscale.com/blog/build-a-user-management-api-with-nestjs-mysql](https://planetscale.com/blog/build-a-user-management-api-with-nestjs-mysql)<br>
 
 ## `NodeJS Unit testing`
 - [https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic](https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic)
