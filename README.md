@@ -69,6 +69,7 @@ Table of Contents
 - [https://blog.devgenius.io/5-tips-to-speed-up-your-node-js-performance-1166451308b4](https://blog.devgenius.io/5-tips-to-speed-up-your-node-js-performance-1166451308b4)<br>
 - [https://www.digitalocean.com/community/tutorials/how-to-scale-node-js-applications-with-clustering](https://www.digitalocean.com/community/tutorials/how-to-scale-node-js-applications-with-clustering)<br>
 - [https://devhoangkien.com/interview-questions-related-to-optimizing-application-performance-in-node-js-40ad0aea91d](https://devhoangkien.com/interview-questions-related-to-optimizing-application-performance-in-node-js-40ad0aea91d)<br>
+- [https://medium.com/@codeeverywhere/5-tips-to-speed-up-your-node-js-performance-8977153490c1](https://medium.com/@codeeverywhere/5-tips-to-speed-up-your-node-js-performance-8977153490c1)<br>
 
 ## `Nodejs Architecture`
 - [https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)<br>
