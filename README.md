@@ -54,6 +54,7 @@ Table of Contents
 - [https://www.builder.io/blog/nodejs-module-exports-vs-exports](https://www.builder.io/blog/nodejs-module-exports-vs-exports)<br>
 - [https://javascript.plainenglish.io/nodejs-developer-roadmap-2023-4e2fccc0ff54](https://javascript.plainenglish.io/nodejs-developer-roadmap-2023-4e2fccc0ff54)<br>
 - [https://betterprogramming.pub/execution-types-models-in-node-js-46f70d71abb](https://betterprogramming.pub/execution-types-models-in-node-js-46f70d71abb)<br>
+- [https://blog.francescociulla.com/nodejs-development-setup](https://blog.francescociulla.com/nodejs-development-setup)<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
