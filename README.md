@@ -180,6 +180,7 @@ Table of Contents
 
 ## NodeJS best practices
 - [https://systemweakness.com/why-helmet-js-is-essential-for-securing-your-express-js-application-416e0044fc2](https://systemweakness.com/why-helmet-js-is-essential-for-securing-your-express-js-application-416e0044fc2)<br>
+- [https://blog.javascripttoday.com/blog/node-js-server-vulnerabilities/](https://blog.javascripttoday.com/blog/node-js-server-vulnerabilities/)<br>
 
 ## API practices
 - [https://mojoauth.com/blog/rest-api-authentication/](https://mojoauth.com/blog/rest-api-authentication/)<br>
