@@ -172,6 +172,8 @@ Table of Contents
 - [https://blog.logrocket.com/build-project-using-angular-nestjs/](https://blog.logrocket.com/build-project-using-angular-nestjs/)<br>
 - [https://blog.logrocket.com/understanding-guards-nestjs/](https://blog.logrocket.com/understanding-guards-nestjs/)<br>
 - [https://planetscale.com/blog/build-a-user-management-api-with-nestjs-mysql](https://planetscale.com/blog/build-a-user-management-api-with-nestjs-mysql)<br>
+- [https://blog.logrocket.com/exploring-nestjs-middleware-benefits-use-cases/](https://blog.logrocket.com/exploring-nestjs-middleware-benefits-use-cases/)<br>
+
 
 ## `NodeJS Unit testing`
 - [https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic](https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic)
