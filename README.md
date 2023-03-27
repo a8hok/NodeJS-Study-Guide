@@ -56,6 +56,7 @@ Table of Contents
 - [https://betterprogramming.pub/execution-types-models-in-node-js-46f70d71abb](https://betterprogramming.pub/execution-types-models-in-node-js-46f70d71abb)<br>
 - [https://blog.francescociulla.com/nodejs-development-setup](https://blog.francescociulla.com/nodejs-development-setup)<br>
 - [https://devhoangkien.com/node-js-19-a-whimsical-adventure-through-async-magic-and-javascript-enchantment-b338ebcea5ad](https://devhoangkien.com/node-js-19-a-whimsical-adventure-through-async-magic-and-javascript-enchantment-b338ebcea5ad)<br>
+- [https://www.builder.io/blog/visual-guide-to-nodejs-event-loop](https://www.builder.io/blog/visual-guide-to-nodejs-event-loop)<br>
 
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
