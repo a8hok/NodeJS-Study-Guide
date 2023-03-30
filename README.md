@@ -123,7 +123,7 @@ Table of Contents
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
 - [https://dev.to/collins87mbathi/building-a-dating-app-with-mern-478h](https://dev.to/collins87mbathi/building-a-dating-app-with-mern-478h)<br>
 - [https://dev.to/ronyfr3/web-push-notification-using-react-and-node-js-oc9](https://dev.to/ronyfr3/web-push-notification-using-react-and-node-js-oc9)<br>
-- []()<br>
+- [https://systemweakness.com/secure-database-connection-in-nodejs-application-3c3979566741](https://systemweakness.com/secure-database-connection-in-nodejs-application-3c3979566741)<br>
 
 ## `Nodejs with Nginx`
 - [https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/](https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/)<br>
