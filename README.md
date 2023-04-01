@@ -176,6 +176,7 @@ Table of Contents
 - [https://planetscale.com/blog/build-a-user-management-api-with-nestjs-mysql](https://planetscale.com/blog/build-a-user-management-api-with-nestjs-mysql)<br>
 - [https://blog.logrocket.com/exploring-nestjs-middleware-benefits-use-cases/](https://blog.logrocket.com/exploring-nestjs-middleware-benefits-use-cases/)<br>
 - [https://dev.to/francescoxx/typescript-crud-rest-api-using-nestjs-typeorm-postgres-docker-and-docker-compose-33al](https://dev.to/francescoxx/typescript-crud-rest-api-using-nestjs-typeorm-postgres-docker-and-docker-compose-33al)<br>
+- [https://amplication.com/blog/working-with-microservices-with-nestjs](https://amplication.com/blog/working-with-microservices-with-nestjs)<br>
 
 
 ## `NodeJS Unit testing`
