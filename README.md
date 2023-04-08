@@ -119,6 +119,7 @@ Table of Contents
 - [https://blog.erickwendel.com.br/implementing-the-websocket-protocol-from-scratch-using-nodejs](https://blog.erickwendel.com.br/implementing-the-websocket-protocol-from-scratch-using-nodejs)<br>
 - [https://deno.com/blog/build-api-express-typescript](https://deno.com/blog/build-api-express-typescript)<br>
 - [https://towardsdev.com/custom-api-server-with-basic-crud-apollo-graphql-mongodb-8c107523a09a](https://towardsdev.com/custom-api-server-with-basic-crud-apollo-graphql-mongodb-8c107523a09a)<br>
+- [https://blog.logrocket.com/best-node-js-web-scrapers-use-case/](https://blog.logrocket.com/best-node-js-web-scrapers-use-case/)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
