@@ -58,6 +58,7 @@ Table of Contents
 - [https://devhoangkien.com/node-js-19-a-whimsical-adventure-through-async-magic-and-javascript-enchantment-b338ebcea5ad](https://devhoangkien.com/node-js-19-a-whimsical-adventure-through-async-magic-and-javascript-enchantment-b338ebcea5ad)<br>
 - [https://www.builder.io/blog/visual-guide-to-nodejs-event-loop](https://www.builder.io/blog/visual-guide-to-nodejs-event-loop)<br>
 
+
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
 - [https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/](https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/)<br>
@@ -198,3 +199,4 @@ Table of Contents
 - [https://blog.bytebytego.com/p/ep49-api-architectural-styles](https://blog.bytebytego.com/p/ep49-api-architectural-styles)<br>
 - [https://blog.logrocket.com/using-helmet-node-js-secure-application/](https://blog.logrocket.com/using-helmet-node-js-secure-application/)<br>
 - [https://cerbos.dev/blog/should-you-choose-grpc-over-rest-when-designing-your-apis](https://cerbos.dev/blog/should-you-choose-grpc-over-rest-when-designing-your-apis)<br>
+- [https://www.freecodecamp.org/news/public-apis-for-developers/](https://www.freecodecamp.org/news/public-apis-for-developers/)<br>
