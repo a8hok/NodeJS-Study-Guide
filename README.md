@@ -184,6 +184,7 @@ Table of Contents
 
 ## NodeJS with Typescript
 - [https://itnext.io/simple-cqrs-in-nodejs-with-typescript-6da6d3e8a420](https://itnext.io/simple-cqrs-in-nodejs-with-typescript-6da6d3e8a420)<br>
+- [https://deno.com/blog/build-api-express-typescript-pt2](https://deno.com/blog/build-api-express-typescript-pt2)<br>
 
 ## NodeJS best practices
 - [https://systemweakness.com/why-helmet-js-is-essential-for-securing-your-express-js-application-416e0044fc2](https://systemweakness.com/why-helmet-js-is-essential-for-securing-your-express-js-application-416e0044fc2)<br>
