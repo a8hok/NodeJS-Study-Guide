@@ -122,6 +122,7 @@ Table of Contents
 - [https://deno.com/blog/build-api-express-typescript](https://deno.com/blog/build-api-express-typescript)<br>
 - [https://towardsdev.com/custom-api-server-with-basic-crud-apollo-graphql-mongodb-8c107523a09a](https://towardsdev.com/custom-api-server-with-basic-crud-apollo-graphql-mongodb-8c107523a09a)<br>
 - [https://blog.logrocket.com/best-node-js-web-scrapers-use-case/](https://blog.logrocket.com/best-node-js-web-scrapers-use-case/)<br>
+- [https://dev.to/wesleymreng7/uploading-multiple-files-at-the-same-time-using-multithreading-in-nodejs-3ib4](https://dev.to/wesleymreng7/uploading-multiple-files-at-the-same-time-using-multithreading-in-nodejs-3ib4)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
