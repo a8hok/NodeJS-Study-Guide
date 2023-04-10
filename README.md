@@ -58,6 +58,7 @@ Table of Contents
 - [https://devhoangkien.com/node-js-19-a-whimsical-adventure-through-async-magic-and-javascript-enchantment-b338ebcea5ad](https://devhoangkien.com/node-js-19-a-whimsical-adventure-through-async-magic-and-javascript-enchantment-b338ebcea5ad)<br>
 - [https://www.builder.io/blog/visual-guide-to-nodejs-event-loop](https://www.builder.io/blog/visual-guide-to-nodejs-event-loop)<br>
 - [https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/](https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/)<br>
+- [https://www.thisdot.co/blog/state-of-nodejs-wrap-up](https://www.thisdot.co/blog/state-of-nodejs-wrap-up)<br>
 
 
 ## `Coding standards`
