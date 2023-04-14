@@ -209,3 +209,4 @@ Table of Contents
 - [https://cerbos.dev/blog/should-you-choose-grpc-over-rest-when-designing-your-apis](https://cerbos.dev/blog/should-you-choose-grpc-over-rest-when-designing-your-apis)<br>
 - [https://www.freecodecamp.org/news/public-apis-for-developers/](https://www.freecodecamp.org/news/public-apis-for-developers/)<br>
 - [https://dzone.com/articles/the-ultimate-api-development-guide-strategy-tools](https://dzone.com/articles/the-ultimate-api-development-guide-strategy-tools)<br>
+- [https://unzip.dev/0x012-trpc/](https://unzip.dev/0x012-trpc/)<br>
