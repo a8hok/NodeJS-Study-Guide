@@ -127,6 +127,7 @@ Table of Contents
 - [https://blog.logrocket.com/best-node-js-web-scrapers-use-case/](https://blog.logrocket.com/best-node-js-web-scrapers-use-case/)<br>
 - [https://dev.to/wesleymreng7/uploading-multiple-files-at-the-same-time-using-multithreading-in-nodejs-3ib4](https://dev.to/wesleymreng7/uploading-multiple-files-at-the-same-time-using-multithreading-in-nodejs-3ib4)<br>
 - [https://reflectoring.io/tutorial-graphql-apollo-server-nodejs-mongodb/](https://reflectoring.io/tutorial-graphql-apollo-server-nodejs-mongodb/)<br>
+- [https://blog.javascripttoday.com/blog/build-a-rest-api-in-javascript/](https://blog.javascripttoday.com/blog/build-a-rest-api-in-javascript/)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
