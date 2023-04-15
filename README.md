@@ -187,6 +187,7 @@ Table of Contents
 - [https://blog.logrocket.com/exploring-nestjs-middleware-benefits-use-cases/](https://blog.logrocket.com/exploring-nestjs-middleware-benefits-use-cases/)<br>
 - [https://dev.to/francescoxx/typescript-crud-rest-api-using-nestjs-typeorm-postgres-docker-and-docker-compose-33al](https://dev.to/francescoxx/typescript-crud-rest-api-using-nestjs-typeorm-postgres-docker-and-docker-compose-33al)<br>
 - [https://amplication.com/blog/working-with-microservices-with-nestjs](https://amplication.com/blog/working-with-microservices-with-nestjs)<br>
+- [https://devhoangkien.com/optimizing-application-performance-with-node-js-typescript-and-nest-js-tips-and-tricks-fb45ed87ebee](https://devhoangkien.com/optimizing-application-performance-with-node-js-typescript-and-nest-js-tips-and-tricks-fb45ed87ebee)<br>
 
 
 ## `NodeJS Unit testing`
