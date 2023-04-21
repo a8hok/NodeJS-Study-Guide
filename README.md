@@ -217,6 +217,7 @@ Table of Contents
 - [https://dzone.com/articles/the-ultimate-api-development-guide-strategy-tools](https://dzone.com/articles/the-ultimate-api-development-guide-strategy-tools)<br>
 - [https://unzip.dev/0x012-trpc/](https://unzip.dev/0x012-trpc/)<br>
 - [https://www.telerik.com/blogs/11-api-security-best-practices-secure-business](https://www.telerik.com/blogs/11-api-security-best-practices-secure-business)<br>
+- [https://amplication.com/blog/rest-vs-grpc-whats-the-difference](https://amplication.com/blog/rest-vs-grpc-whats-the-difference)<br>
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
