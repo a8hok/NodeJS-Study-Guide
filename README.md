@@ -67,7 +67,7 @@ Table of Contents
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
 - [https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/](https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/)<br>
-- []()<br>
+- [https://bestcodingpractices.dev/catalog/62a710375029ab9ca974ab6b](https://bestcodingpractices.dev/catalog/62a710375029ab9ca974ab6b)<br>
 
 ## `NodeJS frameworks`
 - [https://devdojo.com/chapagainashik/stripe-checkout-with-nextjs](https://devdojo.com/chapagainashik/stripe-checkout-with-nextjs)<br>
