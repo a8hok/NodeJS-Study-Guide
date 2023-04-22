@@ -131,6 +131,7 @@ Table of Contents
 - [https://reflectoring.io/tutorial-graphql-apollo-server-nodejs-mongodb/](https://reflectoring.io/tutorial-graphql-apollo-server-nodejs-mongodb/)<br>
 - [https://blog.javascripttoday.com/blog/build-a-rest-api-in-javascript/](https://blog.javascripttoday.com/blog/build-a-rest-api-in-javascript/)<br>
 - [https://blog.javascripttoday.com/blog/creating-a-url-shortener-with-node/](https://blog.javascripttoday.com/blog/creating-a-url-shortener-with-node/)<br>
+- [https://rapidapi.com/blog/nodejs-express-rest-api-example/](https://rapidapi.com/blog/nodejs-express-rest-api-example/)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
