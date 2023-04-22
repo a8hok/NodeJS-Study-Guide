@@ -98,7 +98,8 @@ Table of Contents
 - [https://dev.to/macmacky/get-better-with-typescript-using-express-3ik6](https://dev.to/macmacky/get-better-with-typescript-using-express-3ik6)<br>
 - [https://dev.to/nayanpatil1998/how-to-create-an-api-using-nodejs-express-and-typescript-89d](https://dev.to/nayanpatil1998/how-to-create-an-api-using-nodejs-express-and-typescript-89d)<br>
 - [https://vicman.hashnode.dev/setting-up-node-application-with-typescript](https://vicman.hashnode.dev/setting-up-node-application-with-typescript)<br>
-- [https://dev.to/about14sheep/streaming-data-from-aws-s3-using-nodejs-stream-api-and-typescript-3dj0](https://dev.to/about14sheep/streaming-data-from-aws-s3-using-nodejs-stream-api-and-typescript-3dj0)
+- [https://dev.to/about14sheep/streaming-data-from-aws-s3-using-nodejs-stream-api-and-typescript-3dj0](https://dev.to/about14sheep/streaming-data-from-aws-s3-using-nodejs-stream-api-and-typescript-3dj0)<br>
+- [https://betterprogramming.pub/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6](https://betterprogramming.pub/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6)<br>
 
 ## `Projects`
 - [https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d](https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d)<br>
