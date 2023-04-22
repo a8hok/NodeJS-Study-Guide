@@ -152,6 +152,7 @@ Table of Contents
 - [https://medium.com/ovrsea/power-up-your-node-js-debugging-and-error-handling-with-the-new-error-cause-feature-4136c563126a](https://medium.com/ovrsea/power-up-your-node-js-debugging-and-error-handling-with-the-new-error-cause-feature-4136c563126a)<br>
 - [https://blog.shiftleft.io/node-js-vulnerability-cheatsheet-447b0c9bdb99](https://blog.shiftleft.io/node-js-vulnerability-cheatsheet-447b0c9bdb99)<br>
 - [https://www.builder.io/blog/debug-nodejs](https://www.builder.io/blog/debug-nodejs)<br>
+- [https://blog.appsignal.com/2023/03/15/how-to-build-an-error-handling-layer-in-nodejs.html](https://blog.appsignal.com/2023/03/15/how-to-build-an-error-handling-layer-in-nodejs.html)<br>
 
 ## `Tips and tricks`
 - [https://javascript.plainenglish.io/node-js-backend-engineers-best-practices-overview-for-beginner-to-advance-caae74b53df](https://javascript.plainenglish.io/node-js-backend-engineers-best-practices-overview-for-beginner-to-advance-caae74b53df)<br>
