@@ -225,6 +225,7 @@ Table of Contents
 - [https://www.telerik.com/blogs/11-api-security-best-practices-secure-business](https://www.telerik.com/blogs/11-api-security-best-practices-secure-business)<br>
 - [https://amplication.com/blog/rest-vs-grpc-whats-the-difference](https://amplication.com/blog/rest-vs-grpc-whats-the-difference)<br>
 - [https://betterprogramming.pub/build-faster-and-easier-apis-with-user-sessions-b73b8902222d](https://betterprogramming.pub/build-faster-and-easier-apis-with-user-sessions-b73b8902222d)<br>
+- [https://www.freecodecamp.org/news/use-apis-to-practice-coding-skills/](https://www.freecodecamp.org/news/use-apis-to-practice-coding-skills/)<br>
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
