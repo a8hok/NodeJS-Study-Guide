@@ -200,7 +200,8 @@ Table of Contents
 
 
 ## `NodeJS Unit testing`
-- [https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic](https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic)
+- [https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic](https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic)<br>
+- [https://semaphoreci.com/blog/unit-tests-nodejs-jest](https://semaphoreci.com/blog/unit-tests-nodejs-jest)<br>
 
 ## NodeJS with Typescript
 - [https://itnext.io/simple-cqrs-in-nodejs-with-typescript-6da6d3e8a420](https://itnext.io/simple-cqrs-in-nodejs-with-typescript-6da6d3e8a420)<br>
