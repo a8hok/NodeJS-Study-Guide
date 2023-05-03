@@ -135,6 +135,7 @@ Table of Contents
 - [https://rapidapi.com/blog/nodejs-express-rest-api-example/](https://rapidapi.com/blog/nodejs-express-rest-api-example/)<br>
 - [https://blog.erickwendel.com.br/how-to-create-e2e-tests-in-nodejs-with-no-frameworks-step-by-step](https://blog.erickwendel.com.br/how-to-create-e2e-tests-in-nodejs-with-no-frameworks-step-by-step)<br>
 - [https://antman-does-software.com/implementing-the-outbox-pattern-in-nodejs-and-postgres](https://antman-does-software.com/implementing-the-outbox-pattern-in-nodejs-and-postgres)<br>
+- [https://dev.to/pavanbelagatti/build-a-real-time-chat-application-with-socketio-and-nodejs-with-automated-testing-38h8](https://dev.to/pavanbelagatti/build-a-real-time-chat-application-with-socketio-and-nodejs-with-automated-testing-38h8)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
