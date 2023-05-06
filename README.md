@@ -63,6 +63,7 @@ Table of Contents
 - [https://javascript.plainenglish.io/nodejs-developer-roadmap-2023-4e2fccc0ff54](https://javascript.plainenglish.io/nodejs-developer-roadmap-2023-4e2fccc0ff54)<br>
 - [https://medium.com/@tony.infisical/why-you-should-stop-using-env-files-in-node-js-f62fffecf5a3](https://medium.com/@tony.infisical/why-you-should-stop-using-env-files-in-node-js-f62fffecf5a3)<br>
 - [https://www.freecodecamp.org/news/get-started-with-nodejs/](https://www.freecodecamp.org/news/get-started-with-nodejs/)<br>
+- [https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef](https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef)<br>
 
 
 ## `Coding standards`
