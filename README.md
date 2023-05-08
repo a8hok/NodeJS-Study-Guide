@@ -64,6 +64,7 @@ Table of Contents
 - [https://medium.com/@tony.infisical/why-you-should-stop-using-env-files-in-node-js-f62fffecf5a3](https://medium.com/@tony.infisical/why-you-should-stop-using-env-files-in-node-js-f62fffecf5a3)<br>
 - [https://www.freecodecamp.org/news/get-started-with-nodejs/](https://www.freecodecamp.org/news/get-started-with-nodejs/)<br>
 - [https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef](https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef)<br>
+- [https://www.30secondsofcode.org/articles/s/cors-explained/](https://www.30secondsofcode.org/articles/s/cors-explained/)<br>
 
 
 ## `Coding standards`
