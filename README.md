@@ -203,6 +203,7 @@ Table of Contents
 - [https://amplication.com/blog/working-with-microservices-with-nestjs](https://amplication.com/blog/working-with-microservices-with-nestjs)<br>
 - [https://devhoangkien.com/optimizing-application-performance-with-node-js-typescript-and-nest-js-tips-and-tricks-fb45ed87ebee](https://devhoangkien.com/optimizing-application-performance-with-node-js-typescript-and-nest-js-tips-and-tricks-fb45ed87ebee)<br>
 - [https://dev.to/samchon/nestia-boost-up-your-nestjs-server-much-faster-and-easier-maximum-20000x-faster-59o5](https://dev.to/samchon/nestia-boost-up-your-nestjs-server-much-faster-and-easier-maximum-20000x-faster-59o5)<br>
+- [https://hashnode.knulst.de/use-nestjs-mongodb-and-docker-to-create-an-url-shortener](https://hashnode.knulst.de/use-nestjs-mongodb-and-docker-to-create-an-url-shortener)<br>
 
 
 ## `NodeJS Unit testing`
