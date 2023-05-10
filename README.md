@@ -140,6 +140,7 @@ Table of Contents
 - [https://antman-does-software.com/implementing-the-outbox-pattern-in-nodejs-and-postgres](https://antman-does-software.com/implementing-the-outbox-pattern-in-nodejs-and-postgres)<br>
 - [https://dev.to/pavanbelagatti/build-a-real-time-chat-application-with-socketio-and-nodejs-with-automated-testing-38h8](https://dev.to/pavanbelagatti/build-a-real-time-chat-application-with-socketio-and-nodejs-with-automated-testing-38h8)<br>
 - [https://www.thisdot.co/blog/implementing-a-task-scheduler-in-node-using-redis](https://www.thisdot.co/blog/implementing-a-task-scheduler-in-node-using-redis)<br>
+- [https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/](https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
