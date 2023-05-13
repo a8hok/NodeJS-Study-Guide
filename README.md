@@ -65,6 +65,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/get-started-with-nodejs/](https://www.freecodecamp.org/news/get-started-with-nodejs/)<br>
 - [https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef](https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef)<br>
 - [https://www.30secondsofcode.org/articles/s/cors-explained/](https://www.30secondsofcode.org/articles/s/cors-explained/)<br>
+- [https://medium.com/@tony.infisical/guide-to-nodes-crypto-module-for-encryption-decryption-65c077176980](https://medium.com/@tony.infisical/guide-to-nodes-crypto-module-for-encryption-decryption-65c077176980)<br>
 
 
 ## `Coding standards`
