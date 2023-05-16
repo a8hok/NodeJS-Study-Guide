@@ -66,6 +66,7 @@ Table of Contents
 - [https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef](https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef)<br>
 - [https://www.30secondsofcode.org/articles/s/cors-explained/](https://www.30secondsofcode.org/articles/s/cors-explained/)<br>
 - [https://medium.com/@tony.infisical/guide-to-nodes-crypto-module-for-encryption-decryption-65c077176980](https://medium.com/@tony.infisical/guide-to-nodes-crypto-module-for-encryption-decryption-65c077176980)<br>
+- [https://compile7.org/decompile/how-event-loop-works-in-nodejs/](https://compile7.org/decompile/how-event-loop-works-in-nodejs/)<br>
 
 
 ## `Coding standards`
