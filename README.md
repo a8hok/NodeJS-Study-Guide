@@ -87,6 +87,7 @@ Table of Contents
 - [https://medium.com/@codeeverywhere/5-tips-to-speed-up-your-node-js-performance-8977153490c1](https://medium.com/@codeeverywhere/5-tips-to-speed-up-your-node-js-performance-8977153490c1)<br>
 - [https://medium.com/@ben.dev.io/best-practices-for-building-large-scale-node-js-applications-b45ab29b757a](https://medium.com/@ben.dev.io/best-practices-for-building-large-scale-node-js-applications-b45ab29b757a)<br>
 - [https://amplication.com/blog/7-tips-to-build-scalable-nodejs-applications](https://amplication.com/blog/7-tips-to-build-scalable-nodejs-applications)<br>
+- [https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef](https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef)<br>
 
 ## `Nodejs Architecture`
 - [https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)<br>
