@@ -243,6 +243,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/](https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/)<br>
 - [https://blog.bytebytego.com/p/api-design](https://blog.bytebytego.com/p/api-design)<br>
 - [https://medium.com/api-center/api-documentation-rules-192c127cf401](https://medium.com/api-center/api-documentation-rules-192c127cf401)<br>
+- [https://mehranjnf.medium.com/preventing-cross-site-request-forgery-csrf-in-node-js-82a989a41642](https://mehranjnf.medium.com/preventing-cross-site-request-forgery-csrf-in-node-js-82a989a41642)<br>
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
