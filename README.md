@@ -154,6 +154,7 @@ Table of Contents
 - [https://dev.to/ronyfr3/web-push-notification-using-react-and-node-js-oc9](https://dev.to/ronyfr3/web-push-notification-using-react-and-node-js-oc9)<br>
 - [https://systemweakness.com/secure-database-connection-in-nodejs-application-3c3979566741](https://systemweakness.com/secure-database-connection-in-nodejs-application-3c3979566741)<br>
 - [https://levelup.gitconnected.com/build-an-autocomplete-search-project-using-elasticsearch-fastapi-and-angular-part-i-backend-741a8cddde8f](https://levelup.gitconnected.com/build-an-autocomplete-search-project-using-elasticsearch-fastapi-and-angular-part-i-backend-741a8cddde8f)<br>
+- [https://www.javacodegeeks.com/2023/05/node-js-execution-type-models.html](https://www.javacodegeeks.com/2023/05/node-js-execution-type-models.html)<br>
 
 ## `Nodejs with Nginx`
 - [https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/](https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/)<br>
