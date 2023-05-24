@@ -70,6 +70,7 @@ Table of Contents
 - [https://reflectoring.io/organize-code-with-nodejs-tutorial/]([)](https://reflectoring.io/organize-code-with-nodejs-tutorial/)<br>
 
 
+
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
 - [https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/](https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/)<br>
@@ -155,6 +156,7 @@ Table of Contents
 - [https://systemweakness.com/secure-database-connection-in-nodejs-application-3c3979566741](https://systemweakness.com/secure-database-connection-in-nodejs-application-3c3979566741)<br>
 - [https://levelup.gitconnected.com/build-an-autocomplete-search-project-using-elasticsearch-fastapi-and-angular-part-i-backend-741a8cddde8f](https://levelup.gitconnected.com/build-an-autocomplete-search-project-using-elasticsearch-fastapi-and-angular-part-i-backend-741a8cddde8f)<br>
 - [https://www.javacodegeeks.com/2023/05/node-js-execution-type-models.html](https://www.javacodegeeks.com/2023/05/node-js-execution-type-models.html)<br>
+- [https://dev.to/itsfarhankhan28/user-authentication-in-mern-stack-part-1-4bj3](https://dev.to/itsfarhankhan28/user-authentication-in-mern-stack-part-1-4bj3)<br>
 
 ## `Nodejs with Nginx`
 - [https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/](https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/)<br>
