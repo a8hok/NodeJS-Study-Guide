@@ -68,6 +68,7 @@ Table of Contents
 - [https://medium.com/@tony.infisical/guide-to-nodes-crypto-module-for-encryption-decryption-65c077176980](https://medium.com/@tony.infisical/guide-to-nodes-crypto-module-for-encryption-decryption-65c077176980)<br>
 - [https://compile7.org/decompile/how-event-loop-works-in-nodejs/](https://compile7.org/decompile/how-event-loop-works-in-nodejs/)<br>
 - [https://reflectoring.io/organize-code-with-nodejs-tutorial/]([)](https://reflectoring.io/organize-code-with-nodejs-tutorial/)<br>
+- [https://www.freecodecamp.org/news/what-exactly-is-node-guide-for-beginners/](https://www.freecodecamp.org/news/what-exactly-is-node-guide-for-beginners/)<br>
 
 
 
