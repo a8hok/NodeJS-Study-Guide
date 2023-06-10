@@ -69,6 +69,7 @@ Table of Contents
 - [https://compile7.org/decompile/how-event-loop-works-in-nodejs/](https://compile7.org/decompile/how-event-loop-works-in-nodejs/)<br>
 - [https://reflectoring.io/organize-code-with-nodejs-tutorial/]([)](https://reflectoring.io/organize-code-with-nodejs-tutorial/)<br>
 - [https://www.freecodecamp.org/news/what-exactly-is-node-guide-for-beginners/](https://www.freecodecamp.org/news/what-exactly-is-node-guide-for-beginners/)<br>
+- [https://amplication.com/blog/using-parallel-processing-in-nodejs-and-limitations](https://amplication.com/blog/using-parallel-processing-in-nodejs-and-limitations)<br>
 
 
 
