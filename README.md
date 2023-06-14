@@ -70,6 +70,7 @@ Table of Contents
 - [https://reflectoring.io/organize-code-with-nodejs-tutorial/]([)](https://reflectoring.io/organize-code-with-nodejs-tutorial/)<br>
 - [https://www.freecodecamp.org/news/what-exactly-is-node-guide-for-beginners/](https://www.freecodecamp.org/news/what-exactly-is-node-guide-for-beginners/)<br>
 - [https://amplication.com/blog/using-parallel-processing-in-nodejs-and-limitations](https://amplication.com/blog/using-parallel-processing-in-nodejs-and-limitations)<br>
+- [https://tsh.io/blog/why-use-nodejs/](https://tsh.io/blog/why-use-nodejs/)<br>
 
 
 
