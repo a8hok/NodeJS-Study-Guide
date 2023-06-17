@@ -260,3 +260,6 @@ Table of Contents
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
+
+## NodeJS tools
+- [https://brainhub.eu/library/node-js-tools-for-developers](https://brainhub.eu/library/node-js-tools-for-developers)<br>
