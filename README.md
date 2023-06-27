@@ -151,6 +151,7 @@ Table of Contents
 - [https://www.thisdot.co/blog/implementing-a-task-scheduler-in-node-using-redis](https://www.thisdot.co/blog/implementing-a-task-scheduler-in-node-using-redis)<br>
 - [https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/](https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/)<br>
 - [https://www.freecodecamp.org/news/how-to-work-with-files-in-node-js/](https://www.freecodecamp.org/news/how-to-work-with-files-in-node-js/)<br>
+- [https://levelup.gitconnected.com/api-development-with-nodejs-express-and-typescript-from-scratch-dto-interface-and-54ebab8c447e](https://levelup.gitconnected.com/api-development-with-nodejs-express-and-typescript-from-scratch-dto-interface-and-54ebab8c447e)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
