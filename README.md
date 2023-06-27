@@ -93,6 +93,7 @@ Table of Contents
 - [https://medium.com/@ben.dev.io/best-practices-for-building-large-scale-node-js-applications-b45ab29b757a](https://medium.com/@ben.dev.io/best-practices-for-building-large-scale-node-js-applications-b45ab29b757a)<br>
 - [https://amplication.com/blog/7-tips-to-build-scalable-nodejs-applications](https://amplication.com/blog/7-tips-to-build-scalable-nodejs-applications)<br>
 - [https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef](https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef)<br>
+- [https://dzone.com/articles/nodejs-architectural-gems-and-best-practices-for-d](https://dzone.com/articles/nodejs-architectural-gems-and-best-practices-for-d)<br>
 
 ## `Nodejs Architecture`
 - [https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)<br>
