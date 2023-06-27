@@ -74,7 +74,6 @@ Table of Contents
 - [https://robiul.dev/what-is-nodejs-exactly-real-world-example](https://robiul.dev/what-is-nodejs-exactly-real-world-example)<br>
 
 
-
 ## `Coding standards`
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
 - [https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/](https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/)<br>
@@ -265,3 +264,6 @@ Table of Contents
 
 ## NodeJS tools
 - [https://brainhub.eu/library/node-js-tools-for-developers](https://brainhub.eu/library/node-js-tools-for-developers)<br>
+
+## NodeJS security
+- [https://www.telerik.com/blogs/all-you-need-to-know-cors-errors](https://www.telerik.com/blogs/all-you-need-to-know-cors-errors)<br>
