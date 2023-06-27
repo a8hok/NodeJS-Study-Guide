@@ -224,6 +224,7 @@ Table of Contents
 - [https://dev.to/samchon/nestia-boost-up-your-nestjs-server-much-faster-and-easier-maximum-20000x-faster-59o5](https://dev.to/samchon/nestia-boost-up-your-nestjs-server-much-faster-and-easier-maximum-20000x-faster-59o5)<br>
 - [https://hashnode.knulst.de/use-nestjs-mongodb-and-docker-to-create-an-url-shortener](https://hashnode.knulst.de/use-nestjs-mongodb-and-docker-to-create-an-url-shortener)<br>
 - [https://www.tomray.dev/resources/nestjs-first-principles/part-1?ck_subscriber_id=2227267103&utm_campaign=Landing%20Page%20or%20Form%20-%204864903&utm_medium=email&utm_source=convertkit](https://www.tomray.dev/resources/nestjs-first-principles/part-1?ck_subscriber_id=2227267103&utm_campaign=Landing%20Page%20or%20Form%20-%204864903&utm_medium=email&utm_source=convertkit)<br>
+- [https://aws.plainenglish.io/deploy-nestjs-application-into-aws-elastic-beanstalk-c5474e19a6b4](https://aws.plainenglish.io/deploy-nestjs-application-into-aws-elastic-beanstalk-c5474e19a6b4)<br>
 
 
 ## `NodeJS Unit testing`
