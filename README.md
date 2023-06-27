@@ -234,6 +234,7 @@ Table of Contents
 - [https://wundergraph.com/blog/the-backend-for-frontend-pattern-using-nextjs](https://wundergraph.com/blog/the-backend-for-frontend-pattern-using-nextjs)<br>
 - [https://dev.to/wizdomtek/typescript-express-building-robust-apis-with-nodejs-1fln](https://dev.to/wizdomtek/typescript-express-building-robust-apis-with-nodejs-1fln)<br>
 - [https://medium.com/before-semicolon/how-to-setup-a-typescript-nodejs-server-2023-16f3874f2ce5](https://medium.com/before-semicolon/how-to-setup-a-typescript-nodejs-server-2023-16f3874f2ce5)<br>
+- [https://losikov.medium.com/part-1-project-initial-setup-typescript-node-js-31ba3aa7fbf1](https://losikov.medium.com/part-1-project-initial-setup-typescript-node-js-31ba3aa7fbf1)<br>
 
 ## NodeJS best practices
 - [https://systemweakness.com/why-helmet-js-is-essential-for-securing-your-express-js-application-416e0044fc2](https://systemweakness.com/why-helmet-js-is-essential-for-securing-your-express-js-application-416e0044fc2)<br>
