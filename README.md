@@ -79,10 +79,12 @@ Table of Contents
 - [https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/](https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/)<br>
 - [https://bestcodingpractices.dev/catalog/62a710375029ab9ca974ab6b](https://bestcodingpractices.dev/catalog/62a710375029ab9ca974ab6b)<br>
 
+
 ## `NodeJS frameworks`
 - [https://devdojo.com/chapagainashik/stripe-checkout-with-nextjs](https://devdojo.com/chapagainashik/stripe-checkout-with-nextjs)<br>
 - [https://snyk.io/blog/comparing-node-js-web-frameworks/](https://snyk.io/blog/comparing-node-js-web-frameworks/)<br>
 - [https://dev.to/rahulladumor/10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5](https://dev.to/rahulladumor/10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5)<br>
+
 
 ## `Performance Optimizations`
 - [https://blog.joshsoftware.com/2021/09/11/performance-optimizations-in-nodejs%F0%9F%92%81/](https://blog.joshsoftware.com/2021/09/11/performance-optimizations-in-nodejs%F0%9F%92%81/)<br>
@@ -94,6 +96,7 @@ Table of Contents
 - [https://amplication.com/blog/7-tips-to-build-scalable-nodejs-applications](https://amplication.com/blog/7-tips-to-build-scalable-nodejs-applications)<br>
 - [https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef](https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef)<br>
 - [https://dzone.com/articles/nodejs-architectural-gems-and-best-practices-for-d](https://dzone.com/articles/nodejs-architectural-gems-and-best-practices-for-d)<br>
+
 
 ## `Nodejs Architecture`
 - [https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)<br>
@@ -113,6 +116,7 @@ Table of Contents
 - [https://vicman.hashnode.dev/setting-up-node-application-with-typescript](https://vicman.hashnode.dev/setting-up-node-application-with-typescript)<br>
 - [https://dev.to/about14sheep/streaming-data-from-aws-s3-using-nodejs-stream-api-and-typescript-3dj0](https://dev.to/about14sheep/streaming-data-from-aws-s3-using-nodejs-stream-api-and-typescript-3dj0)<br>
 - [https://betterprogramming.pub/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6](https://betterprogramming.pub/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6)<br>
+
 
 ## `Projects`
 - [https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d](https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d)<br>
@@ -273,3 +277,4 @@ Table of Contents
 
 ## NodeJS security
 - [https://www.telerik.com/blogs/all-you-need-to-know-cors-errors](https://www.telerik.com/blogs/all-you-need-to-know-cors-errors)<br>
+- [https://tsh.io/blog/dependency-injection-in-node-js/](https://tsh.io/blog/dependency-injection-in-node-js/)<br>
