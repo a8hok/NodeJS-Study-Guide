@@ -270,6 +270,7 @@ Table of Contents
 - [https://medium.com/api-center/api-documentation-rules-192c127cf401](https://medium.com/api-center/api-documentation-rules-192c127cf401)<br>
 - [https://mehranjnf.medium.com/preventing-cross-site-request-forgery-csrf-in-node-js-82a989a41642](https://mehranjnf.medium.com/preventing-cross-site-request-forgery-csrf-in-node-js-82a989a41642)<br>
 - [https://medium.com/api-center/api-design-practice-7fce69e6336c](https://medium.com/api-center/api-design-practice-7fce69e6336c)<br>
+- [https://blog.postman.com/how-to-choose-between-rest-vs-graphql-vs-grpc-vs-soap/](https://blog.postman.com/how-to-choose-between-rest-vs-graphql-vs-grpc-vs-soap/)<br>
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
