@@ -237,6 +237,7 @@ Table of Contents
 - [https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic](https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic)<br>
 - [https://semaphoreci.com/blog/unit-tests-nodejs-jest](https://semaphoreci.com/blog/unit-tests-nodejs-jest)<br>
 - [https://dzone.com/articles/web-application-testing-tutorial-a-comprehensive-g](https://dzone.com/articles/web-application-testing-tutorial-a-comprehensive-g)<br>
+- [https://circleci.com/blog/mocking-api-requests-with-mirage/](https://circleci.com/blog/mocking-api-requests-with-mirage/)<br>
 
 ## NodeJS with Typescript
 - [https://itnext.io/simple-cqrs-in-nodejs-with-typescript-6da6d3e8a420](https://itnext.io/simple-cqrs-in-nodejs-with-typescript-6da6d3e8a420)<br>
