@@ -158,6 +158,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-work-with-files-in-node-js/](https://www.freecodecamp.org/news/how-to-work-with-files-in-node-js/)<br>
 - [https://levelup.gitconnected.com/api-development-with-nodejs-express-and-typescript-from-scratch-dto-interface-and-54ebab8c447e](https://levelup.gitconnected.com/api-development-with-nodejs-express-and-typescript-from-scratch-dto-interface-and-54ebab8c447e)<br>
 - [https://www.freecodecamp.org/news/build-a-secure-server-with-node-and-express/](https://www.freecodecamp.org/news/build-a-secure-server-with-node-and-express/)<br>
+- [https://hackernoon.com/web-scraping-using-a-headless-browser-in-nodejs?source=rss](https://hackernoon.com/web-scraping-using-a-headless-browser-in-nodejs?source=rss)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
