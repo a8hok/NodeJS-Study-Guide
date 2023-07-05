@@ -96,6 +96,7 @@ Table of Contents
 - [https://amplication.com/blog/7-tips-to-build-scalable-nodejs-applications](https://amplication.com/blog/7-tips-to-build-scalable-nodejs-applications)<br>
 - [https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef](https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef)<br>
 - [https://dzone.com/articles/nodejs-architectural-gems-and-best-practices-for-d](https://dzone.com/articles/nodejs-architectural-gems-and-best-practices-for-d)<br>
+- [https://tsh.io/blog/simple-guide-concurrency-node-js/](https://tsh.io/blog/simple-guide-concurrency-node-js/)<br>
 
 
 ## `Nodejs Architecture`
