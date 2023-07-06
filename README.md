@@ -286,5 +286,8 @@ Table of Contents
 - [https://www.telerik.com/blogs/all-you-need-to-know-cors-errors](https://www.telerik.com/blogs/all-you-need-to-know-cors-errors)<br>
 - [https://tsh.io/blog/dependency-injection-in-node-js/](https://tsh.io/blog/dependency-injection-in-node-js/)<br>
 
-## Nodejs Migration
+## NodeJS Migration
 - [https://blog.appsignal.com/2023/06/28/migrate-your-express-application-to-fastify.html](https://blog.appsignal.com/2023/06/28/migrate-your-express-application-to-fastify.html)<br>
+
+## NodeJS deployment
+- [https://aws.plainenglish.io/upload-images-on-aws-s3-using-node-js-c3d3b9e81ddc](https://aws.plainenglish.io/upload-images-on-aws-s3-using-node-js-c3d3b9e81ddc)<br>
