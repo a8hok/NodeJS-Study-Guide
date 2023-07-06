@@ -291,3 +291,4 @@ Table of Contents
 
 ## NodeJS deployment
 - [https://aws.plainenglish.io/upload-images-on-aws-s3-using-node-js-c3d3b9e81ddc](https://aws.plainenglish.io/upload-images-on-aws-s3-using-node-js-c3d3b9e81ddc)<br>
+- [https://aws.plainenglish.io/deploy-node-js-server-to-aws-ec2-with-docker-78687493b53](https://aws.plainenglish.io/deploy-node-js-server-to-aws-ec2-with-docker-78687493b53)<br>
