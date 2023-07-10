@@ -160,6 +160,7 @@ Table of Contents
 - [https://levelup.gitconnected.com/api-development-with-nodejs-express-and-typescript-from-scratch-dto-interface-and-54ebab8c447e](https://levelup.gitconnected.com/api-development-with-nodejs-express-and-typescript-from-scratch-dto-interface-and-54ebab8c447e)<br>
 - [https://www.freecodecamp.org/news/build-a-secure-server-with-node-and-express/](https://www.freecodecamp.org/news/build-a-secure-server-with-node-and-express/)<br>
 - [https://hackernoon.com/web-scraping-using-a-headless-browser-in-nodejs?source=rss](https://hackernoon.com/web-scraping-using-a-headless-browser-in-nodejs?source=rss)<br>
+- [https://code.tutsplus.com/token-based-authentication-with-angularjs-nodejs--cms-22543t](https://code.tutsplus.com/token-based-authentication-with-angularjs-nodejs--cms-22543t)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
