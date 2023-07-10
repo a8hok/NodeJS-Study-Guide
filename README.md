@@ -296,6 +296,7 @@ Table of Contents
 
 ## NodeJS with GraphQL
 - [https://medium.com/neo4j/improving-a-node-js-graphql-server-performance-645a4ae711c3](https://medium.com/neo4j/improving-a-node-js-graphql-server-performance-645a4ae711c3)<br>
+- [https://www.freecodecamp.org/news/graphql-queries-for-everyone/](https://www.freecodecamp.org/news/graphql-queries-for-everyone/)<br>
 
 ## NodeJS with Redis
 - [https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/](https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/)<br>
