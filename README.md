@@ -286,6 +286,7 @@ Table of Contents
 ## NodeJS security
 - [https://www.telerik.com/blogs/all-you-need-to-know-cors-errors](https://www.telerik.com/blogs/all-you-need-to-know-cors-errors)<br>
 - [https://tsh.io/blog/dependency-injection-in-node-js/](https://tsh.io/blog/dependency-injection-in-node-js/)<br>
+- [https://amplication.com/blog/how-to-use-dependency-injection-with-nodejs](https://amplication.com/blog/how-to-use-dependency-injection-with-nodejs)<br>
 
 ## NodeJS Migration
 - [https://blog.appsignal.com/2023/06/28/migrate-your-express-application-to-fastify.html](https://blog.appsignal.com/2023/06/28/migrate-your-express-application-to-fastify.html)<br>
