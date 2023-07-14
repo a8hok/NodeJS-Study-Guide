@@ -213,6 +213,7 @@ Table of Contents
 ## `NodeJS Interview`
 - [https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/](https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/)<br>
 - [https://codedamn.com/problem-list/nodejs?utm_source=email-inbox&utm_medium=email&utm_campaign=14may](https://codedamn.com/problem-list/nodejs?utm_source=email-inbox&utm_medium=email&utm_campaign=14may)<br>
+- [https://hackernoon.com/nodejs-background-jobs-for-modern-developers-interview-with-startups-of-the-year-nominee-defer?source=rss](https://hackernoon.com/nodejs-background-jobs-for-modern-developers-interview-with-startups-of-the-year-nominee-defer?source=rss)<br>
 
 ## `NestJS`
 - [https://blog.logrocket.com/full-stack-app-tutorial-nestjs-react/](https://blog.logrocket.com/full-stack-app-tutorial-nestjs-react/)<br>
