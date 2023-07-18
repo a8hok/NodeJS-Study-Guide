@@ -72,6 +72,7 @@ Table of Contents
 - [https://amplication.com/blog/using-parallel-processing-in-nodejs-and-limitations](https://amplication.com/blog/using-parallel-processing-in-nodejs-and-limitations)<br>
 - [https://tsh.io/blog/why-use-nodejs/](https://tsh.io/blog/why-use-nodejs/)<br>
 - [https://robiul.dev/what-is-nodejs-exactly-real-world-example](https://robiul.dev/what-is-nodejs-exactly-real-world-example)<br>
+- [https://www.freecodecamp.org/news/what-is-node-js-explained/](https://www.freecodecamp.org/news/what-is-node-js-explained/)<br>
 
 
 ## `Coding standards`
