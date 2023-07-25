@@ -162,6 +162,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/build-a-secure-server-with-node-and-express/](https://www.freecodecamp.org/news/build-a-secure-server-with-node-and-express/)<br>
 - [https://hackernoon.com/web-scraping-using-a-headless-browser-in-nodejs?source=rss](https://hackernoon.com/web-scraping-using-a-headless-browser-in-nodejs?source=rss)<br>
 - [https://code.tutsplus.com/token-based-authentication-with-angularjs-nodejs--cms-22543t](https://code.tutsplus.com/token-based-authentication-with-angularjs-nodejs--cms-22543t)<br>
+- [https://hackernoon.com/creating-a-nodejs-server-with-postgres-and-knex-on-express?source=rss](https://hackernoon.com/creating-a-nodejs-server-with-postgres-and-knex-on-express?source=rss)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
