@@ -109,6 +109,7 @@ Table of Contents
 - [https://blog.lorensr.me/building-reliable-distributed-systems-in-node-aff92fa45ad8](https://blog.lorensr.me/building-reliable-distributed-systems-in-node-aff92fa45ad8)<br>
 - [https://temporal.io/blog/building-reliable-distributed-systems-in-node](https://temporal.io/blog/building-reliable-distributed-systems-in-node)<br>
 - [https://adventures.nodeland.dev/archive/security-releases-in-the-nodejs-ecosystem-fastify/](https://adventures.nodeland.dev/archive/security-releases-in-the-nodejs-ecosystem-fastify/)<br>
+- [https://amplication.com/blog/nodejs-asynchronous-flow-control-and-event-loop](https://amplication.com/blog/nodejs-asynchronous-flow-control-and-event-loop)<br>
 
 
 ## `NodeJS with Typescript`
