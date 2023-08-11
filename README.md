@@ -317,3 +317,6 @@ Table of Contents
 
 ## Nodejs Auth
 - [https://hackernoon.com/a-practical-guide-to-implementing-user-authentication-using-javascript-and-express?source=rss](https://hackernoon.com/a-practical-guide-to-implementing-user-authentication-using-javascript-and-express?source=rss)<br>
+
+## NodeJS with MongoDB
+- [https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html](https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html)<br>
