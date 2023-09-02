@@ -320,8 +320,11 @@ Table of Contents
 ## NodeJS with Redis
 - [https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/](https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/)<br>
 
-## Nodejs Auth
+## NodeJS Auth
 - [https://hackernoon.com/a-practical-guide-to-implementing-user-authentication-using-javascript-and-express?source=rss](https://hackernoon.com/a-practical-guide-to-implementing-user-authentication-using-javascript-and-express?source=rss)<br>
 
 ## NodeJS with MongoDB
 - [https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html](https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html)<br>
+
+## NodeJS
+- [https://hackernoon.com/file-based-routing-in-nodejs-a-brief-guide?source=rss](https://hackernoon.com/file-based-routing-in-nodejs-a-brief-guide?source=rss)<br>
