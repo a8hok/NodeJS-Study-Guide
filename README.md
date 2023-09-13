@@ -112,6 +112,7 @@ Table of Contents
 - [https://temporal.io/blog/building-reliable-distributed-systems-in-node](https://temporal.io/blog/building-reliable-distributed-systems-in-node)<br>
 - [https://adventures.nodeland.dev/archive/security-releases-in-the-nodejs-ecosystem-fastify/](https://adventures.nodeland.dev/archive/security-releases-in-the-nodejs-ecosystem-fastify/)<br>
 - [https://amplication.com/blog/nodejs-asynchronous-flow-control-and-event-loop](https://amplication.com/blog/nodejs-asynchronous-flow-control-and-event-loop)<br>
+- [https://dev.to/sasithwarnakafonseka/nodejs-architectural-patterns-with-examples-1335](https://dev.to/sasithwarnakafonseka/nodejs-architectural-patterns-with-examples-1335)<br>
 
 
 ## `NodeJS with Typescript`
