@@ -208,6 +208,7 @@ Table of Contents
 - [https://blog.appsignal.com/2022/03/09/a-complete-guide-to-nodejs-process-management-with-pm2.html](https://blog.appsignal.com/2022/03/09/a-complete-guide-to-nodejs-process-management-with-pm2.html)<br>
 - [https://dev.to/imaroof07/an-ideal-rest-api-best-practices-4k89](https://dev.to/imaroof07/an-ideal-rest-api-best-practices-4k89)<br>
 - [https://infosecwriteups.com/ssrf-server-side-request-forgery-2865e87efc3](https://infosecwriteups.com/ssrf-server-side-request-forgery-2865e87efc3)<br>
+- [https://amplication.com/blog/understanding-and-preventing-memory-leaks-in-nodejs](https://amplication.com/blog/understanding-and-preventing-memory-leaks-in-nodejs)<br>
 
 ## `Micro services`
 - [https://fauna.com/blog/how-to-build-microservices-with-node-js](https://fauna.com/blog/how-to-build-microservices-with-node-js)<br>
