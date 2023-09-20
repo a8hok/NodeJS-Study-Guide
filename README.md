@@ -183,6 +183,7 @@ Table of Contents
 - [https://dev.to/itsfarhankhan28/user-authentication-in-mern-stack-part-1-4bj3](https://dev.to/itsfarhankhan28/user-authentication-in-mern-stack-part-1-4bj3)<br>
 - [https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/](https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/)<br>
 - [https://awstip.com/mean-stack-on-aws-5462948185a7](https://awstip.com/mean-stack-on-aws-5462948185a7)<br>
+- [https://dev.to/idurar/building-an-invoice-pdf-system-with-reactjs-redux-and-nodejs-5g1a](https://dev.to/idurar/building-an-invoice-pdf-system-with-reactjs-redux-and-nodejs-5g1a)<br>
 
 ## `Nodejs with Nginx`
 - [https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/](https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/)<br>
