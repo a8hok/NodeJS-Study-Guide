@@ -249,6 +249,7 @@ Table of Contents
 - [https://www.permit.io/blog/how-to-protect-a-url-inside-a-nestjs-app-using-rbac-authorization](https://www.permit.io/blog/how-to-protect-a-url-inside-a-nestjs-app-using-rbac-authorization)<br>
 - [https://www.tomray.dev/resources/nestjs-first-principles/part-1?ck_subscriber_id=2227267103&utm_campaign=Landing%20Page%20or%20Form%20-%204864903&utm_medium=email&utm_source=convertkit](https://www.tomray.dev/resources/nestjs-first-principles/part-1?ck_subscriber_id=2227267103&utm_campaign=Landing%20Page%20or%20Form%20-%204864903&utm_medium=email&utm_source=convertkit)<br>
 - [https://hackernoon.com/the-complete-guide-to-deploying-nestjs-application-on-render?source=rss](https://hackernoon.com/the-complete-guide-to-deploying-nestjs-application-on-render?source=rss)<br>
+- [https://awstip.com/understanding-nestjs-architecture-f257d054211d](https://awstip.com/understanding-nestjs-architecture-f257d054211d)<br>
 
 
 ## `NodeJS Unit testing`
