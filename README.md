@@ -335,3 +335,6 @@ Table of Contents
 
 ## NodeJS
 - [https://hackernoon.com/file-based-routing-in-nodejs-a-brief-guide?source=rss](https://hackernoon.com/file-based-routing-in-nodejs-a-brief-guide?source=rss)<br>
+
+## NodeJS Queue
+- [https://javascript.plainenglish.io/message-queue-in-nodejs-with-bullmq-and-redis-ec7af00c075](https://javascript.plainenglish.io/message-queue-in-nodejs-with-bullmq-and-redis-ec7af00c075)<br>
