@@ -327,6 +327,7 @@ Table of Contents
 
 ## NodeJS with Redis
 - [https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/](https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/)<br>
+- [https://blog.bytebytego.com/p/a-crash-course-in-redis](https://blog.bytebytego.com/p/a-crash-course-in-redis)<br>
 
 ## NodeJS Auth
 - [https://hackernoon.com/a-practical-guide-to-implementing-user-authentication-using-javascript-and-express?source=rss](https://hackernoon.com/a-practical-guide-to-implementing-user-authentication-using-javascript-and-express?source=rss)<br>
