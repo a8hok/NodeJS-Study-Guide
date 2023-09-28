@@ -115,6 +115,7 @@ Table of Contents
 - [https://amplication.com/blog/nodejs-asynchronous-flow-control-and-event-loop](https://amplication.com/blog/nodejs-asynchronous-flow-control-and-event-loop)<br>
 - [https://dev.to/sasithwarnakafonseka/nodejs-architectural-patterns-with-examples-1335](https://dev.to/sasithwarnakafonseka/nodejs-architectural-patterns-with-examples-1335)<br>
 - [https://nextcodeblock.com/posts/api-architectural-styles/](https://nextcodeblock.com/posts/api-architectural-styles/)<br>
+- [https://semaphoreci.com/blog/securing-nodejs](https://semaphoreci.com/blog/securing-nodejs)<br>
 
 
 ## `NodeJS with Typescript`
