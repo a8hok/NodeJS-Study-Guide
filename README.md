@@ -186,6 +186,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/](https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/)<br>
 - [https://awstip.com/mean-stack-on-aws-5462948185a7](https://awstip.com/mean-stack-on-aws-5462948185a7)<br>
 - [https://dev.to/idurar/building-an-invoice-pdf-system-with-reactjs-redux-and-nodejs-5g1a](https://dev.to/idurar/building-an-invoice-pdf-system-with-reactjs-redux-and-nodejs-5g1a)<br>
+- [https://awstip.com/the-backend-part-of-mnnn-stack-mongodb-nestjs-nextjs-and-nodejs-6bde9adfedd9](https://awstip.com/the-backend-part-of-mnnn-stack-mongodb-nestjs-nextjs-and-nodejs-6bde9adfedd9)<br>
 
 ## `Nodejs with Nginx`
 - [https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/](https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/)<br>
