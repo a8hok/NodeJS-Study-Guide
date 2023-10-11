@@ -303,6 +303,7 @@ Table of Contents
 - [https://www.wallarm.com/what/api-security-tutorial](https://www.wallarm.com/what/api-security-tutorial)<br>
 - [https://brainhub.eu/library/api-expressjs-and-hadron](https://brainhub.eu/library/api-expressjs-and-hadron)<br>
 - [https://blog.bytebytego.com/p/the-foundation-of-rest-api-http](https://blog.bytebytego.com/p/the-foundation-of-rest-api-http)<br>
+- [https://www.freecodecamp.org/news/api-integration-patterns/?ref=dailydev](https://www.freecodecamp.org/news/api-integration-patterns/?ref=dailydev)<br>
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
