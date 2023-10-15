@@ -346,3 +346,6 @@ Table of Contents
 
 ## NodeJS Queue
 - [https://javascript.plainenglish.io/message-queue-in-nodejs-with-bullmq-and-redis-ec7af00c075](https://javascript.plainenglish.io/message-queue-in-nodejs-with-bullmq-and-redis-ec7af00c075)<br>
+
+## NodeJS library
+- [https://www.freecodecamp.org/news/learn-bun-a-faster-node-js-alternative/?ref=dailydev](https://www.freecodecamp.org/news/learn-bun-a-faster-node-js-alternative/?ref=dailydev)<br>
