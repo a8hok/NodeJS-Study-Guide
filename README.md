@@ -178,6 +178,7 @@ Table of Contents
 - [https://blog.javascripttoday.com/blog/web-scraping-bright-data-nodejs/](https://blog.javascripttoday.com/blog/web-scraping-bright-data-nodejs/)<br>
 - [https://www.freecodecamp.org/news/nodejs-tutorial-build-a-task-manager-cli-tool/](https://www.freecodecamp.org/news/nodejs-tutorial-build-a-task-manager-cli-tool/)<br>
 - [https://www.freecodecamp.org/news/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs/](https://www.freecodecamp.org/news/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs/)<br>
+- [https://alexmaina.hashnode.dev/sending-emails-using-resend?ref=dailydev](https://alexmaina.hashnode.dev/sending-emails-using-resend?ref=dailydev)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
