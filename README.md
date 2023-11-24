@@ -343,6 +343,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/](https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/)<br>
 - [https://blog.bytebytego.com/p/a-crash-course-in-redis](https://blog.bytebytego.com/p/a-crash-course-in-redis)<br>
 - [https://blog.bytebytego.com/p/the-6-most-impactful-ways-redis-is?ref=dailydev](https://blog.bytebytego.com/p/the-6-most-impactful-ways-redis-is?ref=dailydev)<br>
+- [https://awstip.com/unlock-the-power-of-redis-part-1-55ccdf43d8f0](https://awstip.com/unlock-the-power-of-redis-part-1-55ccdf43d8f0)<br>
 
 ## NodeJS Auth
 - [https://hackernoon.com/a-practical-guide-to-implementing-user-authentication-using-javascript-and-express?source=rss](https://hackernoon.com/a-practical-guide-to-implementing-user-authentication-using-javascript-and-express?source=rss)<br>
