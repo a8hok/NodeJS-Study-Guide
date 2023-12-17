@@ -266,6 +266,7 @@ Table of Contents
 - [https://hackernoon.com/the-complete-guide-to-deploying-nestjs-application-on-render?source=rss](https://hackernoon.com/the-complete-guide-to-deploying-nestjs-application-on-render?source=rss)<br>
 - [https://awstip.com/understanding-nestjs-architecture-f257d054211d](https://awstip.com/understanding-nestjs-architecture-f257d054211d)<br>
 - [https://medium.com/@dev.muhammet.ozen/advanced-transaction-management-with-nestjs-typeorm-43a839363491](https://medium.com/@dev.muhammet.ozen/advanced-transaction-management-with-nestjs-typeorm-43a839363491)<br>
+- [https://www.freecodecamp.org/news/message-queues-with-rabbitmq-in-nest-js/?ref=dailydev](https://www.freecodecamp.org/news/message-queues-with-rabbitmq-in-nest-js/?ref=dailydev)<br>
 
 
 ## `NodeJS Unit testing`
