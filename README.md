@@ -80,6 +80,7 @@ Table of Contents
 - [https://reflectoring.io/tutorial-nodejs-rate-limiter/?ref=dailydev](https://reflectoring.io/tutorial-nodejs-rate-limiter/?ref=dailydev)<br>
 - [https://www.sitepoint.com/fetch-api-node-deno-bun/?utm_source=rss&ref=dailydev](https://www.sitepoint.com/fetch-api-node-deno-bun/?utm_source=rss&ref=dailydev)<br>
 - [https://blog.appsignal.com/2023/11/08/how-to-use-timeouts-in-nodejs.html?ref=dailydev](https://blog.appsignal.com/2023/11/08/how-to-use-timeouts-in-nodejs.html?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/](https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/)<br>
 
 
 ## `Coding standards`
