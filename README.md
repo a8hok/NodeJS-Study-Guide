@@ -366,3 +366,6 @@ Table of Contents
 
 ## NodeJS library
 - [https://www.freecodecamp.org/news/learn-bun-a-faster-node-js-alternative/?ref=dailydev](https://www.freecodecamp.org/news/learn-bun-a-faster-node-js-alternative/?ref=dailydev)<br>
+
+## NodeJS Steaming
+- [https://dev.to/bsorrentino/how-to-stream-data-over-http-using-node-and-fetch-api-4ij2?ref=dailydev](https://dev.to/bsorrentino/how-to-stream-data-over-http-using-node-and-fetch-api-4ij2?ref=dailydev)<br>
