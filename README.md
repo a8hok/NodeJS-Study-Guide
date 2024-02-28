@@ -318,6 +318,7 @@ Table of Contents
 - [https://blog.bytebytego.com/p/the-foundation-of-rest-api-http](https://blog.bytebytego.com/p/the-foundation-of-rest-api-http)<br>
 - [https://www.freecodecamp.org/news/api-integration-patterns/?ref=dailydev](https://www.freecodecamp.org/news/api-integration-patterns/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/master-api-testing-with-postman/](https://www.freecodecamp.org/news/master-api-testing-with-postman/)<br>
+- [https://www.freecodecamp.org/news/what-are-api-gateways/](https://www.freecodecamp.org/news/what-are-api-gateways/)<br>
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
