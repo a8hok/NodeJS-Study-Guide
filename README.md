@@ -332,6 +332,7 @@ Table of Contents
 - [https://amplication.com/blog/how-to-use-dependency-injection-with-nodejs](https://amplication.com/blog/how-to-use-dependency-injection-with-nodejs)<br>
 - [https://blog.openreplay.com/securing-front-end-apps-with-cors-and-csp/](https://blog.openreplay.com/securing-front-end-apps-with-cors-and-csp/)<br>
 - [https://reflectoring.io/tutorial-nodejs-rate-limiter/?ref=dailydev](https://reflectoring.io/tutorial-nodejs-rate-limiter/?ref=dailydev)<br>
+- [https://dev.to/mohammadfaisal/nodejs-security-best-practices-34ck?ref=dailydev](https://dev.to/mohammadfaisal/nodejs-security-best-practices-34ck?ref=dailydev)<br>
 
 ## NodeJS Migration
 - [https://blog.appsignal.com/2023/06/28/migrate-your-express-application-to-fastify.html](https://blog.appsignal.com/2023/06/28/migrate-your-express-application-to-fastify.html)<br>
