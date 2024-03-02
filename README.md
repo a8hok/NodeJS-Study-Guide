@@ -1,4 +1,4 @@
-# NodeJS Interview Preparation Links
+# NodeJS Study Guide
 
 Table of Contents
 =================
