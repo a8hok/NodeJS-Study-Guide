@@ -369,6 +369,7 @@ Table of Contents
 - [https://hackernoon.com/a-practical-guide-to-implementing-user-authentication-using-javascript-and-express?source=rss](https://hackernoon.com/a-practical-guide-to-implementing-user-authentication-using-javascript-and-express?source=rss)<br>
 - [https://www.permit.io/blog/authentication-vs-authorization?ref=dailydev](https://www.permit.io/blog/authentication-vs-authorization?ref=dailydev)<br>
 - [https://www.permit.io/blog/differences-between-oauth-vs-jwt?ref=dailydev](https://www.permit.io/blog/differences-between-oauth-vs-jwt?ref=dailydev)<br>
+- [https://arindam1729.hashnode.dev/jwt-authentication-in-nodejs?ref=dailydev](https://arindam1729.hashnode.dev/jwt-authentication-in-nodejs?ref=dailydev)<br>
 
 ## NodeJS with MongoDB
 - [https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html](https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html)<br>
