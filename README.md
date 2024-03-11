@@ -196,6 +196,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs/](https://www.freecodecamp.org/news/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs/)<br>
 - [https://alexmaina.hashnode.dev/sending-emails-using-resend?ref=dailydev](https://alexmaina.hashnode.dev/sending-emails-using-resend?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/?ref=dailydev](https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/create-crud-api-project/](https://www.freecodecamp.org/news/create-crud-api-project/)<br>
 
 ## `MERN`
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
