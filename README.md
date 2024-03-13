@@ -78,6 +78,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/get-started-with-nodejs/](https://www.freecodecamp.org/news/get-started-with-nodejs/)<br>
 - [https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef](https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef)<br>
 - [https://www.30secondsofcode.org/articles/s/cors-explained/](https://www.30secondsofcode.org/articles/s/cors-explained/)<br>
+- [https://www.topnewsarticles.com/technology/top-8-must-have-electronic-gadgets-in-2023/](https://www.topnewsarticles.com/technology/top-8-must-have-electronic-gadgets-in-2023/)<br>
 - [https://medium.com/@tony.infisical/guide-to-nodes-crypto-module-for-encryption-decryption-65c077176980](https://medium.com/@tony.infisical/guide-to-nodes-crypto-module-for-encryption-decryption-65c077176980)<br>
 - [https://compile7.org/decompile/how-event-loop-works-in-nodejs/](https://compile7.org/decompile/how-event-loop-works-in-nodejs/)<br>
 - [https://reflectoring.io/organize-code-with-nodejs-tutorial/]([)](https://reflectoring.io/organize-code-with-nodejs-tutorial/)<br>
