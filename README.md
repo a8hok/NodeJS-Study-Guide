@@ -95,6 +95,7 @@ Table of Contents
 - [https://blog.appsignal.com/2023/11/08/how-to-use-timeouts-in-nodejs.html?ref=dailydev](https://blog.appsignal.com/2023/11/08/how-to-use-timeouts-in-nodejs.html?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/](https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/)<br>
 - [https://www.freecodecamp.org/news/crud-api-with-node-js-express-mongodb/?ref=dailydev](https://www.freecodecamp.org/news/crud-api-with-node-js-express-mongodb/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-work-with-files-in-node-js/](https://www.freecodecamp.org/news/how-to-work-with-files-in-node-js/)<br>
 
 
 ## `Coding standards`
