@@ -3,25 +3,25 @@
 Table of Contents
 =================
 
-- [`Learn Nodejs`](#-learn-nodejs-)
-- [`Coding standards`](#-coding-standards-)
-- [`NodeJS frameworks`](#-nodejs-frameworks-)
-- [`Performance Optimizations`](#-performance-optimizations-)
-- [`Nodejs Architecture`](#-nodejs-architecture-)
-- [`NodeJS with Typescript`](#-nodejs-with-typescript-)
-- [`Projects`](#-projects-)
-- [`MERN`](#-mern-)
-- [`Nodejs with Nginx`](#-nodejs-with-nginx-)
-- [`Nodejs Logging`](#-nodejs-logging-)
-- [`Nodejs Error Handling`](#-nodejs-error-handling-)
-- [`Tips and tricks`](#-tips-and-tricks-)
-- [`Micro services`](#-micro-services-)
-- [`NodeJS pattern`](#-nodejs-pattern-)
-- [`NodeJS cheatSheet`](#-nodejs-cheatsheet-)
-- [`NodeJS Interview`](#-nodejs-interview-)
-- [`NestJS`](#-nestjs-)
-- [`NodeJS Unit testing`](#-nodejs-unit-testing-)
+- [Learn Nodejs](#learn-nodejs)
+- [Coding standards](#coding-standards)
+- [NodeJS frameworks](#nodejs-frameworks)
+- [Performance Optimizations](#performance-optimizations)
+- [Nodejs Architecture](#nodejs-architecture)
 - [NodeJS with Typescript](#nodejs-with-typescript)
+- [Projects](#projects)
+- [MERN](#mern)
+- [Nodejs with Nginx](#nodejs-with-nginx)
+- [Nodejs Logging](#nodejs-logging)
+- [Nodejs Error Handling](#nodejs-error-handling)
+- [Tips and tricks](#tips-and-tricks)
+- [Micro services](#micro-services)
+- [NodeJS pattern](#nodejs-pattern)
+- [NodeJS cheatSheet](#nodejs-cheatsheet)
+- [NodeJS Interview](#nodejs-interview)
+- [NestJS](#nestjs)
+- [NodeJS Unit testing](#nodejs-unit-testing)
+- [NodeJS with Typescript](#nodejs-with-typescript-1)
 - [NodeJS best practices](#nodejs-best-practices)
 - [API practices](#api-practices)
 - [Package Manager](#package-manager)
@@ -38,7 +38,7 @@ Table of Contents
 - [NodeJS library](#nodejs-library)
 - [NodeJS Steaming](#nodejs-steaming)
 
-## `Learn Nodejs`
+## Learn Nodejs
 - [https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7](https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7)<br>
 - [https://dev.to/geraldmuvengei06/how-use-environment-variables-env-in-expressjs-3bpc](https://dev.to/geraldmuvengei06/how-use-environment-variables-env-in-expressjs-3bpc)<br>
 - [https://enlear.academy/nodejs-backpressuring-in-streams-52638f505e1b](https://enlear.academy/nodejs-backpressuring-in-streams-52638f505e1b)<br>
@@ -98,19 +98,19 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-work-with-files-in-node-js/](https://www.freecodecamp.org/news/how-to-work-with-files-in-node-js/)<br>
 
 
-## `Coding standards`
+## Coding standards
 - [https://github.com/a8hok/NodeJS-interview.git](https://github.com/a8hok/NodeJS-interview.git)<br>
 - [https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/](https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/)<br>
 - [https://bestcodingpractices.dev/catalog/62a710375029ab9ca974ab6b](https://bestcodingpractices.dev/catalog/62a710375029ab9ca974ab6b)<br>
 
 
-## `NodeJS frameworks`
+## NodeJS frameworks
 - [https://devdojo.com/chapagainashik/stripe-checkout-with-nextjs](https://devdojo.com/chapagainashik/stripe-checkout-with-nextjs)<br>
 - [https://snyk.io/blog/comparing-node-js-web-frameworks/](https://snyk.io/blog/comparing-node-js-web-frameworks/)<br>
 - [https://dev.to/rahulladumor/10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5](https://dev.to/rahulladumor/10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5)<br>
 
 
-## `Performance Optimizations`
+## Performance Optimizations
 - [https://blog.joshsoftware.com/2021/09/11/performance-optimizations-in-nodejs%F0%9F%92%81/](https://blog.joshsoftware.com/2021/09/11/performance-optimizations-in-nodejs%F0%9F%92%81/)<br>
 - [https://blog.devgenius.io/5-tips-to-speed-up-your-node-js-performance-1166451308b4](https://blog.devgenius.io/5-tips-to-speed-up-your-node-js-performance-1166451308b4)<br>
 - [https://www.digitalocean.com/community/tutorials/how-to-scale-node-js-applications-with-clustering](https://www.digitalocean.com/community/tutorials/how-to-scale-node-js-applications-with-clustering)<br>
@@ -123,7 +123,7 @@ Table of Contents
 - [https://tsh.io/blog/simple-guide-concurrency-node-js/](https://tsh.io/blog/simple-guide-concurrency-node-js/)<br>
 
 
-## `Nodejs Architecture`
+## Nodejs Architecture
 - [https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)<br>
 - [https://dev.to/altamashali/deep-dive-into-nodejs-architecture-5190](https://dev.to/altamashali/deep-dive-into-nodejs-architecture-5190)<br>
 - [https://betterprogramming.pub/clean-node-js-architecture-with-nestjs-and-typescript-34b9398d790f](https://betterprogramming.pub/clean-node-js-architecture-with-nestjs-and-typescript-34b9398d790f)<br>
@@ -137,7 +137,7 @@ Table of Contents
 - [https://semaphoreci.com/blog/securing-nodejs](https://semaphoreci.com/blog/securing-nodejs)<br>
 
 
-## `NodeJS with Typescript`
+## NodeJS with Typescript
 - [https://towardsdev.com/creating-a-gateway-service-with-node-js-typescript-and-fastify-54cb9c17b0e1](https://towardsdev.com/creating-a-gateway-service-with-node-js-typescript-and-fastify-54cb9c17b0e1)<br>
 - [https://itnext.io/modern-node-part-1-architecting-and-scaffolding-a-typescript-express-api-22e87fee054c](https://itnext.io/modern-node-part-1-architecting-and-scaffolding-a-typescript-express-api-22e87fee054c)<br>
 - [https://dev.to/macmacky/get-better-with-typescript-using-express-3ik6](https://dev.to/macmacky/get-better-with-typescript-using-express-3ik6)<br>
@@ -147,7 +147,7 @@ Table of Contents
 - [https://betterprogramming.pub/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6](https://betterprogramming.pub/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6)<br>
 
 
-## `Projects`
+## Projects
 - [https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d](https://dev.to/anderrv/web-scraping-with-javascript-and-node-js-2d)<br>
 - [https://dev.to/sm0ke/node-js-react-soft-dashboard-free-version-1k5g](https://dev.to/sm0ke/node-js-react-soft-dashboard-free-version-1k5g)<br>
 - [https://towardsdatascience.com/building-a-real-time-web-app-in-nodejs-express-with-socket-io-library-d9b50aded6e6](https://towardsdatascience.com/building-a-real-time-web-app-in-nodejs-express-with-socket-io-library-d9b50aded6e6)<br>
@@ -200,7 +200,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/create-crud-api-project/](https://www.freecodecamp.org/news/create-crud-api-project/)<br>
 - [https://www.cerbos.dev/blog/node-js-authorization?ref=dailydev](https://www.cerbos.dev/blog/node-js-authorization?ref=dailydev)<br>
 
-## `MERN`
+## MERN
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
 - [https://dev.to/collins87mbathi/building-a-dating-app-with-mern-478h](https://dev.to/collins87mbathi/building-a-dating-app-with-mern-478h)<br>
 - [https://dev.to/ronyfr3/web-push-notification-using-react-and-node-js-oc9](https://dev.to/ronyfr3/web-push-notification-using-react-and-node-js-oc9)<br>
@@ -215,15 +215,15 @@ Table of Contents
 - [https://www.freecodecamp.org/news/full-stack-project-tutorial-create-a-notes-app-using-react-and-node-js/](https://www.freecodecamp.org/news/full-stack-project-tutorial-create-a-notes-app-using-react-and-node-js/)<br>
 - [https://awstip.com/building-a-scalable-mern-stack-application-on-aws-using-a-three-tier-architecture-0b12dea74713](https://awstip.com/building-a-scalable-mern-stack-application-on-aws-using-a-three-tier-architecture-0b12dea74713)<br>
 
-## `Nodejs with Nginx`
+## Nodejs with Nginx
 - [https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/](https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/)<br>
 
-## `Nodejs Logging`
+## Nodejs Logging
 - [https://blog.logrocket.com/comparing-node-js-logging-tools/](https://blog.logrocket.com/comparing-node-js-logging-tools/)<br>
 - [https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html](https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html)<br>
 - [https://hackernoon.com/the-10-best-nodejs-logging-libraries?source=rss](https://hackernoon.com/the-10-best-nodejs-logging-libraries?source=rss)<br>
 
-## `Nodejs Error Handling`
+## Nodejs Error Handling
 - [https://blog.logrocket.com/error-handling-node-js/](https://blog.logrocket.com/error-handling-node-js/)<br>
 - [https://medium.com/ovrsea/power-up-your-node-js-debugging-and-error-handling-with-the-new-error-cause-feature-4136c563126a](https://medium.com/ovrsea/power-up-your-node-js-debugging-and-error-handling-with-the-new-error-cause-feature-4136c563126a)<br>
 - [https://blog.shiftleft.io/node-js-vulnerability-cheatsheet-447b0c9bdb99](https://blog.shiftleft.io/node-js-vulnerability-cheatsheet-447b0c9bdb99)<br>
@@ -231,7 +231,7 @@ Table of Contents
 - [https://blog.appsignal.com/2023/03/15/how-to-build-an-error-handling-layer-in-nodejs.html](https://blog.appsignal.com/2023/03/15/how-to-build-an-error-handling-layer-in-nodejs.html)<br>
 - [https://blog.openreplay.com/an-introduction-to-debugging-in-nodejs/](https://blog.openreplay.com/an-introduction-to-debugging-in-nodejs/)<br>
 
-## `Tips and tricks`
+## Tips and tricks
 - [https://javascript.plainenglish.io/node-js-backend-engineers-best-practices-overview-for-beginner-to-advance-caae74b53df](https://javascript.plainenglish.io/node-js-backend-engineers-best-practices-overview-for-beginner-to-advance-caae74b53df)<br>
 - [https://dzone.com/articles/creating-a-secure-rest-api-in-nodejs-1](https://dzone.com/articles/creating-a-secure-rest-api-in-nodejs-1)<br>
 - [https://dev.to/amoled27/best-practices-for-nodejs-development-5ao5](https://dev.to/amoled27/best-practices-for-nodejs-development-5ao5)<br>
@@ -241,27 +241,27 @@ Table of Contents
 - [https://infosecwriteups.com/ssrf-server-side-request-forgery-2865e87efc3](https://infosecwriteups.com/ssrf-server-side-request-forgery-2865e87efc3)<br>
 - [https://amplication.com/blog/understanding-and-preventing-memory-leaks-in-nodejs](https://amplication.com/blog/understanding-and-preventing-memory-leaks-in-nodejs)<br>
 
-## `Micro services`
+## Micro services
 - [https://fauna.com/blog/how-to-build-microservices-with-node-js](https://fauna.com/blog/how-to-build-microservices-with-node-js)<br>
 - [https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-application-with-docker](https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-application-with-docker)
 - [https://redis.com/blog/graphql-and-redis/](https://redis.com/blog/graphql-and-redis/)<br>
 
-## `NodeJS pattern`
+## NodeJS pattern
 - [https://dev.to/fyapy/repository-pattern-with-typescript-and-nodejs-25da](https://dev.to/fyapy/repository-pattern-with-typescript-and-nodejs-25da)<br>
 - [https://itnext.io/decoupling-the-crazy-taming-your-application-services-with-pub-sub-outbox-patterns-and-nodejs-9b00b47de373](https://itnext.io/decoupling-the-crazy-taming-your-application-services-with-pub-sub-outbox-patterns-and-nodejs-9b00b47de373)<br>
 - [https://www.codeflashbacks.com/announcing-the-enterprise-node-js-service-template/](https://www.codeflashbacks.com/announcing-the-enterprise-node-js-service-template/)<br>
 
-## `NodeJS cheatSheet`
+## NodeJS cheatSheet
 - [https://devdojo.com/devbookmark/the-nodejs-ultimate-beginner-to-pro-cheatsheet-in-2021](https://devdojo.com/devbookmark/the-nodejs-ultimate-beginner-to-pro-cheatsheet-in-2021)<br>
 - [https://morioh.com/p/7e75bc6e5041](https://morioh.com/p/7e75bc6e5041)<br>
 - [https://www.javacodegeeks.com/node-js-cheatsheet.html?ref=dailydev](https://www.javacodegeeks.com/node-js-cheatsheet.html?ref=dailydev)<br>
 
-## `NodeJS Interview`
+## NodeJS Interview
 - [https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/](https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/)<br>
 - [https://codedamn.com/problem-list/nodejs?utm_source=email-inbox&utm_medium=email&utm_campaign=14may](https://codedamn.com/problem-list/nodejs?utm_source=email-inbox&utm_medium=email&utm_campaign=14may)<br>
 - [https://hackernoon.com/nodejs-background-jobs-for-modern-developers-interview-with-startups-of-the-year-nominee-defer?source=rss](https://hackernoon.com/nodejs-background-jobs-for-modern-developers-interview-with-startups-of-the-year-nominee-defer?source=rss)<br>
 
-## `NestJS`
+## NestJS
 - [https://blog.logrocket.com/full-stack-app-tutorial-nestjs-react/](https://blog.logrocket.com/full-stack-app-tutorial-nestjs-react/)<br>
 - [https://dev.to/fekabas/learning-to-build-an-api-in-nestjs-node-typescript-3i1o](https://dev.to/fekabas/learning-to-build-an-api-in-nestjs-node-typescript-3i1o)<br>
 - [https://www.paulsblog.dev/use-nestjs-mongodb-and-docker-to-create-an-url-shortener/](https://www.paulsblog.dev/use-nestjs-mongodb-and-docker-to-create-an-url-shortener/)<br>
@@ -289,7 +289,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-add-filtering-sorting-limiting-pagination-to-nestjs-app/?ref=dailydev](https://www.freecodecamp.org/news/how-to-add-filtering-sorting-limiting-pagination-to-nestjs-app/?ref=dailydev)<br>
 
 
-## `NodeJS Unit testing`
+## NodeJS Unit testing
 - [https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic](https://github.com/goldbergyoni/javascript-testing-best-practices?utm_campaign=javascript-and-node-testing-best-practic)<br>
 - [https://semaphoreci.com/blog/unit-tests-nodejs-jest](https://semaphoreci.com/blog/unit-tests-nodejs-jest)<br>
 - [https://dzone.com/articles/web-application-testing-tutorial-a-comprehensive-g](https://dzone.com/articles/web-application-testing-tutorial-a-comprehensive-g)<br>
