@@ -375,6 +375,7 @@ Table of Contents
 - [https://www.permit.io/blog/authentication-vs-authorization?ref=dailydev](https://www.permit.io/blog/authentication-vs-authorization?ref=dailydev)<br>
 - [https://www.permit.io/blog/differences-between-oauth-vs-jwt?ref=dailydev](https://www.permit.io/blog/differences-between-oauth-vs-jwt?ref=dailydev)<br>
 - [https://arindam1729.hashnode.dev/jwt-authentication-in-nodejs?ref=dailydev](https://arindam1729.hashnode.dev/jwt-authentication-in-nodejs?ref=dailydev)<br>
+- [https://ssojet.com/blog/navigating-the-world-of-jwt-a-comprehensive-guide/?ref=dailydev](https://ssojet.com/blog/navigating-the-world-of-jwt-a-comprehensive-guide/?ref=dailydev)<br>
 
 ## NodeJS with MongoDB
 - [https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html](https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html)<br>
