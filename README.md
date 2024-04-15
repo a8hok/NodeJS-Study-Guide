@@ -287,6 +287,7 @@ Table of Contents
 - [https://medium.com/@dev.muhammet.ozen/advanced-transaction-management-with-nestjs-typeorm-43a839363491](https://medium.com/@dev.muhammet.ozen/advanced-transaction-management-with-nestjs-typeorm-43a839363491)<br>
 - [https://www.freecodecamp.org/news/message-queues-with-rabbitmq-in-nest-js/?ref=dailydev](https://www.freecodecamp.org/news/message-queues-with-rabbitmq-in-nest-js/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-add-filtering-sorting-limiting-pagination-to-nestjs-app/?ref=dailydev](https://www.freecodecamp.org/news/how-to-add-filtering-sorting-limiting-pagination-to-nestjs-app/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-use-nodemailer-in-nestjs/?ref=dailydev](https://www.freecodecamp.org/news/how-to-use-nodemailer-in-nestjs/?ref=dailydev)<br>
 
 
 ## NodeJS Unit testing
