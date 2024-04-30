@@ -289,6 +289,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-add-filtering-sorting-limiting-pagination-to-nestjs-app/?ref=dailydev](https://www.freecodecamp.org/news/how-to-add-filtering-sorting-limiting-pagination-to-nestjs-app/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-use-nodemailer-in-nestjs/?ref=dailydev](https://www.freecodecamp.org/news/how-to-use-nodemailer-in-nestjs/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/?ref=dailydev](https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/](https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/)<br>
 
 
 ## NodeJS Unit testing
