@@ -200,6 +200,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/?ref=dailydev](https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/create-crud-api-project/](https://www.freecodecamp.org/news/create-crud-api-project/)<br>
 - [https://www.cerbos.dev/blog/node-js-authorization?ref=dailydev](https://www.cerbos.dev/blog/node-js-authorization?ref=dailydev)<br>
+- [https://www.sitepoint.com/sending-email-using-node-js/?ref=dailydev](https://www.sitepoint.com/sending-email-using-node-js/?ref=dailydev)<br>
 
 ## MERN
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
