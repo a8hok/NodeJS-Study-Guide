@@ -96,6 +96,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/](https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/)<br>
 - [https://www.freecodecamp.org/news/crud-api-with-node-js-express-mongodb/?ref=dailydev](https://www.freecodecamp.org/news/crud-api-with-node-js-express-mongodb/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-work-with-files-in-node-js/](https://www.freecodecamp.org/news/how-to-work-with-files-in-node-js/)<br>
+- [https://coinsbench.com/understanding-nodes-a-beginners-guide-a89172a04bfe](https://coinsbench.com/understanding-nodes-a-beginners-guide-a89172a04bfe)<br>
 
 
 ## Coding standards
