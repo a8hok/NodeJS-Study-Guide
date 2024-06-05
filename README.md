@@ -109,6 +109,7 @@ Table of Contents
 - [https://devdojo.com/chapagainashik/stripe-checkout-with-nextjs](https://devdojo.com/chapagainashik/stripe-checkout-with-nextjs)<br>
 - [https://snyk.io/blog/comparing-node-js-web-frameworks/](https://snyk.io/blog/comparing-node-js-web-frameworks/)<br>
 - [https://dev.to/rahulladumor/10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5](https://dev.to/rahulladumor/10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5)<br>
+- [https://blog.bitsrc.io/top-5-nodejs-frameworks-in-2024-32c7fe9d49c6](https://blog.bitsrc.io/top-5-nodejs-frameworks-in-2024-32c7fe9d49c6)<br>
 
 
 ## Performance Optimizations
