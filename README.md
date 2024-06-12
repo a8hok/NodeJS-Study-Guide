@@ -294,6 +294,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-use-nodemailer-in-nestjs/?ref=dailydev](https://www.freecodecamp.org/news/how-to-use-nodemailer-in-nestjs/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/?ref=dailydev](https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/](https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/)<br>
+- [https://itnext.io/building-microservices-with-nestjs-tcp-and-typescript-dda33aad8b89](https://itnext.io/building-microservices-with-nestjs-tcp-and-typescript-dda33aad8b89)<br>
 
 
 ## NodeJS Unit testing
