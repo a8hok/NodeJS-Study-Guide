@@ -403,3 +403,6 @@ Table of Contents
 
 ## NodeJS Steaming
 - [https://dev.to/bsorrentino/how-to-stream-data-over-http-using-node-and-fetch-api-4ij2?ref=dailydev](https://dev.to/bsorrentino/how-to-stream-data-over-http-using-node-and-fetch-api-4ij2?ref=dailydev)<br>
+
+## NodeJS Serverless
+- [https://www.freecodecamp.org/news/serverless-node-js-tutorial/](https://www.freecodecamp.org/news/serverless-node-js-tutorial/)<br>
