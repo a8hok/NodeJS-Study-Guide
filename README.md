@@ -249,6 +249,7 @@ Table of Contents
 - [https://fauna.com/blog/how-to-build-microservices-with-node-js](https://fauna.com/blog/how-to-build-microservices-with-node-js)<br>
 - [https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-application-with-docker](https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-application-with-docker)
 - [https://redis.com/blog/graphql-and-redis/](https://redis.com/blog/graphql-and-redis/)<br>
+- [https://medium.com/@akinnurun.samuel/writing-a-microservice-using-node-js-14ce992c2003](https://medium.com/@akinnurun.samuel/writing-a-microservice-using-node-js-14ce992c2003)<br>
 
 ## NodeJS pattern
 - [https://dev.to/fyapy/repository-pattern-with-typescript-and-nodejs-25da](https://dev.to/fyapy/repository-pattern-with-typescript-and-nodejs-25da)<br>
