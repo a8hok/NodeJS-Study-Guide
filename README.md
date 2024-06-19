@@ -38,7 +38,7 @@ Table of Contents
 - [NodeJS library](#nodejs-library)
 - [NodeJS Steaming](#nodejs-steaming)
 
-## Learn Nodejs
+## Learn NodeJS
 - [https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7](https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7)<br>
 - [https://dev.to/geraldmuvengei06/how-use-environment-variables-env-in-expressjs-3bpc](https://dev.to/geraldmuvengei06/how-use-environment-variables-env-in-expressjs-3bpc)<br>
 - [https://enlear.academy/nodejs-backpressuring-in-streams-52638f505e1b](https://enlear.academy/nodejs-backpressuring-in-streams-52638f505e1b)<br>
@@ -138,6 +138,7 @@ Table of Contents
 - [https://dev.to/sasithwarnakafonseka/nodejs-architectural-patterns-with-examples-1335](https://dev.to/sasithwarnakafonseka/nodejs-architectural-patterns-with-examples-1335)<br>
 - [https://nextcodeblock.com/posts/api-architectural-styles/](https://nextcodeblock.com/posts/api-architectural-styles/)<br>
 - [https://semaphoreci.com/blog/securing-nodejs](https://semaphoreci.com/blog/securing-nodejs)<br>
+- [https://medium.com/@manikmudholkar831995/event-loop-in-nodejs-999f6db7eb04](https://medium.com/@manikmudholkar831995/event-loop-in-nodejs-999f6db7eb04)<br>
 
 
 ## NodeJS with Typescript
