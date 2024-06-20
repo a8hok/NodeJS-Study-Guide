@@ -388,6 +388,7 @@ Table of Contents
 - [https://www.permit.io/blog/differences-between-oauth-vs-jwt?ref=dailydev](https://www.permit.io/blog/differences-between-oauth-vs-jwt?ref=dailydev)<br>
 - [https://arindam1729.hashnode.dev/jwt-authentication-in-nodejs?ref=dailydev](https://arindam1729.hashnode.dev/jwt-authentication-in-nodejs?ref=dailydev)<br>
 - [https://ssojet.com/blog/navigating-the-world-of-jwt-a-comprehensive-guide/?ref=dailydev](https://ssojet.com/blog/navigating-the-world-of-jwt-a-comprehensive-guide/?ref=dailydev)<br>
+- [https://medium.com/@iamprovidence/authentication-history-basic-digest-cookie-session-token-jwt-api-key-55d6c21be90b](https://medium.com/@iamprovidence/authentication-history-basic-digest-cookie-session-token-jwt-api-key-55d6c21be90b)<br>
 
 ## NodeJS with MongoDB
 - [https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html](https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html)<br>
