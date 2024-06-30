@@ -299,6 +299,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/](https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/)<br>
 - [https://itnext.io/building-microservices-with-nestjs-tcp-and-typescript-dda33aad8b89](https://itnext.io/building-microservices-with-nestjs-tcp-and-typescript-dda33aad8b89)<br>
 - [https://medium.com/@zigbalthazar/implement-retry-pattern-in-nest-js-2ad505324960](https://medium.com/@zigbalthazar/implement-retry-pattern-in-nest-js-2ad505324960)<br>
+- [https://coinsbench.com/building-a-balancer-price-retrieval-api-with-nestjs-5ad53e72e2cf](https://coinsbench.com/building-a-balancer-price-retrieval-api-with-nestjs-5ad53e72e2cf)<br>
 
 
 ## NodeJS Unit testing
