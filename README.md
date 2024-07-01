@@ -396,6 +396,7 @@ Table of Contents
 ## NodeJS with MongoDB
 - [https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html](https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html)<br>
 - [https://awstip.com/deploy-node-js-with-mongodb-app-on-aws-5b20ac4418f9](https://awstip.com/deploy-node-js-with-mongodb-app-on-aws-5b20ac4418f9)<br>
+- [https://blog.openreplay.com/mongoose--simplifying-mongodb-for-node/?ref=dailydev](https://blog.openreplay.com/mongoose--simplifying-mongodb-for-node/?ref=dailydev)<br>
 
 ## NodeJS Guide
 - [https://hackernoon.com/file-based-routing-in-nodejs-a-brief-guide?source=rss](https://hackernoon.com/file-based-routing-in-nodejs-a-brief-guide?source=rss)<br>
