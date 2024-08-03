@@ -368,6 +368,7 @@ Table of Contents
 - [https://dev.to/mohammadfaisal/nodejs-security-best-practices-34ck?ref=dailydev](https://dev.to/mohammadfaisal/nodejs-security-best-practices-34ck?ref=dailydev)<br>
 - [https://www.strongdm.com/blog/api-security-best-practices?ref=dailydev](https://www.strongdm.com/blog/api-security-best-practices?ref=dailydev)<br>
 - [https://developer.mozilla.org/en-US/blog/securing-apis-express-rate-limit-and-slow-down/?ref=dailydev](https://developer.mozilla.org/en-US/blog/securing-apis-express-rate-limit-and-slow-down/?ref=dailydev)<br>
+- [https://medium.com/@modywmbadr/securing-node-js-in-production-f11822ab20b7](https://medium.com/@modywmbadr/securing-node-js-in-production-f11822ab20ab7)<br>
 
 ## NodeJS Migration
 - [https://blog.appsignal.com/2023/06/28/migrate-your-express-application-to-fastify.html](https://blog.appsignal.com/2023/06/28/migrate-your-express-application-to-fastify.html)<br>
