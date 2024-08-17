@@ -302,6 +302,7 @@ Table of Contents
 - [https://itnext.io/building-microservices-with-nestjs-tcp-and-typescript-dda33aad8b89](https://itnext.io/building-microservices-with-nestjs-tcp-and-typescript-dda33aad8b89)<br>
 - [https://medium.com/@zigbalthazar/implement-retry-pattern-in-nest-js-2ad505324960](https://medium.com/@zigbalthazar/implement-retry-pattern-in-nest-js-2ad505324960)<br>
 - [https://coinsbench.com/building-a-balancer-price-retrieval-api-with-nestjs-5ad53e72e2cf](https://coinsbench.com/building-a-balancer-price-retrieval-api-with-nestjs-5ad53e72e2cf)<br>
+- [https://www.freecodecamp.org/news/build-a-crud-rest-api-with-nestjs-docker-swagger-prisma/](https://www.freecodecamp.org/news/build-a-crud-rest-api-with-nestjs-docker-swagger-prisma/)<br>
 
 
 ## NodeJS Unit testing
