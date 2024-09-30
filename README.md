@@ -427,3 +427,4 @@ Table of Contents
 
 ## NodeJS documentation
 - [https://blog.openreplay.com/document-your-api-with-swagger/?ref=dailydev](https://blog.openreplay.com/document-your-api-with-swagger/?ref=dailydev)<br>
+- [https://rapidapi.com/courses](https://rapidapi.com/courses)<br>
