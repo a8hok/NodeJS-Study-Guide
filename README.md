@@ -3,7 +3,7 @@
 Table of Contents
 =================
 
-- [Learn Nodejs](#learn-nodejs)
+- [Learn NodeJS](#learn-nodejs)
 - [Coding standards](#coding-standards)
 - [NodeJS frameworks](#nodejs-frameworks)
 - [Performance Optimizations](#performance-optimizations)
@@ -21,7 +21,7 @@ Table of Contents
 - [NodeJS Interview](#nodejs-interview)
 - [NestJS](#nestjs)
 - [NodeJS Unit testing](#nodejs-unit-testing)
-- [NodeJS with Typescript](#nodejs-with-typescript-1)
+- [NodeJS with Typescript](#nodejs-with-typescript)
 - [NodeJS best practices](#nodejs-best-practices)
 - [API practices](#api-practices)
 - [Package Manager](#package-manager)
@@ -37,6 +37,8 @@ Table of Contents
 - [NodeJS Queue](#nodejs-queue)
 - [NodeJS library](#nodejs-library)
 - [NodeJS Steaming](#nodejs-steaming)
+- [NodeJS Serverless](#nodejs-serverless)
+- [NodeJS documentation](#nodejs-documentation)
 
 ## Learn NodeJS
 - [https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7](https://javascript.plainenglish.io/core-concepts-of-node-js-in-just-6-min-c4702fcc55a7)<br>
