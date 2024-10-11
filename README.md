@@ -306,6 +306,7 @@ Table of Contents
 - [https://coinsbench.com/building-a-balancer-price-retrieval-api-with-nestjs-5ad53e72e2cf](https://coinsbench.com/building-a-balancer-price-retrieval-api-with-nestjs-5ad53e72e2cf)<br>
 - [https://www.freecodecamp.org/news/build-a-crud-rest-api-with-nestjs-docker-swagger-prisma/](https://www.freecodecamp.org/news/build-a-crud-rest-api-with-nestjs-docker-swagger-prisma/)<br>
 - [https://blog.stackademic.com/mastering-microservices-in-nestjs-powerful-design-patterns-for-flexibility-resilience-and-64309ae219e8](https://blog.stackademic.com/mastering-microservices-in-nestjs-powerful-design-patterns-for-flexibility-resilience-and-64309ae219e8)<br>
+- [https://medium.com/@swapnilsuman65/generate-pdfs-dynamically-in-nodejs-nestjs-398fe3617a4a](https://medium.com/@swapnilsuman65/generate-pdfs-dynamically-in-nodejs-nestjs-398fe3617a4a)<br>
 
 
 ## NodeJS Unit testing
