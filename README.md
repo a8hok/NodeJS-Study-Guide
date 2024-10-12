@@ -144,6 +144,7 @@ Table of Contents
 - [https://nextcodeblock.com/posts/api-architectural-styles/](https://nextcodeblock.com/posts/api-architectural-styles/)<br>
 - [https://semaphoreci.com/blog/securing-nodejs](https://semaphoreci.com/blog/securing-nodejs)<br>
 - [https://medium.com/@manikmudholkar831995/event-loop-in-nodejs-999f6db7eb04](https://medium.com/@manikmudholkar831995/event-loop-in-nodejs-999f6db7eb04)<br>
+- [https://developers.redhat.com/blog/2021/03/08/introduction-to-the-node-js-reference-architecture-part-1-overview?ref=dailydev#](https://developers.redhat.com/blog/2021/03/08/introduction-to-the-node-js-reference-architecture-part-1-overview?ref=dailydev#)<br>
 
 
 ## NodeJS with Typescript
