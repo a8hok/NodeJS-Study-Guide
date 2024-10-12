@@ -102,6 +102,7 @@ Table of Contents
 - [https://medium.com/@manikmudholkar831995/the-v8-javascript-engine-d1434ca77c96](https://medium.com/@manikmudholkar831995/the-v8-javascript-engine-d1434ca77c96)<br>
 - [https://www.devsecurely.com/blog/2024/06/cors-the-ultimate-guide?ref=dailydev](https://www.devsecurely.com/blog/2024/06/cors-the-ultimate-guide?ref=dailydev)<br>
 - [https://blog.platformatic.dev/introducing-the-node-application-platform?ref=dailydev](https://blog.platformatic.dev/introducing-the-node-application-platform?ref=dailydev)<br>
+- [https://pavel-romanov.com/understanding-nodejs-buffer?ref=dailydev](https://pavel-romanov.com/understanding-nodejs-buffer?ref=dailydev)<br>
 
 
 ## Coding standards
