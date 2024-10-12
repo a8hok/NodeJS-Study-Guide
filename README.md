@@ -101,6 +101,7 @@ Table of Contents
 - [https://coinsbench.com/understanding-nodes-a-beginners-guide-a89172a04bfe](https://coinsbench.com/understanding-nodes-a-beginners-guide-a89172a04bfe)<br>
 - [https://medium.com/@manikmudholkar831995/the-v8-javascript-engine-d1434ca77c96](https://medium.com/@manikmudholkar831995/the-v8-javascript-engine-d1434ca77c96)<br>
 - [https://www.devsecurely.com/blog/2024/06/cors-the-ultimate-guide?ref=dailydev](https://www.devsecurely.com/blog/2024/06/cors-the-ultimate-guide?ref=dailydev)<br>
+- [https://blog.platformatic.dev/introducing-the-node-application-platform?ref=dailydev](https://blog.platformatic.dev/introducing-the-node-application-platform?ref=dailydev)<br>
 
 
 ## Coding standards
