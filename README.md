@@ -146,6 +146,7 @@ Table of Contents
 - [https://semaphoreci.com/blog/securing-nodejs](https://semaphoreci.com/blog/securing-nodejs)<br>
 - [https://medium.com/@manikmudholkar831995/event-loop-in-nodejs-999f6db7eb04](https://medium.com/@manikmudholkar831995/event-loop-in-nodejs-999f6db7eb04)<br>
 - [https://developers.redhat.com/blog/2021/03/08/introduction-to-the-node-js-reference-architecture-part-1-overview?ref=dailydev#](https://developers.redhat.com/blog/2021/03/08/introduction-to-the-node-js-reference-architecture-part-1-overview?ref=dailydev#)<br>
+- [https://www.platformatichq.com/node-principles?ref=dailydev](https://www.platformatichq.com/node-principles?ref=dailydev)<br>
 
 
 ## NodeJS with Typescript
