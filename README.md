@@ -318,6 +318,7 @@ Table of Contents
 - [https://medium.com/@swapnilsuman65/generate-pdfs-dynamically-in-nodejs-nestjs-398fe3617a4a](https://medium.com/@swapnilsuman65/generate-pdfs-dynamically-in-nodejs-nestjs-398fe3617a4a)<br>
 - [https://medium.com/@abeythilakeudara3/nestjs-framework-fundamentals-part-01-7e2fa9e91bad](https://medium.com/@abeythilakeudara3/nestjs-framework-fundamentals-part-01-7e2fa9e91bad)<br>
 - [https://blog.stackademic.com/mastering-microservices-in-nestjs-powerful-design-patterns-for-flexibility-resilience-and-64309ae219e8](https://blog.stackademic.com/mastering-microservices-in-nestjs-powerful-design-patterns-for-flexibility-resilience-and-64309ae219e8)<br>
+- [https://blog.stackademic.com/mastering-microservices-in-nestjs-powerful-design-patterns-for-flexibility-resilience-and-64309ae219e8](https://blog.stackademic.com/mastering-microservices-in-nestjs-powerful-design-patterns-for-flexibility-resilience-and-64309ae219e8)<br>
 
 
 ## NodeJS Unit testing
