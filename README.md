@@ -130,6 +130,7 @@ Table of Contents
 - [https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef](https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef)<br>
 - [https://dzone.com/articles/nodejs-architectural-gems-and-best-practices-for-d](https://dzone.com/articles/nodejs-architectural-gems-and-best-practices-for-d)<br>
 - [https://tsh.io/blog/simple-guide-concurrency-node-js/](https://tsh.io/blog/simple-guide-concurrency-node-js/)<br>
+- [https://medium.com/javarevisited/optimizing-node-js-performance-tips-and-tricks-4052a0d43f88](https://medium.com/javarevisited/optimizing-node-js-performance-tips-and-tricks-4052a0d43f88)<br>
 
 
 ## Nodejs Architecture
@@ -257,6 +258,7 @@ Table of Contents
 - [https://infosecwriteups.com/ssrf-server-side-request-forgery-2865e87efc3](https://infosecwriteups.com/ssrf-server-side-request-forgery-2865e87efc3)<br>
 - [https://amplication.com/blog/understanding-and-preventing-memory-leaks-in-nodejs](https://amplication.com/blog/understanding-and-preventing-memory-leaks-in-nodejs)<br>
 - [https://github.com/goldbergyoni/nodebestpractices?ref=dailydev#readme](https://github.com/goldbergyoni/nodebestpractices?ref=dailydev#readme)<br>
+
 
 ## Micro services
 - [https://fauna.com/blog/how-to-build-microservices-with-node-js](https://fauna.com/blog/how-to-build-microservices-with-node-js)<br>
