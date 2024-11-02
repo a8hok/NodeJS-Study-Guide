@@ -319,6 +319,7 @@ Table of Contents
 - [https://medium.com/@abeythilakeudara3/nestjs-framework-fundamentals-part-01-7e2fa9e91bad](https://medium.com/@abeythilakeudara3/nestjs-framework-fundamentals-part-01-7e2fa9e91bad)<br>
 - [https://blog.stackademic.com/mastering-microservices-in-nestjs-powerful-design-patterns-for-flexibility-resilience-and-64309ae219e8](https://blog.stackademic.com/mastering-microservices-in-nestjs-powerful-design-patterns-for-flexibility-resilience-and-64309ae219e8)<br>
 - [https://blog.stackademic.com/mastering-microservices-in-nestjs-powerful-design-patterns-for-flexibility-resilience-and-64309ae219e8](https://blog.stackademic.com/mastering-microservices-in-nestjs-powerful-design-patterns-for-flexibility-resilience-and-64309ae219e8)<br>
+- [https://www.freecodecamp.org/news/comprehensive-nestjs-course/](https://www.freecodecamp.org/news/comprehensive-nestjs-course/)<br>
 
 
 ## NodeJS Unit testing
