@@ -375,6 +375,7 @@ Table of Contents
 - [https://www.youtube.com/watch?v=_gQaygjm_hg](https://www.youtube.com/watch?v=_gQaygjm_hg)<br>
 - [https://blog.amigoscode.com/p/api-development-roadmap-for-developers?r=22x1kh&ref=dailydev&triedRedirect=true](https://blog.amigoscode.com/p/api-development-roadmap-for-developers?r=22x1kh&ref=dailydev&triedRedirect=true)<br>
 - [https://www.freecodecamp.org/news/learn-how-to-secure-api-servers/](https://www.freecodecamp.org/news/learn-how-to-secure-api-servers/)<br>
+- [https://dev.to/msnmongare/best-practices-for-naming-api-endpoints-2n5o?ref=dailydev](https://dev.to/msnmongare/best-practices-for-naming-api-endpoints-2n5o?ref=dailydev)<br>
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
