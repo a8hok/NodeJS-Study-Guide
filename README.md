@@ -379,6 +379,7 @@ Table of Contents
 - [https://dev.to/msnmongare/best-practices-for-naming-api-endpoints-2n5o?ref=dailydev](https://dev.to/msnmongare/best-practices-for-naming-api-endpoints-2n5o?ref=dailydev)<br>
 - [https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling?ref=dailydev](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/api-documentation-best-practices-course/](https://www.freecodecamp.org/news/api-documentation-best-practices-course/)<br>
+- [https://newsletter.techworld-with-milan.com/p/how-to-learn-api?ref=dailydev](https://newsletter.techworld-with-milan.com/p/how-to-learn-api?ref=dailydev)<br>
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
