@@ -103,6 +103,7 @@ Table of Contents
 - [https://www.devsecurely.com/blog/2024/06/cors-the-ultimate-guide?ref=dailydev](https://www.devsecurely.com/blog/2024/06/cors-the-ultimate-guide?ref=dailydev)<br>
 - [https://blog.platformatic.dev/introducing-the-node-application-platform?ref=dailydev](https://blog.platformatic.dev/introducing-the-node-application-platform?ref=dailydev)<br>
 - [https://pavel-romanov.com/understanding-nodejs-buffer?ref=dailydev](https://pavel-romanov.com/understanding-nodejs-buffer?ref=dailydev)<br>
+- [https://medium.com/@modywmbadr/how-dynamic-array-works-in-node-js-3d4e15c9ce73](https://medium.com/@modywmbadr/how-dynamic-array-works-in-node-js-3d4e15c9ce73)<br>
 
 
 ## Coding standards
