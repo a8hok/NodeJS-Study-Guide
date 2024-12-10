@@ -429,6 +429,7 @@ Table of Contents
 - [https://ssojet.com/blog/navigating-the-world-of-jwt-a-comprehensive-guide/?ref=dailydev](https://ssojet.com/blog/navigating-the-world-of-jwt-a-comprehensive-guide/?ref=dailydev)<br>
 - [https://medium.com/@iamprovidence/authentication-history-basic-digest-cookie-session-token-jwt-api-key-55d6c21be90b](https://medium.com/@iamprovidence/authentication-history-basic-digest-cookie-session-token-jwt-api-key-55d6c21be90b)<br>
 - [https://www.syncfusion.com/blogs/post/secure-jwt-storage-best-practices?ref=dailydev](https://www.syncfusion.com/blogs/post/secure-jwt-storage-best-practices?ref=dailydev)<br>
+- [https://blog.logrocket.com/understanding-jwt-oauth-bearer-tokens/?ref=dailydev](https://blog.logrocket.com/understanding-jwt-oauth-bearer-tokens/?ref=dailydev)<br>
 
 ## NodeJS with MongoDB
 - [https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html](https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html)<br>
