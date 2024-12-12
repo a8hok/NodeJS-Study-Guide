@@ -332,6 +332,7 @@ Table of Contents
 - [https://dzone.com/articles/web-application-testing-tutorial-a-comprehensive-g](https://dzone.com/articles/web-application-testing-tutorial-a-comprehensive-g)<br>
 - [https://circleci.com/blog/mocking-api-requests-with-mirage/](https://circleci.com/blog/mocking-api-requests-with-mirage/)<br>
 - [https://developers.redhat.com/articles/2023/07/27/introduction-nodejs-reference-architecture-testing](https://developers.redhat.com/articles/2023/07/27/introduction-nodejs-reference-architecture-testing)<br>
+- [https://blog.appsignal.com/2024/10/16/best-testing-practices-in-nodejs.html?ref=dailydev](https://blog.appsignal.com/2024/10/16/best-testing-practices-in-nodejs.html?ref=dailydev)<br>
 
 ## NodeJS with Typescript
 - [https://itnext.io/simple-cqrs-in-nodejs-with-typescript-6da6d3e8a420](https://itnext.io/simple-cqrs-in-nodejs-with-typescript-6da6d3e8a420)<br>
