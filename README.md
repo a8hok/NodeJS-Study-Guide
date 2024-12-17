@@ -432,6 +432,7 @@ Table of Contents
 - [https://www.syncfusion.com/blogs/post/secure-jwt-storage-best-practices?ref=dailydev](https://www.syncfusion.com/blogs/post/secure-jwt-storage-best-practices?ref=dailydev)<br>
 - [https://blog.logrocket.com/understanding-jwt-oauth-bearer-tokens/?ref=dailydev](https://blog.logrocket.com/understanding-jwt-oauth-bearer-tokens/?ref=dailydev)<br>
 - [https://hackernoon.com/build-a-login-and-logout-api-using-expressjs-nodejs?ref=dailydev](https://hackernoon.com/build-a-login-and-logout-api-using-expressjs-nodejs?ref=dailydev)<br>
+- [https://neon.tech/blog/wtf-are-jwts?ref=dailydev](https://neon.tech/blog/wtf-are-jwts?ref=dailydev)<br>
 
 ## NodeJS with MongoDB
 - [https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html](https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html)<br>
