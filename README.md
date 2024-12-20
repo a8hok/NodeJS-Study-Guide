@@ -105,6 +105,7 @@ Table of Contents
 - [https://pavel-romanov.com/understanding-nodejs-buffer?ref=dailydev](https://pavel-romanov.com/understanding-nodejs-buffer?ref=dailydev)<br>
 - [https://medium.com/@modywmbadr/how-dynamic-array-works-in-node-js-3d4e15c9ce73](https://medium.com/@modywmbadr/how-dynamic-array-works-in-node-js-3d4e15c9ce73)<br>
 - [https://blog.platformatic.dev/handling-environment-variables-in-nodejs?ref=dailydev](https://blog.platformatic.dev/handling-environment-variables-in-nodejs?ref=dailydev)<br>
+- [https://jsdev.space/files-dirs-nodejs/?ref=dailydev](https://jsdev.space/files-dirs-nodejs/?ref=dailydev)<br>
 
 
 ## Coding standards
