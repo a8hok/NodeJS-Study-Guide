@@ -244,6 +244,7 @@ Table of Contents
 - [https://hackernoon.com/the-10-best-nodejs-logging-libraries?source=rss](https://hackernoon.com/the-10-best-nodejs-logging-libraries?source=rss)<br>
 - [https://betterstack.com/community/guides/logging/logging-framework/?ref=dailydev](https://betterstack.com/community/guides/logging/logging-framework/?ref=dailydev)<br>
 - [https://blog.platformatic.dev/handling-environment-variables-in-nodejs?ref=dailydev](https://blog.platformatic.dev/handling-environment-variables-in-nodejs?ref=dailydev)<br>
+- [https://www.youtube.com/watch?v=I2mWnh66Bkg&t=3s](https://www.youtube.com/watch?v=I2mWnh66Bkg&t=3s)<br>
 
 ## Nodejs Error Handling
 - [https://blog.logrocket.com/error-handling-node-js/](https://blog.logrocket.com/error-handling-node-js/)<br>
