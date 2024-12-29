@@ -388,6 +388,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/?ref=dailydev](https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/?ref=dailydev)<br>
 - [https://newsletter.techworld-with-milan.com/p/how-to-learn-api?ref=dailydev](https://newsletter.techworld-with-milan.com/p/how-to-learn-api?ref=dailydev)<br>
 - [https://implementing.substack.com/p/how-to-make-the-best-use-of-api-pagination?ref=dailydev&triedRedirect=true](https://implementing.substack.com/p/how-to-make-the-best-use-of-api-pagination?ref=dailydev&triedRedirect=true)<br>
+- [https://blogs.halodoc.io/improving-api-latency-guide/?ref=dailydev](https://blogs.halodoc.io/improving-api-latency-guide/?ref=dailydev)<br>
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
