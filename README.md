@@ -477,3 +477,6 @@ Table of Contents
 ## NodeJS youtube
 - [https://www.youtube.com/watch?v=dQV0xzOeGzU](https://www.youtube.com/watch?v=dQV0xzOeGzU)<br>
 - [https://www.youtube.com/watch?v=m6T7Bi8OEvc](https://www.youtube.com/watch?v=m6T7Bi8OEvc)<br>
+
+## NodeJS ORM
+- [https://blog.logrocket.com/drizzle-vs-prisma-which-orm-is-best/?ref=dailydev](https://blog.logrocket.com/drizzle-vs-prisma-which-orm-is-best/?ref=dailydev)<br>
