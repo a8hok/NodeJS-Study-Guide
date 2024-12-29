@@ -1,4 +1,4 @@
-# NodeJS Study Guide
+v# NodeJS Study Guide
 
 Table of Contents
 =================
@@ -327,6 +327,7 @@ Table of Contents
 - [https://blog.stackademic.com/mastering-microservices-in-nestjs-powerful-design-patterns-for-flexibility-resilience-and-64309ae219e8](https://blog.stackademic.com/mastering-microservices-in-nestjs-powerful-design-patterns-for-flexibility-resilience-and-64309ae219e8)<br>
 - [https://blog.stackademic.com/mastering-microservices-in-nestjs-powerful-design-patterns-for-flexibility-resilience-and-64309ae219e8](https://blog.stackademic.com/mastering-microservices-in-nestjs-powerful-design-patterns-for-flexibility-resilience-and-64309ae219e8)<br>
 - [https://www.freecodecamp.org/news/comprehensive-nestjs-course/](https://www.freecodecamp.org/news/comprehensive-nestjs-course/)<br>
+- [https://dev.to/rayenmabrouk/best-tech-stack-for-startups-in-2025-5h2l](https://dev.to/rayenmabrouk/best-tech-stack-for-startups-in-2025-5h2l)<br>
 
 
 ## NodeJS Unit testing
