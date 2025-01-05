@@ -484,3 +484,6 @@ Table of Contents
 
 ## NodeJS ORM
 - [https://blog.logrocket.com/drizzle-vs-prisma-which-orm-is-best/?ref=dailydev](https://blog.logrocket.com/drizzle-vs-prisma-which-orm-is-best/?ref=dailydev)<br>
+
+## NodeJS sockets
+- [https://kumneger.vercel.app/blog/server-sent-events-explained](https://kumneger.vercel.app/blog/server-sent-events-explained)<br>
