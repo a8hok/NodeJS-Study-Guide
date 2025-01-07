@@ -442,6 +442,7 @@ Table of Contents
 - [https://blog.logrocket.com/understanding-jwt-oauth-bearer-tokens/?ref=dailydev](https://blog.logrocket.com/understanding-jwt-oauth-bearer-tokens/?ref=dailydev)<br>
 - [https://hackernoon.com/build-a-login-and-logout-api-using-expressjs-nodejs?ref=dailydev](https://hackernoon.com/build-a-login-and-logout-api-using-expressjs-nodejs?ref=dailydev)<br>
 - [https://neon.tech/blog/wtf-are-jwts?ref=dailydev](https://neon.tech/blog/wtf-are-jwts?ref=dailydev)<br>
+- [https://www.cerbos.dev/blog/role-based-access-control-best-practices?ref=dailydev](https://www.cerbos.dev/blog/role-based-access-control-best-practices?ref=dailydev)<br>
 
 ## NodeJS with MongoDB
 - [https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html](https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html)<br>
