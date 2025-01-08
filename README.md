@@ -488,3 +488,6 @@ Table of Contents
 
 ## NodeJS sockets
 - [https://kumneger.vercel.app/blog/server-sent-events-explained](https://kumneger.vercel.app/blog/server-sent-events-explained)<br>
+
+## Backend Essientials
+- [https://blog.stackademic.com/essential-skills-every-back-end-developer-needs-4474809e14d0](https://blog.stackademic.com/essential-skills-every-back-end-developer-needs-4474809e14d0)<br>
