@@ -165,6 +165,7 @@ Table of Contents
 - [https://dev.to/about14sheep/streaming-data-from-aws-s3-using-nodejs-stream-api-and-typescript-3dj0](https://dev.to/about14sheep/streaming-data-from-aws-s3-using-nodejs-stream-api-and-typescript-3dj0)<br>
 - [https://betterprogramming.pub/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6](https://betterprogramming.pub/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6)<br>
 - [https://rohitpaulscodism.hashnode.dev/mastering-nodejs-streams-with-typescript-a-complete-guide?ref=dailydev](https://rohitpaulscodism.hashnode.dev/mastering-nodejs-streams-with-typescript-a-complete-guide?ref=dailydev)<br>
+- [https://jsdev.space/howto/env-ts-zod?ref=dailydev](https://jsdev.space/howto/env-ts-zod?ref=dailydev)<br>
 
 
 ## Projects
