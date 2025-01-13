@@ -394,6 +394,7 @@ Table of Contents
 - [https://implementing.substack.com/p/how-to-make-the-best-use-of-api-pagination?ref=dailydev&triedRedirect=true](https://implementing.substack.com/p/how-to-make-the-best-use-of-api-pagination?ref=dailydev&triedRedirect=true)<br>
 - [https://blogs.halodoc.io/improving-api-latency-guide/?ref=dailydev](https://blogs.halodoc.io/improving-api-latency-guide/?ref=dailydev)<br>
 - [https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-a0261cdf8886](https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-a0261cdf8886)<br>
+- [https://pixel506.com/insights/how-much-traffic-can-nodejs-handle?ref=dailydev](https://pixel506.com/insights/how-much-traffic-can-nodejs-handle?ref=dailydev)<br>
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
