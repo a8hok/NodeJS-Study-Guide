@@ -123,6 +123,7 @@ Table of Contents
 - [https://dev.to/rahulladumor/10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5](https://dev.to/rahulladumor/10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5)<br>
 - [https://blog.bitsrc.io/top-5-nodejs-frameworks-in-2024-32c7fe9d49c6](https://blog.bitsrc.io/top-5-nodejs-frameworks-in-2024-32c7fe9d49c6)<br>
 - [https://dev.to/encore/nodejs-frameworks-roundup-2024-elysia-hono-nest-encore-which-should-you-pick-19oj?ref=dailydev](https://dev.to/encore/nodejs-frameworks-roundup-2024-elysia-hono-nest-encore-which-should-you-pick-19oj?ref=dailydev)<br>
+- [https://blog.stackademic.com/top-10-backend-frameworks-ranked-the-good-the-bad-and-the-ugly-aa0d06186293](https://blog.stackademic.com/top-10-backend-frameworks-ranked-the-good-the-bad-and-the-ugly-aa0d06186293)<br>
 
 
 ## Performance Optimizations
