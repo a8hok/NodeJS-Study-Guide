@@ -450,6 +450,7 @@ Table of Contents
 - [https://hackernoon.com/build-a-login-and-logout-api-using-expressjs-nodejs?ref=dailydev](https://hackernoon.com/build-a-login-and-logout-api-using-expressjs-nodejs?ref=dailydev)<br>
 - [https://neon.tech/blog/wtf-are-jwts?ref=dailydev](https://neon.tech/blog/wtf-are-jwts?ref=dailydev)<br>
 - [https://www.cerbos.dev/blog/role-based-access-control-best-practices?ref=dailydev](https://www.cerbos.dev/blog/role-based-access-control-best-practices?ref=dailydev)<br>
+- [https://medium.com/procedureflow-engineering/building-api-authentication-at-procedureflow-4d1fe78bb293](https://medium.com/procedureflow-engineering/building-api-authentication-at-procedureflow-4d1fe78bb293)<br>
 
 ## NodeJS with MongoDB
 - [https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html](https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html)<br>
