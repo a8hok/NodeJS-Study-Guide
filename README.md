@@ -1,4 +1,4 @@
-v# NodeJS Study Guide
+# NodeJS Study Guide
 
 Table of Contents
 =================
