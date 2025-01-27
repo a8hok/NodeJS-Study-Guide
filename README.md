@@ -487,6 +487,7 @@ Table of Contents
 - [https://github.com/alirezanqp/nodejs-backend-roadmap](https://github.com/alirezanqp/nodejs-backend-roadmap)<br>
 - [https://github.com/saifaustcse/nodejs-developer-roadmap](https://github.com/saifaustcse/nodejs-developer-roadmap)<br>
 - [https://github.com/aliyr/Nodejs-Developer-Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap)<br>
+- [https://github.com/DhanushNehru/Ultimate-NodeJs-Resources?ref=dailydev](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources?ref=dailydev)<br>
 
 ## NodeJS youtube
 - [https://www.youtube.com/watch?v=dQV0xzOeGzU](https://www.youtube.com/watch?v=dQV0xzOeGzU)<br>
