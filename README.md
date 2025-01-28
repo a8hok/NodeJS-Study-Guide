@@ -111,6 +111,7 @@ Table of Contents
 - [https://www.youtube.com/playlist?list=PLjFTSVBcNC2q2rxyts8sN4leF2CFrhg1S](https://www.youtube.com/playlist?list=PLjFTSVBcNC2q2rxyts8sN4leF2CFrhg1S)<br>
 - [https://leapcell.io/blog/inside-nodejs-event-loop-deep-dive?ref=dailydev](https://leapcell.io/blog/inside-nodejs-event-loop-deep-dive?ref=dailydev)<br>
 - [https://marvinh.dev/blog/modern-way-to-write-javascript-servers/?ref=dailydev](https://marvinh.dev/blog/modern-way-to-write-javascript-servers/?ref=dailydev)<br>
+- [https://kmcd.dev/posts/grpc-from-scratch/?ref=dailydev](https://kmcd.dev/posts/grpc-from-scratch/?ref=dailydev)<br>
 
 
 ## Coding standards
