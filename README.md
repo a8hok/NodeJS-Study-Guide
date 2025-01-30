@@ -129,6 +129,7 @@ Table of Contents
 - [https://dev.to/encore/nodejs-frameworks-roundup-2024-elysia-hono-nest-encore-which-should-you-pick-19oj?ref=dailydev](https://dev.to/encore/nodejs-frameworks-roundup-2024-elysia-hono-nest-encore-which-should-you-pick-19oj?ref=dailydev)<br>
 - [https://blog.stackademic.com/top-10-backend-frameworks-ranked-the-good-the-bad-and-the-ugly-aa0d06186293](https://blog.stackademic.com/top-10-backend-frameworks-ranked-the-good-the-bad-and-the-ugly-aa0d06186293)<br>
 - [https://leapcell.io/blog/mastering-express-js-deep-dive?ref=dailydev](https://leapcell.io/blog/mastering-express-js-deep-dive?ref=dailydev)<br>
+- [https://nahidulislam11.medium.com/nestjs-vs-express-a-comprehensive-framework-comparison-for-modern-node-js-development-a971c6750701](https://nahidulislam11.medium.com/nestjs-vs-express-a-comprehensive-framework-comparison-for-modern-node-js-development-a971c6750701)<br>
 
 
 ## Performance Optimizations
