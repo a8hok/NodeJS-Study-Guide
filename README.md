@@ -435,6 +435,7 @@ Table of Contents
 - [https://medium.com/neo4j/improving-a-node-js-graphql-server-performance-645a4ae711c3](https://medium.com/neo4j/improving-a-node-js-graphql-server-performance-645a4ae711c3)<br>
 - [https://www.freecodecamp.org/news/graphql-queries-for-everyone/](https://www.freecodecamp.org/news/graphql-queries-for-everyone/)<br>
 - [https://javascript.plainenglish.io/an-introduction-to-federated-graphql-and-wundergraph-cosmo-b802599a338c](https://javascript.plainenglish.io/an-introduction-to-federated-graphql-and-wundergraph-cosmo-b802599a338c)<br>
+- [https://www.youtube.com/watch?v=uH0SxYdsjv4](https://www.youtube.com/watch?v=uH0SxYdsjv4)<br>
 
 ## NodeJS with Redis
 - [https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/](https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/)<br>
