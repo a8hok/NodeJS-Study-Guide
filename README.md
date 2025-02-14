@@ -502,6 +502,7 @@ Table of Contents
 
 ## NodeJS sockets
 - [https://kumneger.vercel.app/blog/server-sent-events-explained](https://kumneger.vercel.app/blog/server-sent-events-explained)<br>
+- [https://composehq.com/blog/scaling-websockets-1-23-25?ref=dailydev](https://composehq.com/blog/scaling-websockets-1-23-25?ref=dailydev)<br>
 
 ## Backend Essientials
 - [https://blog.stackademic.com/essential-skills-every-back-end-developer-needs-4474809e14d0](https://blog.stackademic.com/essential-skills-every-back-end-developer-needs-4474809e14d0)<br>
