@@ -277,6 +277,7 @@ Table of Contents
 - [https://infosecwriteups.com/ssrf-server-side-request-forgery-2865e87efc3](https://infosecwriteups.com/ssrf-server-side-request-forgery-2865e87efc3)<br>
 - [https://amplication.com/blog/understanding-and-preventing-memory-leaks-in-nodejs](https://amplication.com/blog/understanding-and-preventing-memory-leaks-in-nodejs)<br>
 - [https://github.com/goldbergyoni/nodebestpractices?ref=dailydev#readme](https://github.com/goldbergyoni/nodebestpractices?ref=dailydev#readme)<br>
+- [https://medium.com/@akshaykumar12527/unlocking-the-power-of-multithreading-in-node-js-efficient-workloads-without-event-loop-blocking-915caa72de10](https://medium.com/@akshaykumar12527/unlocking-the-power-of-multithreading-in-node-js-efficient-workloads-without-event-loop-blocking-915caa72de10)<br>
 
 
 ## Micro services
