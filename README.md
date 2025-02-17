@@ -144,6 +144,7 @@ Table of Contents
 - [https://dzone.com/articles/nodejs-architectural-gems-and-best-practices-for-d](https://dzone.com/articles/nodejs-architectural-gems-and-best-practices-for-d)<br>
 - [https://tsh.io/blog/simple-guide-concurrency-node-js/](https://tsh.io/blog/simple-guide-concurrency-node-js/)<br>
 - [https://medium.com/javarevisited/optimizing-node-js-performance-tips-and-tricks-4052a0d43f88](https://medium.com/javarevisited/optimizing-node-js-performance-tips-and-tricks-4052a0d43f88)<br>
+- [https://www.netguru.com/blog/node-js-performance?ref=dailydev](https://www.netguru.com/blog/node-js-performance?ref=dailydev)<br>
 
 
 ## Nodejs Architecture
