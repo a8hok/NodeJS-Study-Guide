@@ -404,6 +404,7 @@ Table of Contents
 - [https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-a0261cdf8886](https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-a0261cdf8886)<br>
 - [https://pixel506.com/insights/how-much-traffic-can-nodejs-handle?ref=dailydev](https://pixel506.com/insights/how-much-traffic-can-nodejs-handle?ref=dailydev)<br>
 - [https://blog.openreplay.com/how-to-debug-api-issues-with-jwt-decoders/?ref=dailydev](https://blog.openreplay.com/how-to-debug-api-issues-with-jwt-decoders/?ref=dailydev)<br>
+- [https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-a0261cdf8886](https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-a0261cdf8886)<br>
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
