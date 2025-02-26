@@ -484,6 +484,7 @@ Table of Contents
 - [https://dev.to/bsorrentino/how-to-stream-data-over-http-using-node-and-fetch-api-4ij2?ref=dailydev](https://dev.to/bsorrentino/how-to-stream-data-over-http-using-node-and-fetch-api-4ij2?ref=dailydev)<br>
 - [https://pavel-romanov.com/exploring-the-core-concepts-of-nodejs-readable-streams?ref=dailydev](https://pavel-romanov.com/exploring-the-core-concepts-of-nodejs-readable-streams?ref=dailydev)<br>
 - [https://pavel-romanov.com/writable-streams-in-nodejs-a-practical-guide?ref=dailydev](https://pavel-romanov.com/writable-streams-in-nodejs-a-practical-guide?ref=dailydev)<br>
+- [https://tigerabrodi.blog/understanding-http-responses-and-streams?ref=dailydev](https://tigerabrodi.blog/understanding-http-responses-and-streams?ref=dailydev)<br>
 
 ## NodeJS Serverless
 - [https://www.freecodecamp.org/news/serverless-node-js-tutorial/](https://www.freecodecamp.org/news/serverless-node-js-tutorial/)<br>
