@@ -475,6 +475,7 @@ Table of Contents
 ## NodeJS Queue
 - [https://javascript.plainenglish.io/message-queue-in-nodejs-with-bullmq-and-redis-ec7af00c075](https://javascript.plainenglish.io/message-queue-in-nodejs-with-bullmq-and-redis-ec7af00c075)<br>
 - [https://www.digitalocean.com/community/tutorials/publish-subscribe-pattern-in-node-js?ref=dailydev](https://www.digitalocean.com/community/tutorials/publish-subscribe-pattern-in-node-js?ref=dailydev)<br>
+- [https://medium.com/technology-hits/how-to-use-rabbitmq-for-message-queue-b3af2a0fbe7f](https://medium.com/technology-hits/how-to-use-rabbitmq-for-message-queue-b3af2a0fbe7f)<br>
 
 ## NodeJS library
 - [https://www.freecodecamp.org/news/learn-bun-a-faster-node-js-alternative/?ref=dailydev](https://www.freecodecamp.org/news/learn-bun-a-faster-node-js-alternative/?ref=dailydev)<br>
