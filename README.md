@@ -133,6 +133,7 @@ Table of Contents
 - [https://nahidulislam11.medium.com/nestjs-vs-express-a-comprehensive-framework-comparison-for-modern-node-js-development-a971c6750701](https://nahidulislam11.medium.com/nestjs-vs-express-a-comprehensive-framework-comparison-for-modern-node-js-development-a971c6750701)<br>
 
 
+
 ## Performance Optimizations
 - [https://blog.joshsoftware.com/2021/09/11/performance-optimizations-in-nodejs%F0%9F%92%81/](https://blog.joshsoftware.com/2021/09/11/performance-optimizations-in-nodejs%F0%9F%92%81/)<br>
 - [https://blog.devgenius.io/5-tips-to-speed-up-your-node-js-performance-1166451308b4](https://blog.devgenius.io/5-tips-to-speed-up-your-node-js-performance-1166451308b4)<br>
@@ -163,6 +164,8 @@ Table of Contents
 - [https://medium.com/@manikmudholkar831995/event-loop-in-nodejs-999f6db7eb04](https://medium.com/@manikmudholkar831995/event-loop-in-nodejs-999f6db7eb04)<br>
 - [https://developers.redhat.com/blog/2021/03/08/introduction-to-the-node-js-reference-architecture-part-1-overview?ref=dailydev#](https://developers.redhat.com/blog/2021/03/08/introduction-to-the-node-js-reference-architecture-part-1-overview?ref=dailydev#)<br>
 - [https://www.platformatichq.com/node-principles?ref=dailydev](https://www.platformatichq.com/node-principles?ref=dailydev)<br>
+- [https://medium.com/@hnasr/nodejs-internals-and-architecture-0c3488c3fc49](https://medium.com/@hnasr/nodejs-internals-and-architecture-0c3488c3fc49)<br>
+- []()<br>
 
 
 ## NodeJS with Typescript
