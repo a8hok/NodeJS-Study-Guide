@@ -409,6 +409,7 @@ Table of Contents
 - [https://blog.openreplay.com/how-to-debug-api-issues-with-jwt-decoders/?ref=dailydev](https://blog.openreplay.com/how-to-debug-api-issues-with-jwt-decoders/?ref=dailydev)<br>
 - [https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-a0261cdf8886](https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-a0261cdf8886)<br>
 - [https://leapcell.io/blog/bulletproof-api-design?ref=dailydev](https://leapcell.io/blog/bulletproof-api-design?ref=dailydev)<br>
+- [https://www.netguru.com/blog/how-to-create-an-api?ref=dailydev](https://www.netguru.com/blog/how-to-create-an-api?ref=dailydev)<br>
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
