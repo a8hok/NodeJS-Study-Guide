@@ -508,6 +508,7 @@ Table of Contents
 - [https://github.com/aliyr/Nodejs-Developer-Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap)<br>
 - [https://github.com/DhanushNehru/Ultimate-NodeJs-Resources?ref=dailydev](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources?ref=dailydev)<br>
 - [https://uvaiscodes.blogspot.com/2025/02/github-repositories-to-learn-nodejs.html?ref=dailydev](https://uvaiscodes.blogspot.com/2025/02/github-repositories-to-learn-nodejs.html?ref=dailydev)<br>
+- [https://dev.to/devshefali/11-github-repositories-to-learn-nodejs-4bch?context=digest](https://dev.to/devshefali/11-github-repositories-to-learn-nodejs-4bch?context=digest)<br>
 
 ## NodeJS youtube
 - [https://www.youtube.com/watch?v=dQV0xzOeGzU](https://www.youtube.com/watch?v=dQV0xzOeGzU)<br>
