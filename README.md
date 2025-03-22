@@ -113,6 +113,7 @@ Table of Contents
 - [https://marvinh.dev/blog/modern-way-to-write-javascript-servers/?ref=dailydev](https://marvinh.dev/blog/modern-way-to-write-javascript-servers/?ref=dailydev)<br>
 - [https://kmcd.dev/posts/grpc-from-scratch/?ref=dailydev](https://kmcd.dev/posts/grpc-from-scratch/?ref=dailydev)<br>
 - [https://itnext.io/understanding-cors-4157bf640e11]()https://itnext.io/understanding-cors-4157bf640e11<br>
+- [https://www.youtube.com/watch?v=rOpEN1JDaD0](https://www.youtube.com/watch?v=rOpEN1JDaD0)<br>
 
 
 ## Coding standards
