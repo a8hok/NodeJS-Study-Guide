@@ -530,3 +530,4 @@ Table of Contents
 
 ## Node Ops
 - [https://www.freecodecamp.org/news/containerize-a-nodejs-application-using-docker/?ref=dailydev](https://www.freecodecamp.org/news/containerize-a-nodejs-application-using-docker/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-application-on-aws/?ref=dailydev](https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-application-on-aws/?ref=dailydev)<br>
