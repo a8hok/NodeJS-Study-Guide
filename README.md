@@ -438,6 +438,7 @@ Table of Contents
 - [https://medium.com/@modywmbadr/securing-node-js-in-production-f11822ab20b7](https://medium.com/@modywmbadr/securing-node-js-in-production-f11822ab20ab7)<br>
 - [https://www.toptal.com/nodejs/secure-rest-api-in-nodejs?ref=dailydev](https://www.toptal.com/nodejs/secure-rest-api-in-nodejs?ref=dailydev)<br>
 - [https://leapcell.io/blog/restful-api-principles-design-and-best-practices?ref=dailydev](https://leapcell.io/blog/restful-api-principles-design-and-best-practices?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-harden-your-nodejs-apis-security-best-practices/?ref=dailydev](https://www.freecodecamp.org/news/how-to-harden-your-nodejs-apis-security-best-practices/?ref=dailydev)<br>
 
 ## NodeJS Migration
 - [https://blog.appsignal.com/2023/06/28/migrate-your-express-application-to-fastify.html](https://blog.appsignal.com/2023/06/28/migrate-your-express-application-to-fastify.html)<br>
