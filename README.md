@@ -263,6 +263,7 @@ Table of Contents
 - [https://blog.platformatic.dev/handling-environment-variables-in-nodejs?ref=dailydev](https://blog.platformatic.dev/handling-environment-variables-in-nodejs?ref=dailydev)<br>
 - [https://www.youtube.com/watch?v=I2mWnh66Bkg&t=3s](https://www.youtube.com/watch?v=I2mWnh66Bkg&t=3s)<br>
 - [https://last9.io/blog/node-js-logging-libraries/?ref=dailydev](https://last9.io/blog/node-js-logging-libraries/?ref=dailydev)<br>
+- [https://leapcell.io/blog/nodejs-logging-tools-detailed-analysis-comparison?ref=dailydev](https://leapcell.io/blog/nodejs-logging-tools-detailed-analysis-comparison?ref=dailydev)<br>
 
 ## Nodejs Error Handling
 - [https://blog.logrocket.com/error-handling-node-js/](https://blog.logrocket.com/error-handling-node-js/)<br>
