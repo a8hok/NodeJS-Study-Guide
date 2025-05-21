@@ -149,6 +149,7 @@ Table of Contents
 - [https://medium.com/javarevisited/optimizing-node-js-performance-tips-and-tricks-4052a0d43f88](https://medium.com/javarevisited/optimizing-node-js-performance-tips-and-tricks-4052a0d43f88)<br>
 - [https://www.netguru.com/blog/node-js-performance?ref=dailydev](https://www.netguru.com/blog/node-js-performance?ref=dailydev)<br>
 - [https://dev.to/alisamir/writing-clean-secure-nodejs-apis-a-checklist-youll-actually-use-3loc?ref=dailydev](https://dev.to/alisamir/writing-clean-secure-nodejs-apis-a-checklist-youll-actually-use-3loc?ref=dailydev)<br>
+- [https://itnext.io/performance-benchmark-node-js-vs-go-9dbad158c3b0](https://itnext.io/performance-benchmark-node-js-vs-go-9dbad158c3b0)<br>
 
 
 ## Nodejs Architecture
