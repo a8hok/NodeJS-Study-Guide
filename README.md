@@ -150,6 +150,7 @@ Table of Contents
 - [https://www.netguru.com/blog/node-js-performance?ref=dailydev](https://www.netguru.com/blog/node-js-performance?ref=dailydev)<br>
 - [https://dev.to/alisamir/writing-clean-secure-nodejs-apis-a-checklist-youll-actually-use-3loc?ref=dailydev](https://dev.to/alisamir/writing-clean-secure-nodejs-apis-a-checklist-youll-actually-use-3loc?ref=dailydev)<br>
 - [https://itnext.io/performance-benchmark-node-js-vs-go-9dbad158c3b0](https://itnext.io/performance-benchmark-node-js-vs-go-9dbad158c3b0)<br>
+- [https://blog.platformatic.dev/optimizing-nodejs-performance-v8-memory-management-and-gc-tuning?ref=dailydev](https://blog.platformatic.dev/optimizing-nodejs-performance-v8-memory-management-and-gc-tuning?ref=dailydev)<br>
 
 
 ## Nodejs Architecture
