@@ -355,6 +355,7 @@ Table of Contents
 - [https://medium.com/better-programming/nestjs-the-good-the-bad-and-the-ugly-d51aea04f267](https://medium.com/better-programming/nestjs-the-good-the-bad-and-the-ugly-d51aea04f267)<br>
 - [https://blog.logrocket.com/nestjs-interceptors-guide-use-cases/?ref=dailydev](https://blog.logrocket.com/nestjs-interceptors-guide-use-cases/?ref=dailydev)<br>
 - [https://github.com/andrea-acampora/nestjs-ddd-devops?ref=dailydev](https://github.com/andrea-acampora/nestjs-ddd-devops?ref=dailydev)<br>
+- [https://github.com/OwaliShawon/MicroservicesArchitecture-NestJS-RabbitMQ?ref=dailydev](https://github.com/OwaliShawon/MicroservicesArchitecture-NestJS-RabbitMQ?ref=dailydev)<br>
 
 
 ## NodeJS Unit testing
