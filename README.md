@@ -483,6 +483,7 @@ Table of Contents
 - [https://www.cerbos.dev/blog/role-based-access-control-best-practices?ref=dailydev](https://www.cerbos.dev/blog/role-based-access-control-best-practices?ref=dailydev)<br>
 - [https://medium.com/procedureflow-engineering/building-api-authentication-at-procedureflow-4d1fe78bb293](https://medium.com/procedureflow-engineering/building-api-authentication-at-procedureflow-4d1fe78bb293)<br>
 - [https://www.permit.io/blog/how-to-use-jwts-for-authorization-best-practices-and-common-mistakes?ref=dailydev](https://www.permit.io/blog/how-to-use-jwts-for-authorization-best-practices-and-common-mistakes?ref=dailydev)<br>
+- [https://microservices.io/post/architecture/2025/05/28/microservices-authn-authz-part-2-authentication.html?ref=dailydev](https://microservices.io/post/architecture/2025/05/28/microservices-authn-authz-part-2-authentication.html?ref=dailydev)<br>
 
 ## NodeJS with MongoDB
 - [https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html](https://blog.appsignal.com/2023/08/09/how-to-use-mongodb-and-mongoose-for-nodejs.html)<br>
