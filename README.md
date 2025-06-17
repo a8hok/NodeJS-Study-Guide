@@ -428,6 +428,7 @@ Table of Contents
 - [https://www.netguru.com/blog/how-to-create-an-api?ref=dailydev](https://www.netguru.com/blog/how-to-create-an-api?ref=dailydev)<br>
 - [https://docs.kony.com/konylibrary/visualizer/viz_api_dev_guide/content/language_apis.htm](https://docs.kony.com/konylibrary/visualizer/viz_api_dev_guide/content/language_apis.htm)<br>
 - [https://newsletter.systemdesigncodex.com/p/key-api-design-considerations?ref=dailydev](https://newsletter.systemdesigncodex.com/p/key-api-design-considerations?ref=dailydev)<br>
+- [https://github.blog/security/application-security/localhost-dangers-cors-and-dns-rebinding/?ref=dailydev](https://github.blog/security/application-security/localhost-dangers-cors-and-dns-rebinding/?ref=dailydev)<br>
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
