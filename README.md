@@ -548,6 +548,7 @@ Table of Contents
 ## Node Ops
 - [https://www.freecodecamp.org/news/containerize-a-nodejs-application-using-docker/?ref=dailydev](https://www.freecodecamp.org/news/containerize-a-nodejs-application-using-docker/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-application-on-aws/?ref=dailydev](https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-application-on-aws/?ref=dailydev)<br>
+- [https://dev.to/minima_desk_cd9b151c4e2fb/dockerize-your-nodejs-application-a-step-by-step-guide-iel?context=digest](https://dev.to/minima_desk_cd9b151c4e2fb/dockerize-your-nodejs-application-a-step-by-step-guide-iel?context=digest)<br>
 
 ## NodeJS fullstack
 - [https://hire.jonasgalvez.com.br/2025/apr/9/fastify-speed/?ref=dailydev](https://hire.jonasgalvez.com.br/2025/apr/9/fastify-speed/?ref=dailydev)<br>
