@@ -152,6 +152,7 @@ Table of Contents
 - [https://itnext.io/performance-benchmark-node-js-vs-go-9dbad158c3b0](https://itnext.io/performance-benchmark-node-js-vs-go-9dbad158c3b0)<br>
 - [https://blog.platformatic.dev/optimizing-nodejs-performance-v8-memory-management-and-gc-tuning?ref=dailydev](https://blog.platformatic.dev/optimizing-nodejs-performance-v8-memory-management-and-gc-tuning?ref=dailydev)<br>
 - [https://blog.appsignal.com/2025/06/04/performance-and-stress-testing-in-nodejs.html?ref=dailydev](https://blog.appsignal.com/2025/06/04/performance-and-stress-testing-in-nodejs.html?ref=dailydev)<br>
+- [https://nodevibe.substack.com/p/the-500x-performance-gap-between?ref=dailydev](https://nodevibe.substack.com/p/the-500x-performance-gap-between?ref=dailydev)<br>
 
 
 ## Nodejs Architecture
