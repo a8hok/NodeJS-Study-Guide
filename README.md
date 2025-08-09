@@ -558,3 +558,6 @@ Table of Contents
 
 ## NodeJS fullstack
 - [https://hire.jonasgalvez.com.br/2025/apr/9/fastify-speed/?ref=dailydev](https://hire.jonasgalvez.com.br/2025/apr/9/fastify-speed/?ref=dailydev)<br>
+
+## Nodejs Auth
+- [https://infosecwriteups.com/one-tool-to-rule-jwts-easy-jwt-pentesting-with-jwtauditor-3483b37b01a3](https://infosecwriteups.com/one-tool-to-rule-jwts-easy-jwt-pentesting-with-jwtauditor-3483b37b01a3)<br>
