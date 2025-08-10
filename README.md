@@ -153,6 +153,7 @@ Table of Contents
 - [https://blog.platformatic.dev/optimizing-nodejs-performance-v8-memory-management-and-gc-tuning?ref=dailydev](https://blog.platformatic.dev/optimizing-nodejs-performance-v8-memory-management-and-gc-tuning?ref=dailydev)<br>
 - [https://blog.appsignal.com/2025/06/04/performance-and-stress-testing-in-nodejs.html?ref=dailydev](https://blog.appsignal.com/2025/06/04/performance-and-stress-testing-in-nodejs.html?ref=dailydev)<br>
 - [https://nodevibe.substack.com/p/the-500x-performance-gap-between?ref=dailydev](https://nodevibe.substack.com/p/the-500x-performance-gap-between?ref=dailydev)<br>
+- [https://medium.com/@devharshgupta.com/building-and-implementing-in-memory-cache-in-node-js-using-express-for-optimized-performance-85c41d915a03](https://medium.com/@devharshgupta.com/building-and-implementing-in-memory-cache-in-node-js-using-express-for-optimized-performance-85c41d915a03)<br>
 
 
 ## Nodejs Architecture
