@@ -436,6 +436,7 @@ Table of Contents
 - [https://github.blog/security/application-security/localhost-dangers-cors-and-dns-rebinding/?ref=dailydev](https://github.blog/security/application-security/localhost-dangers-cors-and-dns-rebinding/?ref=dailydev)<br>
 - [https://newsletter.systemdesigncodex.com/p/api-performance-improvement-tips?ref=dailydev](https://newsletter.systemdesigncodex.com/p/api-performance-improvement-tips?ref=dailydev)<br>
 - [https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-e3d59eca10d3](https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-e3d59eca10d3)<br>
+- [https://www.advancedcustomfields.com/blog/rest-api-resource/?ref=dailydev](https://www.advancedcustomfields.com/blog/rest-api-resource/?ref=dailydev)<br>
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
