@@ -568,3 +568,4 @@ Table of Contents
 - [https://infosecwriteups.com/one-tool-to-rule-jwts-easy-jwt-pentesting-with-jwtauditor-3483b37b01a3](https://infosecwriteups.com/one-tool-to-rule-jwts-easy-jwt-pentesting-with-jwtauditor-3483b37b01a3)<br>
 - [https://levelup.gitconnected.com/authentication-explained-when-to-use-basic-bearer-oauth2-jwt-sso-b2418c1af939](https://levelup.gitconnected.com/authentication-explained-when-to-use-basic-bearer-oauth2-jwt-sso-b2418c1af939)<br>
 - [https://app.daily.dev/posts/authentication-explained-when-to-use-basic-bearer-oauth2-jwt-sso-pl23n7lci](https://app.daily.dev/posts/authentication-explained-when-to-use-basic-bearer-oauth2-jwt-sso-pl23n7lci)<br>
+- [https://microservices.io/post/architecture/2025/09/16/microservices-authn-authz-part-4-authorization-using-fetch-and-replicate.html?ref=dailydev](https://microservices.io/post/architecture/2025/09/16/microservices-authn-authz-part-4-authorization-using-fetch-and-replicate.html?ref=dailydev)<br>
