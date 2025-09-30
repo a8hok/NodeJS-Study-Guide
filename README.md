@@ -362,6 +362,7 @@ Table of Contents
 - [https://dev.to/encore/nestjs-vs-encorets-choosing-the-right-framework-for-your-typescript-microservices-1g61?context=digest](https://dev.to/encore/nestjs-vs-encorets-choosing-the-right-framework-for-your-typescript-microservices-1g61?context=digest)<br>
 - [https://www.telerik.com/blogs/learning-nestjs-part-2-connecting-database?ref=dailydev](https://www.telerik.com/blogs/learning-nestjs-part-2-connecting-database?ref=dailydev)<br>
 - [https://leapcell.io/blog/nestjs-2025-backend-developers-worth-it?ref=dailydev](https://leapcell.io/blog/nestjs-2025-backend-developers-worth-it?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/the-nestjs-handbook-learn-to-use-nest-with-code-examples/?ref=dailydev](https://www.freecodecamp.org/news/the-nestjs-handbook-learn-to-use-nest-with-code-examples/?ref=dailydev)<br>
 
 
 ## NodeJS Unit testing
