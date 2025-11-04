@@ -280,6 +280,7 @@ Table of Contents
 - [https://blog.appsignal.com/2023/03/15/how-to-build-an-error-handling-layer-in-nodejs.html](https://blog.appsignal.com/2023/03/15/how-to-build-an-error-handling-layer-in-nodejs.html)<br>
 - [https://blog.openreplay.com/an-introduction-to-debugging-in-nodejs/](https://blog.openreplay.com/an-introduction-to-debugging-in-nodejs/)<br>
 - [https://pprathameshmore.medium.com/error-handing-in-express-js-node-js-based-application-0da14e13fa63](https://pprathameshmore.medium.com/error-handing-in-express-js-node-js-based-application-0da14e13fa63)<br>
+- [https://thetshaped.dev/p/functional-error-handling-in-nodejs-with-the-result-pattern?ref=dailydev](https://thetshaped.dev/p/functional-error-handling-in-nodejs-with-the-result-pattern?ref=dailydev)<br>
 
 ## Tips and tricks
 - [https://javascript.plainenglish.io/node-js-backend-engineers-best-practices-overview-for-beginner-to-advance-caae74b53df](https://javascript.plainenglish.io/node-js-backend-engineers-best-practices-overview-for-beginner-to-advance-caae74b53df)<br>
