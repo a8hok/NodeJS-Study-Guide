@@ -154,6 +154,7 @@ Table of Contents
 - [https://blog.appsignal.com/2025/06/04/performance-and-stress-testing-in-nodejs.html?ref=dailydev](https://blog.appsignal.com/2025/06/04/performance-and-stress-testing-in-nodejs.html?ref=dailydev)<br>
 - [https://nodevibe.substack.com/p/the-500x-performance-gap-between?ref=dailydev](https://nodevibe.substack.com/p/the-500x-performance-gap-between?ref=dailydev)<br>
 - [https://medium.com/@devharshgupta.com/building-and-implementing-in-memory-cache-in-node-js-using-express-for-optimized-performance-85c41d915a03](https://medium.com/@devharshgupta.com/building-and-implementing-in-memory-cache-in-node-js-using-express-for-optimized-performance-85c41d915a03)<br>
+- [https://blogs.halodoc.io/fix-node-js-memory-leaks/?ref=dailydev](https://blogs.halodoc.io/fix-node-js-memory-leaks/?ref=dailydev)<br>
 
 
 ## Nodejs Architecture
