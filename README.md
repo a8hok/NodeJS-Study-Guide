@@ -114,6 +114,7 @@ Table of Contents
 - [https://kmcd.dev/posts/grpc-from-scratch/?ref=dailydev](https://kmcd.dev/posts/grpc-from-scratch/?ref=dailydev)<br>
 - [https://itnext.io/understanding-cors-4157bf640e11]()https://itnext.io/understanding-cors-4157bf640e11<br>
 - [https://www.youtube.com/watch?v=rOpEN1JDaD0](https://www.youtube.com/watch?v=rOpEN1JDaD0)<br>
+- [https://nodevibe.substack.com/p/state-of-quic-in-nodejs?ref=dailydev](https://nodevibe.substack.com/p/state-of-quic-in-nodejs?ref=dailydev)<br>
 
 
 ## Coding standards
