@@ -260,6 +260,7 @@ Table of Contents
 - [https://awstip.com/the-backend-part-of-mnnn-stack-mongodb-nestjs-nextjs-and-nodejs-6bde9adfedd9](https://awstip.com/the-backend-part-of-mnnn-stack-mongodb-nestjs-nextjs-and-nodejs-6bde9adfedd9)<br>
 - [https://www.freecodecamp.org/news/full-stack-project-tutorial-create-a-notes-app-using-react-and-node-js/](https://www.freecodecamp.org/news/full-stack-project-tutorial-create-a-notes-app-using-react-and-node-js/)<br>
 - [https://awstip.com/building-a-scalable-mern-stack-application-on-aws-using-a-three-tier-architecture-0b12dea74713](https://awstip.com/building-a-scalable-mern-stack-application-on-aws-using-a-three-tier-architecture-0b12dea74713)<br>
+- [https://www.youtube.com/watch?v=y7kvxIQQxtQ](https://www.youtube.com/watch?v=y7kvxIQQxtQ)<br>
 
 ## Nodejs with Nginx
 - [https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/](https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/)<br>
