@@ -369,6 +369,7 @@ Table of Contents
 - [https://leapcell.io/blog/nestjs-2025-backend-developers-worth-it?ref=dailydev](https://leapcell.io/blog/nestjs-2025-backend-developers-worth-it?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/the-nestjs-handbook-learn-to-use-nest-with-code-examples/?ref=dailydev](https://www.freecodecamp.org/news/the-nestjs-handbook-learn-to-use-nest-with-code-examples/?ref=dailydev)<br>
 - [https://vercel.com/changelog/zero-configuration-support-for-nestjs?ref=dailydev](https://vercel.com/changelog/zero-configuration-support-for-nestjs?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/?ref=dailydev](https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/?ref=dailydev)<br>
 
 
 ## NodeJS Unit testing
