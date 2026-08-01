@@ -388,6 +388,7 @@ Table of Contents
 - [https://dev.to/wizdomtek/typescript-express-building-robust-apis-with-nodejs-1fln](https://dev.to/wizdomtek/typescript-express-building-robust-apis-with-nodejs-1fln)<br>
 - [https://medium.com/before-semicolon/how-to-setup-a-typescript-nodejs-server-2023-16f3874f2ce5](https://medium.com/before-semicolon/how-to-setup-a-typescript-nodejs-server-2023-16f3874f2ce5)<br>
 - [https://losikov.medium.com/part-1-project-initial-setup-typescript-node-js-31ba3aa7fbf1](https://losikov.medium.com/part-1-project-initial-setup-typescript-node-js-31ba3aa7fbf1)<br>
+- [https://www.freecodecamp.org/news/build-bulletproof-apis-using-typescript-in-express/](https://www.freecodecamp.org/news/build-bulletproof-apis-using-typescript-in-express/)<br>
 
 ## NodeJS best practices
 - [https://systemweakness.com/why-helmet-js-is-essential-for-securing-your-express-js-application-416e0044fc2](https://systemweakness.com/why-helmet-js-is-essential-for-securing-your-express-js-application-416e0044fc2)<br>
@@ -568,7 +569,7 @@ Table of Contents
 ## Backend Essientials
 - [https://blog.stackademic.com/essential-skills-every-back-end-developer-needs-4474809e14d0](https://blog.stackademic.com/essential-skills-every-back-end-developer-needs-4474809e14d0)<br>
 
-## Node Ops
+## NodeJS Ops
 - [https://www.freecodecamp.org/news/containerize-a-nodejs-application-using-docker/?ref=dailydev](https://www.freecodecamp.org/news/containerize-a-nodejs-application-using-docker/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-application-on-aws/?ref=dailydev](https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-application-on-aws/?ref=dailydev)<br>
 - [https://dev.to/minima_desk_cd9b151c4e2fb/dockerize-your-nodejs-application-a-step-by-step-guide-iel?context=digest](https://dev.to/minima_desk_cd9b151c4e2fb/dockerize-your-nodejs-application-a-step-by-step-guide-iel?context=digest)<br>
