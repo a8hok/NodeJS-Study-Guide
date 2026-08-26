@@ -560,6 +560,7 @@ Table of Contents
 ## NodeJS ORM
 - [https://blog.logrocket.com/drizzle-vs-prisma-which-orm-is-best/?ref=dailydev](https://blog.logrocket.com/drizzle-vs-prisma-which-orm-is-best/?ref=dailydev)<br>
 - [https://blog.appsignal.com/2025/06/11/using-sql-in-nodejs-with-sequelize.html?ref=dailydev](https://blog.appsignal.com/2025/06/11/using-sql-in-nodejs-with-sequelize.html?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod?via=dailydev](https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod?via=dailydev)<br>
 
 ## NodeJS sockets
 - [https://kumneger.vercel.app/blog/server-sent-events-explained](https://kumneger.vercel.app/blog/server-sent-events-explained)<br>
