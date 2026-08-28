@@ -157,6 +157,7 @@ Table of Contents
 - [https://nodevibe.substack.com/p/the-500x-performance-gap-between?ref=dailydev](https://nodevibe.substack.com/p/the-500x-performance-gap-between?ref=dailydev)<br>
 - [https://medium.com/@devharshgupta.com/building-and-implementing-in-memory-cache-in-node-js-using-express-for-optimized-performance-85c41d915a03](https://medium.com/@devharshgupta.com/building-and-implementing-in-memory-cache-in-node-js-using-express-for-optimized-performance-85c41d915a03)<br>
 - [https://blogs.halodoc.io/fix-node-js-memory-leaks/?ref=dailydev](https://blogs.halodoc.io/fix-node-js-memory-leaks/?ref=dailydev)<br>
+- [https://blog.devgenius.io/how-i-handled-5gb-file-uploads-without-breaking-my-node-js-server-a3713615bbec](https://blog.devgenius.io/how-i-handled-5gb-file-uploads-without-breaking-my-node-js-server-a3713615bbec)<br>
 
 
 ## Nodejs Architecture
