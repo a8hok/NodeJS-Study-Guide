@@ -451,6 +451,7 @@ Table of Contents
 - [https://newsletter.systemdesign.one/p/best-practices-for-api-design?ref=dailydev](https://newsletter.systemdesign.one/p/best-practices-for-api-design?ref=dailydev)<br>
 - [https://thetshaped.dev/p/dependency-injection-in-nodejs-and-typescript-dependency-inversion-part-no-body-teaches-you?ref=dailydev](https://thetshaped.dev/p/dependency-injection-in-nodejs-and-typescript-dependency-inversion-part-no-body-teaches-you?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/service-to-service-communication-when-to-use-rest-grpc-and-event-driven-messaging/](https://www.freecodecamp.org/news/service-to-service-communication-when-to-use-rest-grpc-and-event-driven-messaging/)<br>
+- [https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/](https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/)<br>
 
 ## Package Manager
 - [https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/](https://howtocrackit.com/pnpm-vs-npm-and-yarn-why-you-should-switch-and-how-to-do-it/)<br>
