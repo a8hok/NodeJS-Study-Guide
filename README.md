@@ -246,6 +246,7 @@ Table of Contents
 - [https://www.sitepoint.com/sending-email-using-node-js/?ref=dailydev](https://www.sitepoint.com/sending-email-using-node-js/?ref=dailydev)<br>
 - [https://dev.to/silentwatcher_95/legendary-emails-in-node-js-with-mjml-4gp9?ref=dailydev](https://dev.to/silentwatcher_95/legendary-emails-in-node-js-with-mjml-4gp9?ref=dailydev)<br>
 - [https://github.com/JawherKl/graphql-nodejs-ecom?ref=dailydev](https://github.com/JawherKl/graphql-nodejs-ecom?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/saas-payment-flow-stripe-webhooks-email/](https://www.freecodecamp.org/news/saas-payment-flow-stripe-webhooks-email/)<br>
 
 ## MERN
 - [https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98](https://dev.to/crackingdemon/register-and-login-system-in-mern-stack-1n98)<br>
